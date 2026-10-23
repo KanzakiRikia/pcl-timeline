@@ -1,0 +1,261 @@
+{
+  "_snapshot_meta": {
+    "source": "https://api.github.com/repos/Meloong-Git/PCL/commits/6b9a50df911c9d68b69b24c979efba477fb14b67",
+    "label": "2.99.0.0 release (packaging)",
+    "note": "GitHub REST API raw response, unmodified. Retrieved via server-side fetch."
+  },
+  "response": {
+    "sha": "6b9a50df911c9d68b69b24c979efba477fb14b67",
+    "node_id": "C_kwDOHuHqvtoAKDZiOWE1MGRmOTExYzlkNjhiNjliMjRjOTc5ZWZiYTQ3N2ZiMTRiNjc",
+    "commit": {
+      "author": {
+        "name": "LTCat",
+        "email": "1043137532@qq.com",
+        "date": "2026-10-20T06:51:42Z"
+      },
+      "committer": {
+        "name": "LTCat",
+        "email": "1043137532@qq.com",
+        "date": "2026-10-20T06:51:42Z"
+      },
+      "message": "2.99.0.0 正式版",
+      "tree": {
+        "sha": "a83ceda7cbcfdd81a4506f921f736a11e28585da",
+        "url": "https://api.github.com/repos/Meloong-Git/PCL/git/trees/a83ceda7cbcfdd81a4506f921f736a11e28585da"
+      },
+      "url": "https://api.github.com/repos/Meloong-Git/PCL/git/commits/6b9a50df911c9d68b69b24c979efba477fb14b67",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN SSH SIGNATURE-----\nU1NIU0lHAAAAAQAAADMAAAALc3NoLWVkMjU1MTkAAAAgB9D1/ixv/AaoJ64uRCitpuuj6p\nN2NW0uNIu8nJHAuYcAAAADZ2l0AAAAAAAAAAZzaGE1MTIAAABTAAAAC3NzaC1lZDI1NTE5\nAAAAQKASrVs1QseFU3CE42qD9/NT9EbOk01ymw7FcQslxNZrwAivfw/A5MHbVXEDm8n2p7\naYRDjHwJN+u3p613SOUg8=\n-----END SSH SIGNATURE-----",
+        "payload": "tree a83ceda7cbcfdd81a4506f921f736a11e28585da\nparent e4b0489a22cfd4bc57a18fc1e2ac66d5c18e7fc1\nauthor LTCat <1043137532@qq.com> 1792479102 +0800\ncommitter LTCat <1043137532@qq.com> 1792479102 +0800\n\n2.99.0.0 正式版\n",
+        "verified_at": "2026-10-20T06:51:49Z"
+      }
+    },
+    "url": "https://api.github.com/repos/Meloong-Git/PCL/commits/6b9a50df911c9d68b69b24c979efba477fb14b67",
+    "html_url": "https://github.com/Meloong-Git/PCL/commit/6b9a50df911c9d68b69b24c979efba477fb14b67",
+    "comments_url": "https://api.github.com/repos/Meloong-Git/PCL/commits/6b9a50df911c9d68b69b24c979efba477fb14b67/comments",
+    "author": {
+      "login": "LTCatt",
+      "id": 40348278,
+      "node_id": "MDQ6VXNlcjQwMzQ4Mjc4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40348278?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/LTCatt",
+      "html_url": "https://github.com/LTCatt",
+      "followers_url": "https://api.github.com/users/LTCatt/followers",
+      "following_url": "https://api.github.com/users/LTCatt/following{/other_user}",
+      "gists_url": "https://api.github.com/users/LTCatt/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/LTCatt/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/LTCatt/subscriptions",
+      "organizations_url": "https://api.github.com/users/LTCatt/orgs",
+      "repos_url": "https://api.github.com/users/LTCatt/repos",
+      "events_url": "https://api.github.com/users/LTCatt/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/LTCatt/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "LTCatt",
+      "id": 40348278,
+      "node_id": "MDQ6VXNlcjQwMzQ4Mjc4",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40348278?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/LTCatt",
+      "html_url": "https://github.com/LTCatt",
+      "followers_url": "https://api.github.com/users/LTCatt/followers",
+      "following_url": "https://api.github.com/users/LTCatt/following{/other_user}",
+      "gists_url": "https://api.github.com/users/LTCatt/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/LTCatt/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/LTCatt/subscriptions",
+      "organizations_url": "https://api.github.com/users/LTCatt/orgs",
+      "repos_url": "https://api.github.com/users/LTCatt/repos",
+      "events_url": "https://api.github.com/users/LTCatt/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/LTCatt/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "e4b0489a22cfd4bc57a18fc1e2ac66d5c18e7fc1",
+        "url": "https://api.github.com/repos/Meloong-Git/PCL/commits/e4b0489a22cfd4bc57a18fc1e2ac66d5c18e7fc1",
+        "html_url": "https://github.com/Meloong-Git/PCL/commit/e4b0489a22cfd4bc57a18fc1e2ac66d5c18e7fc1"
+      }
+    ],
+    "stats": {
+      "total": 0,
+      "additions": 0,
+      "deletions": 0
+    },
+    "files": [
+      {
+        "sha": "66da0e7a7570bc1bf737265fad531b1d00b7dc81",
+        "filename": "patches/Release 2.12.6.1 9a121b67d985e547b3e91efab989cb37.patch",
+        "status": "modified",
+        "additions": 0,
+        "deletions": 0,
+        "changes": 0,
+        "blob_url": "https://github.com/Meloong-Git/PCL/blob/6b9a50df911c9d68b69b24c979efba477fb14b67/patches%2FRelease%202.12.6.1%209a121b67d985e547b3e91efab989cb37.patch",
+        "raw_url": "https://github.com/Meloong-Git/PCL/raw/6b9a50df911c9d68b69b24c979efba477fb14b67/patches%2FRelease%202.12.6.1%209a121b67d985e547b3e91efab989cb37.patch",
+        "contents_url": "https://api.github.com/repos/Meloong-Git/PCL/contents/patches%2FRelease%202.12.6.1%209a121b67d985e547b3e91efab989cb37.patch?ref=6b9a50df911c9d68b69b24c979efba477fb14b67"
+      },
+      {
+        "sha": "9336ee595f426905d0746ead1dfe7a7e0573973e",
+        "filename": "patches/Release 2.12.6.2 92886839e678a82edf4d0eb44de79e7b.patch",
+        "status": "modified",
+        "additions": 0,
+        "deletions": 0,
+        "changes": 0,
+        "blob_url": "https://github.com/Meloong-Git/PCL/blob/6b9a50df911c9d68b69b24c979efba477fb14b67/patches%2FRelease%202.12.6.2%2092886839e678a82edf4d0eb44de79e7b.patch",
+        "raw_url": "https://github.com/Meloong-Git/PCL/raw/6b9a50df911c9d68b69b24c979efba477fb14b67/patches%2FRelease%202.12.6.2%2092886839e678a82edf4d0eb44de79e7b.patch",
+        "contents_url": "https://api.github.com/repos/Meloong-Git/PCL/contents/patches%2FRelease%202.12.6.2%2092886839e678a82edf4d0eb44de79e7b.patch?ref=6b9a50df911c9d68b69b24c979efba477fb14b67"
+      },
+      {
+        "sha": "83bed6c5b53a2811eb466268fe873ffc766e2c52",
+        "filename": "patches/Release 2.12.7.0 59bd8d9e0fca84018f1de85eb475de72.patch",
+        "status": "modified",
+        "additions": 0,
+        "deletions": 0,
+        "changes": 0,
+        "blob_url": "https://github.com/Meloong-Git/PCL/blob/6b9a50df911c9d68b69b24c979efba477fb14b67/patches%2FRelease%202.12.7.0%2059bd8d9e0fca84018f1de85eb475de72.patch",
+        "raw_url": "https://github.com/Meloong-Git/PCL/raw/6b9a50df911c9d68b69b24c979efba477fb14b67/patches%2FRelease%202.12.7.0%2059bd8d9e0fca84018f1de85eb475de72.patch",
+        "contents_url": "https://api.github.com/repos/Meloong-Git/PCL/contents/patches%2FRelease%202.12.7.0%2059bd8d9e0fca84018f1de85eb475de72.patch?ref=6b9a50df911c9d68b69b24c979efba477fb14b67"
+      },
+      {
+        "sha": "981c70d28089b5e5c21aebeb6b43436aa2b2d62a",
+        "filename": "patches/Release 2.12.7.1 2f8e93f0f5a6fe1196bcff57e72ce846.patch",
+        "status": "modified",
+        "additions": 0,
+        "deletions": 0,
+        "changes": 0,
+        "blob_url": "https://github.com/Meloong-Git/PCL/blob/6b9a50df911c9d68b69b24c979efba477fb14b67/patches%2FRelease%202.12.7.1%202f8e93f0f5a6fe1196bcff57e72ce846.patch",
+        "raw_url": "https://github.com/Meloong-Git/PCL/raw/6b9a50df911c9d68b69b24c979efba477fb14b67/patches%2FRelease%202.12.7.1%202f8e93f0f5a6fe1196bcff57e72ce846.patch",
+        "contents_url": "https://api.github.com/repos/Meloong-Git/PCL/contents/patches%2FRelease%202.12.7.1%202f8e93f0f5a6fe1196bcff57e72ce846.patch?ref=6b9a50df911c9d68b69b24c979efba477fb14b67"
+      },
+      {
+        "sha": "40a4f69fc985376f2a808f77ae973ca33adc3a93",
+        "filename": "patches/Release 2.12.7.2 f98967def1023f767826c8e091a929ad.patch",
+        "status": "modified",
+        "additions": 0,
+        "deletions": 0,
+        "changes": 0,
+        "blob_url": "https://github.com/Meloong-Git/PCL/blob/6b9a50df911c9d68b69b24c979efba477fb14b67/patches%2FRelease%202.12.7.2%20f98967def1023f767826c8e091a929ad.patch",
+        "raw_url": "https://github.com/Meloong-Git/PCL/raw/6b9a50df911c9d68b69b24c979efba477fb14b67/patches%2FRelease%202.12.7.2%20f98967def1023f767826c8e091a929ad.patch",
+        "contents_url": "https://api.github.com/repos/Meloong-Git/PCL/contents/patches%2FRelease%202.12.7.2%20f98967def1023f767826c8e091a929ad.patch?ref=6b9a50df911c9d68b69b24c979efba477fb14b67"
+      },
+      {
+        "sha": "9d1f3d28759e2c1aeb2ac5a232b41074ee571978",
+        "filename": "patches/Release 2.12.7.3 be51f8b75323affbcd0019bdc338e860.patch",
+        "status": "modified",
+        "additions": 0,
+        "deletions": 0,
+        "changes": 0,
+        "blob_url": "https://github.com/Meloong-Git/PCL/blob/6b9a50df911c9d68b69b24c979efba477fb14b67/patches%2FRelease%202.12.7.3%20be51f8b75323affbcd0019bdc338e860.patch",
+        "raw_url": "https://github.com/Meloong-Git/PCL/raw/6b9a50df911c9d68b69b24c979efba477fb14b67/patches%2FRelease%202.12.7.3%20be51f8b75323affbcd0019bdc338e860.patch",
+        "contents_url": "https://api.github.com/repos/Meloong-Git/PCL/contents/patches%2FRelease%202.12.7.3%20be51f8b75323affbcd0019bdc338e860.patch?ref=6b9a50df911c9d68b69b24c979efba477fb14b67"
+      },
+      {
+        "sha": "97558efcef4a62d98c2945447044763d9ef2698c",
+        "filename": "patches/Release 2.12.8.0 4fe696b473f51336787769f9f7d1f64b.patch",
+        "status": "modified",
+        "additions": 0,
+        "deletions": 0,
+        "changes": 0,
+        "blob_url": "https://github.com/Meloong-Git/PCL/blob/6b9a50df911c9d68b69b24c979efba477fb14b67/patches%2FRelease%202.12.8.0%204fe696b473f51336787769f9f7d1f64b.patch",
+        "raw_url": "https://github.com/Meloong-Git/PCL/raw/6b9a50df911c9d68b69b24c979efba477fb14b67/patches%2FRelease%202.12.8.0%204fe696b473f51336787769f9f7d1f64b.patch",
+        "contents_url": "https://api.github.com/repos/Meloong-Git/PCL/contents/patches%2FRelease%202.12.8.0%204fe696b473f51336787769f9f7d1f64b.patch?ref=6b9a50df911c9d68b69b24c979efba477fb14b67"
+      },
+      {
+        "sha": "c4a45acaa80b08f60fa6c0370ac86a022ca01e53",
+        "filename": "patches/Release 2.12.8.1 f9ea50a2f833f5c9ac962cfea2a9a119.patch",
+        "status": "modified",
+        "additions": 0,
+        "deletions": 0,
+        "changes": 0,
+        "blob_url": "https://github.com/Meloong-Git/PCL/blob/6b9a50df911c9d68b69b24c979efba477fb14b67/patches%2FRelease%202.12.8.1%20f9ea50a2f833f5c9ac962cfea2a9a119.patch",
+        "raw_url": "https://github.com/Meloong-Git/PCL/raw/6b9a50df911c9d68b69b24c979efba477fb14b67/patches%2FRelease%202.12.8.1%20f9ea50a2f833f5c9ac962cfea2a9a119.patch",
+        "contents_url": "https://api.github.com/repos/Meloong-Git/PCL/contents/patches%2FRelease%202.12.8.1%20f9ea50a2f833f5c9ac962cfea2a9a119.patch?ref=6b9a50df911c9d68b69b24c979efba477fb14b67"
+      },
+      {
+        "sha": "6fc205d826675f22d6f48661a699918334681a68",
+        "filename": "patches/Release 2.12.8.2 6765e08a37c1ee3fff49c529769ab1c9.patch",
+        "status": "modified",
+        "additions": 0,
+        "deletions": 0,
+        "changes": 0,
+        "blob_url": "https://github.com/Meloong-Git/PCL/blob/6b9a50df911c9d68b69b24c979efba477fb14b67/patches%2FRelease%202.12.8.2%206765e08a37c1ee3fff49c529769ab1c9.patch",
+        "raw_url": "https://github.com/Meloong-Git/PCL/raw/6b9a50df911c9d68b69b24c979efba477fb14b67/patches%2FRelease%202.12.8.2%206765e08a37c1ee3fff49c529769ab1c9.patch",
+        "contents_url": "https://api.github.com/repos/Meloong-Git/PCL/contents/patches%2FRelease%202.12.8.2%206765e08a37c1ee3fff49c529769ab1c9.patch?ref=6b9a50df911c9d68b69b24c979efba477fb14b67"
+      },
+      {
+        "sha": "1db0d860fce05c38c94d7c3031fed3f55599693a",
+        "filename": "patches/Release 2.13.0.0 7fd5ff082ec9c6b74a6e9bfa322df201.patch",
+        "status": "modified",
+        "additions": 0,
+        "deletions": 0,
+        "changes": 0,
+        "blob_url": "https://github.com/Meloong-Git/PCL/blob/6b9a50df911c9d68b69b24c979efba477fb14b67/patches%2FRelease%202.13.0.0%207fd5ff082ec9c6b74a6e9bfa322df201.patch",
+        "raw_url": "https://github.com/Meloong-Git/PCL/raw/6b9a50df911c9d68b69b24c979efba477fb14b67/patches%2FRelease%202.13.0.0%207fd5ff082ec9c6b74a6e9bfa322df201.patch",
+        "contents_url": "https://api.github.com/repos/Meloong-Git/PCL/contents/patches%2FRelease%202.13.0.0%207fd5ff082ec9c6b74a6e9bfa322df201.patch?ref=6b9a50df911c9d68b69b24c979efba477fb14b67"
+      },
+      {
+        "sha": "026ba0ee11565cf361aabd8bafab9f7f036f8420",
+        "filename": "patches/Release 2.13.0.1 d6c01f1f3f61ef154d6fc9434d54c317.patch",
+        "status": "modified",
+        "additions": 0,
+        "deletions": 0,
+        "changes": 0,
+        "blob_url": "https://github.com/Meloong-Git/PCL/blob/6b9a50df911c9d68b69b24c979efba477fb14b67/patches%2FRelease%202.13.0.1%20d6c01f1f3f61ef154d6fc9434d54c317.patch",
+        "raw_url": "https://github.com/Meloong-Git/PCL/raw/6b9a50df911c9d68b69b24c979efba477fb14b67/patches%2FRelease%202.13.0.1%20d6c01f1f3f61ef154d6fc9434d54c317.patch",
+        "contents_url": "https://api.github.com/repos/Meloong-Git/PCL/contents/patches%2FRelease%202.13.0.1%20d6c01f1f3f61ef154d6fc9434d54c317.patch?ref=6b9a50df911c9d68b69b24c979efba477fb14b67"
+      },
+      {
+        "sha": "d31f10cb696889139a088108a166b6871b1c0003",
+        "filename": "patches/Release 2.13.1.0 990779b7579b7758d346e0da499e94c4.patch",
+        "status": "modified",
+        "additions": 0,
+        "deletions": 0,
+        "changes": 0,
+        "blob_url": "https://github.com/Meloong-Git/PCL/blob/6b9a50df911c9d68b69b24c979efba477fb14b67/patches%2FRelease%202.13.1.0%20990779b7579b7758d346e0da499e94c4.patch",
+        "raw_url": "https://github.com/Meloong-Git/PCL/raw/6b9a50df911c9d68b69b24c979efba477fb14b67/patches%2FRelease%202.13.1.0%20990779b7579b7758d346e0da499e94c4.patch",
+        "contents_url": "https://api.github.com/repos/Meloong-Git/PCL/contents/patches%2FRelease%202.13.1.0%20990779b7579b7758d346e0da499e94c4.patch?ref=6b9a50df911c9d68b69b24c979efba477fb14b67"
+      },
+      {
+        "sha": "26319d77a0e6a76f14a46daad1915cb38a79b85d",
+        "filename": "patches/Release 2.13.1.1 51b1ac71057aabfedda225884eda1c23.patch",
+        "status": "modified",
+        "additions": 0,
+        "deletions": 0,
+        "changes": 0,
+        "blob_url": "https://github.com/Meloong-Git/PCL/blob/6b9a50df911c9d68b69b24c979efba477fb14b67/patches%2FRelease%202.13.1.1%2051b1ac71057aabfedda225884eda1c23.patch",
+        "raw_url": "https://github.com/Meloong-Git/PCL/raw/6b9a50df911c9d68b69b24c979efba477fb14b67/patches%2FRelease%202.13.1.1%2051b1ac71057aabfedda225884eda1c23.patch",
+        "contents_url": "https://api.github.com/repos/Meloong-Git/PCL/contents/patches%2FRelease%202.13.1.1%2051b1ac71057aabfedda225884eda1c23.patch?ref=6b9a50df911c9d68b69b24c979efba477fb14b67"
+      },
+      {
+        "sha": "6ed8fb11d77c29c7354ec947582b065f8ff3666d",
+        "filename": "patches/Release 2.14.0.0 b0756ee600d34b93dc841e0f2ca00096.patch",
+        "status": "added",
+        "additions": 0,
+        "deletions": 0,
+        "changes": 0,
+        "blob_url": "https://github.com/Meloong-Git/PCL/blob/6b9a50df911c9d68b69b24c979efba477fb14b67/patches%2FRelease%202.14.0.0%20b0756ee600d34b93dc841e0f2ca00096.patch",
+        "raw_url": "https://github.com/Meloong-Git/PCL/raw/6b9a50df911c9d68b69b24c979efba477fb14b67/patches%2FRelease%202.14.0.0%20b0756ee600d34b93dc841e0f2ca00096.patch",
+        "contents_url": "https://api.github.com/repos/Meloong-Git/PCL/contents/patches%2FRelease%202.14.0.0%20b0756ee600d34b93dc841e0f2ca00096.patch?ref=6b9a50df911c9d68b69b24c979efba477fb14b67"
+      },
+      {
+        "sha": "52843e0ba1c97a888630be8326fbc5a132157ccc",
+        "filename": "最新正式版.zip",
+        "status": "modified",
+        "additions": 0,
+        "deletions": 0,
+        "changes": 0,
+        "blob_url": "https://github.com/Meloong-Git/PCL/blob/6b9a50df911c9d68b69b24c979efba477fb14b67/%E6%9C%80%E6%96%B0%E6%AD%A3%E5%BC%8F%E7%89%88.zip",
+        "raw_url": "https://github.com/Meloong-Git/PCL/raw/6b9a50df911c9d68b69b24c979efba477fb14b67/%E6%9C%80%E6%96%B0%E6%AD%A3%E5%BC%8F%E7%89%88.zip",
+        "contents_url": "https://api.github.com/repos/Meloong-Git/PCL/contents/%E6%9C%80%E6%96%B0%E6%AD%A3%E5%BC%8F%E7%89%88.zip?ref=6b9a50df911c9d68b69b24c979efba477fb14b67"
+      }
+    ]
+  }
+}

@@ -13,8 +13,10 @@
 snapshots/
   api/
     BV1fuCQBJEYA.json    ← B 站视频详情接口原始返回
-    BV1yonw6eEwC.json
     ...
+  github/
+    e4b0489a22cf.json    ← PCL 2.99.0.0 源码提交（10 文件，+79 −302）
+    6b9a50df911c.json    ← PCL 2.99.0.0 打包提交（15 个 patch，无源码变动）
   README.md              ← 本文件
 ```
 
@@ -87,7 +89,30 @@ Invoke-RestMethod `
 | **攻击事件报道** | BV1UPns6uEvK、BV1XHnx61EMA |
 | **商业机构投稿** | BV1nCnA6AEYB（外星仔加速器，1,248,043 播放） |
 
-**合计 48 个快照。全部为匿名拓取（不依赖登录、不带 Cookie）。**
+**合计 48 个快照。全部为匿名抓取（不依赖登录、不带 Cookie）。**
+
+---
+
+## GitHub 快照
+
+`snapshots/github/` 保存的是 PCL 仓库两次提交的 API 原始返回。
+
+| 文件 | 提交 | 时间（UTC） | 内容 |
+|---|---|---|---|
+| `e4b0489a22cf.json` | `e4b0489a22cf` | 2026-10-20 06:33:23 | **源码改动**，10 个文件，+79 −302 |
+| `6b9a50df911c.json` | `6b9a50df911c` | 2026-10-20 06:51:42 | 打包发布，15 个 patch 文件，无源码变动 |
+
+**这两个快照是全文唯一可以直接核对代码的部分。**
+`files[].patch` 字段包含完整 diff，未被删减。
+
+抓取方式：
+
+```
+https://api.github.com/repos/Meloong-Git/PCL/commits/{SHA}
+```
+
+注：`api.github.com` 在中国大陆可能因 SNI 阻断无法直连。
+本快照是通过服务端抓取获取的，与直连结果一致。
 
 ---
 

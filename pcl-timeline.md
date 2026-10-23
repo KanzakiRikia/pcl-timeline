@@ -206,6 +206,77 @@ TOP12 合计约 6,475 万次，**占总请求数约 3.0%**；余下 97% 分散�
 **关于恶意样本**：记录者观察到上述分发中已存在携带恶意代码的版本，
 但**样本哈希、文件构成、最早发布者均未留存**，见第六章第 13 条。
 
+### 3.5 2.99.0.0 的实际改动（Git diff，可独立核对）
+
+本节是全文唯一一个**不依赖任何截图、不需要任何人证**的部分。
+全部改动都在公开仓库里，任何人可以自己拉下来比对。
+
+**提交 `e4b0489a22cfd4bc57a18fc1e2ac66d5c18e7fc1`　「2.99.0.0」**
+**时间：2026-10-20 14:33:23（北京时间）**
+**改动：10 个文件，+79 −302 行**
+
+| 文件 | 改动 | 内容 |
+|---|---|---|
+| `Modules/ModSecret.vb` | **+1 −0** | **新增一行** `Public Const RestrictMcDownload As Boolean = True` |
+| `Pages/PageDownload/PageDownloadInstall.xaml.vb` | +5 −1 | 加载任务替换为直接抛异常 |
+| `Modules/Minecraft/ModModpack.vb` | +5 −0 | 整合包安装入口与执行处各加一次判断 |
+| `FormMain.xaml.vb` | +12 −2 | 捕获该异常并提示；新增 2 条更新日志 |
+| `My Project/AssemblyInfo.vb` | +2 −2 | 版本号（确定，见下方更新日志） |
+| `Modules/Base/ModBase.vb` | +3 −3 | — |
+| `Pages/PageDownload/PageDownloadModify.vb` | +1 −1 | — |
+| `Pages/PageDownload/Resource/PageDownloadCompDetail.xaml.vb` | +1 −1 | — |
+| `Pages/PageOther/PageOtherAbout.xaml` | +48 −291 | 赞助者名单排版压缩（**仅格式重排，无内容删减**） |
+| `MeloongCore` | +1 −1 | 子模块指针 |
+
+**关键代码：`ModSecret.vb` 的全文新增只有这一行**
+
+```vb
+Public Const RestrictMcDownload As Boolean = True
+```
+
+**该常量的引用（共 4 处，均在下载与整合包入口）**
+
+```vb
+' PageDownloadInstall.xaml.vb
+If RestrictMcDownload Then
+    PageLoaderInit(..., New LoaderTask(Of String, DlClientListResult)("关闭下载",
+        Sub() Throw New Exception("为遵守相关法律法规，PCL 暂时不再提供 MC 下载功能，非常抱歉 qwq……")), ...)
+Else
+    PageLoaderInit(..., DlClientListResult, ...)
+End If
+
+' ModModpack.vb
+Public Sub ModpackInstall()
+    If RestrictMcDownload Then
+        Hint("为遵守相关法律法规，PCL 暂时不再提供 MC 下载功能，非常抱歉 qwq……", HintType.Red)
+        Return
+    End If
+```
+
+**同一次提交里的更新日志（`FormMain.xaml.vb`）**
+
+```vb
+If LastVersion < 413 Then 'Release 2.99.0.0
+    FeatureList.Add(New KeyValuePair(Of Integer, String)(5,
+        "删除：为遵守相关法律法规，PCL 暂时不再提供 MC 下载功能，非常抱歉 qwq……"))
+End If
+```
+
+**三点可核对的事实**
+
+1. `RestrictMcDownload` 声明为 **`Const`**，即**编译期常量**。
+   它的值在编译时写死进程序，**不经过任何网络请求，无法由服务端修改**。
+2. 该常量的全部作用是：在「下载 Minecraft」与「安装整合包」两个入口
+   **直接抛出一条提示并返回**。
+   **本次提交的 10 个文件中，无任何读取用户数据、上传、执行远程指令的代码。**
+3. 本次提交的完整 diff 可在
+   `github.com/Meloong-Git/PCL/commit/e4b0489a22cf` 查看。
+
+**此后的打包提交 `6b9a50df911c`（「2.99.0.0 正式版」14:51:42）
+只改动了 15 个 `patches/*.patch` 与 `最新正式版.zip`，无源码变动。**
+
+**本文不对「云控」一词的定义作评价，也不推断任何发布者的主观意图。以上仅为代码事实。**
+
 ---
 
 ## 四、产品与运营事实（可验证）
@@ -287,7 +358,9 @@ TOP12 合计约 6,475 万次，**占总请求数约 3.0%**；余下 97% 分散�
     但**整改通知本身没有公开时间点**，故无法比较先后。
 13. 2026-10-20 至 10-23 间伪造版本的完整分发清单、样本哈希、最早发布者。
 14. 上述伪造版本与 2026-10-22 攻击之间是否存在关联。
-15. 2026-10-20 加「禁止下载 Minecraft」开关的那次提交，其 commit hash 与提交时间。
+15. `patches/*.patch` 文件的实际内容。
+    2.99.0.0 的源码改动已确认（见 3.5），
+    但后续打包提交中的 patch 为二进制／加密格式，**其内部改动未逐行核对**。
 
 **原则**：本文不含一条「因此可以推断」的句子。所有跨条目关系由读者自行判断。
 
@@ -310,6 +383,12 @@ TOP12 合计约 6,475 万次，**占总请求数约 3.0%**；余下 97% 分散�
 
 单点关注关系 https://api.bilibili.com/x/relation?vmid={源MID}&fid={目标MID}
            → data.attribute：0 未关注 / 2 已关注 / 6 互关
+
+Git 提交    https://api.github.com/repos/Meloong-Git/PCL/commits/{SHA}
+           → commit.author.date、commit.message
+           → files[].filename / .additions / .deletions / .patch（完整 diff）
+           网页版：github.com/Meloong-Git/PCL/commit/{SHA}
+           → 注：github.com 与 api.github.com 在中国大陆可能因 SNI 阻断无法直连
 ```
 
 **已知限制**
@@ -318,6 +397,9 @@ TOP12 合计约 6,475 万次，**占总请求数约 3.0%**；余下 97% 分散�
 - 关注列表对外部访问者硬上限 100 条，无法取全。
 - 匿名状态下评论区接口仅返回 3 条热评；登录态可返回 20–30 条。
 - 播放数、评论数、点赞数均随时间变化。
+- **3.5 节的 Git diff 是全文唯一不需要代理以外任何前置条件就能核对的证据**：
+  拿到 commit 的 `files[].patch` 就是全部改动，不存在被删减的余地。
+  但它也仅能证明「这次提交改了什么」，**不能证明此后的 patch 文件里没有别的改动**（见第六章第 15 条）。
 
 **本文未采用**：任何截图以外的口述信息、任何私信内容、任何未经公开渠道发布的材料。
 
