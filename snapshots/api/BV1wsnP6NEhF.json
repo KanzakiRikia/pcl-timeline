@@ -1,0 +1,1229 @@
+{
+  "_snapshot_meta": {
+    "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1wsnP6NEhF",
+    "fetched_at": "2026-10-23 15:24:43",
+    "note": "Bilibili public API raw response, unmodified"
+  },
+  "response": {
+    "code": 0,
+    "message": "OK",
+    "ttl": 1,
+    "data": {
+      "bvid": "BV1wsnP6NEhF",
+      "aid": 117472858476679,
+      "videos": 1,
+      "tid": 65,
+      "tid_v2": 2078,
+      "tname": "",
+      "tname_v2": "",
+      "copyright": 3,
+      "pic": "http://i0.hdslb.com/bfs/archive/0d0fa8cc780d53ade7eb964475a635d14ed84cc7.jpg",
+      "title": "紧急！PCL2最新版已无法下载MC。解决方法供上！我的世界已进入地下民间时代！",
+      "pubdate": 1792493724,
+      "ctime": 1792493724,
+      "desc": "PCL2 Github:https://github.com/Meloong-Git/PCL/releases/tag/2.14.0.0\n可下载旧版\nPCL2老版网盘下载链接：（从github提取\n蓝奏云：https://wwbxn.lanzouu.com/iKGdS4cpe7tc\n密码:2bub\n夸克：https://pan.quark.cn/s/80057d4d1d5f\n百度网盘：https://pan.baidu.com/s/1HFznxX1NuAgye4x4rPLiug?pwd=d1hs\n提取码: d1hs\n为了避免一些事情，我换成了非快照版的2.14.0.0的PCL2",
+      "desc_v2": [
+        {
+          "raw_text": "PCL2 Github:https://github.com/Meloong-Git/PCL/releases/tag/2.14.0.0\n可下载旧版\nPCL2老版网盘下载链接：（从github提取\n蓝奏云：https://wwbxn.lanzouu.com/iKGdS4cpe7tc\n密码:2bub\n夸克：https://pan.quark.cn/s/80057d4d1d5f\n百度网盘：https://pan.baidu.com/s/1HFznxX1NuAgye4x4rPLiug?pwd=d1hs\n提取码: d1hs\n为了避免一些事情，我换成了非快照版的2.14.0.0的PCL2",
+          "type": 1,
+          "biz_id": 0
+        }
+      ],
+      "state": 0,
+      "duration": 257,
+      "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 0,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+      },
+      "owner": {
+        "mid": 1588033785,
+        "name": "EMOCHAN",
+        "face": "https://i0.hdslb.com/bfs/face/bb8ffcdc21ba54bca0378ac3cccab0eb6883e4fb.jpg"
+      },
+      "stat": {
+        "aid": 117472858476679,
+        "view": 419419,
+        "danmaku": 184,
+        "reply": 4344,
+        "favorite": 14573,
+        "coin": 1781,
+        "share": 3029,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 13423,
+        "dislike": 0,
+        "evaluation": "",
+        "vt": 0
+      },
+      "argue_info": {
+        "argue_msg": "",
+        "argue_type": 0,
+        "argue_link": ""
+      },
+      "dynamic": "",
+      "cid": 42899538023,
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "season_id": 8701961,
+      "premiere": null,
+      "teenage_mode": 1,
+      "is_chargeable_season": false,
+      "is_story": false,
+      "is_upower_exclusive": false,
+      "is_upower_play": false,
+      "is_upower_preview": false,
+      "enable_vt": 0,
+      "vt_display": "",
+      "is_upower_exclusive_with_qa": false,
+      "is_hua_sheng": false,
+      "no_cache": false,
+      "pages": [
+        {
+          "cid": 42899538023,
+          "page": 1,
+          "from": "vupload",
+          "part": "紧急！PCL2最新版已无法下载MC。解决方法供上！我的世界已进入地下民间时代！",
+          "duration": 257,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1920,
+            "height": 1080,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_000020jkejlhy8c782sd3icsyll3xob_firsti.jpg",
+          "ctime": 1792493724
+        }
+      ],
+      "subtitle": {
+        "allow_submit": false,
+        "list": []
+      },
+      "ugc_season": {
+        "id": 8701961,
+        "title": "我的世界保姆级系列",
+        "cover": "https://i0.hdslb.com/bfs/templar/york-static/viedeo_material_default.png",
+        "mid": 1588033785,
+        "intro": "",
+        "sign_state": 0,
+        "attribute": 140,
+        "stat": {
+          "season_id": 8701961,
+          "view": 1810280,
+          "danmaku": 1375,
+          "reply": 7918,
+          "fav": 57610,
+          "coin": 23377,
+          "share": 42203,
+          "now_rank": 0,
+          "his_rank": 0,
+          "like": 58462,
+          "vt": 0,
+          "vv": 0
+        },
+        "ep_count": 10,
+        "season_type": 1,
+        "is_pay_season": false,
+        "enable_vt": 0,
+        "sections": [
+          {
+            "season_id": 8701961,
+            "id": 9697100,
+            "title": "正片",
+            "type": 1,
+            "episodes": [
+              {
+                "season_id": 8701961,
+                "section_id": 9697100,
+                "id": 212387467,
+                "aid": 116973534977630,
+                "cid": 40248740943,
+                "title": "真·保姆级！从零开始学习怎么安装我的世界！",
+                "attribute": 0,
+                "arc": {
+                  "aid": 116973534977630,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i1.hdslb.com/bfs/archive/3e302c88830ac9d122e53039f50ad6b6f479f328.jpg",
+                  "title": "真·保姆级！从零开始学习怎么安装我的世界！",
+                  "pubdate": 1784874692,
+                  "ctime": 1784874692,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 689,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 1588033785,
+                    "name": "EMOCHAN",
+                    "face": "https://i0.hdslb.com/bfs/face/bb8ffcdc21ba54bca0378ac3cccab0eb6883e4fb.jpg"
+                  },
+                  "stat": {
+                    "aid": 116973534977630,
+                    "view": 910977,
+                    "danmaku": 1059,
+                    "reply": 2298,
+                    "fav": 28209,
+                    "coin": 16357,
+                    "share": 29423,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 31277,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 910977
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 40248740943,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "真·保姆级！从零开始学习怎么安装我的世界！",
+                  "duration": 689,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1GDgY6CERX",
+                "pages": [
+                  {
+                    "cid": 40248740943,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "真·保姆级！从零开始学习怎么安装我的世界！",
+                    "duration": 689,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 1920,
+                      "height": 1080,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 8701961,
+                "section_id": 9697100,
+                "id": 212387356,
+                "aid": 117004254126065,
+                "cid": 40418934826,
+                "title": "真·保姆级！从零开始学习怎么安装我的世界模组！",
+                "attribute": 0,
+                "arc": {
+                  "aid": 117004254126065,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i1.hdslb.com/bfs/archive/4d1c3c21dd392125c353b9ba53280efee18202cd.jpg",
+                  "title": "真·保姆级！从零开始学习怎么安装我的世界模组！",
+                  "pubdate": 1785343554,
+                  "ctime": 1785343554,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 284,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 1588033785,
+                    "name": "EMOCHAN",
+                    "face": "https://i0.hdslb.com/bfs/face/bb8ffcdc21ba54bca0378ac3cccab0eb6883e4fb.jpg"
+                  },
+                  "stat": {
+                    "aid": 117004254126065,
+                    "view": 96039,
+                    "danmaku": 28,
+                    "reply": 182,
+                    "fav": 2700,
+                    "coin": 1680,
+                    "share": 738,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 3157,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 96039
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 40418934826,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "真·保姆级！从零开始学习怎么安装我的世界模组！",
+                  "duration": 284,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1rZ3J6sEDj",
+                "pages": [
+                  {
+                    "cid": 40418934826,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "真·保姆级！从零开始学习怎么安装我的世界模组！",
+                    "duration": 284,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 1920,
+                      "height": 1080,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 8701961,
+                "section_id": 9697100,
+                "id": 213111016,
+                "aid": 117021333262813,
+                "cid": 40511802791,
+                "title": "真·保姆级！从零开始学习怎么安装我的世界光影！",
+                "attribute": 0,
+                "arc": {
+                  "aid": 117021333262813,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i0.hdslb.com/bfs/archive/b699665c714e9919f167c3a9529fd4447f86dc8a.jpg",
+                  "title": "真·保姆级！从零开始学习怎么安装我的世界光影！",
+                  "pubdate": 1785604217,
+                  "ctime": 1785604217,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 329,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 1588033785,
+                    "name": "EMOCHAN",
+                    "face": "https://i0.hdslb.com/bfs/face/bb8ffcdc21ba54bca0378ac3cccab0eb6883e4fb.jpg"
+                  },
+                  "stat": {
+                    "aid": 117021333262813,
+                    "view": 114136,
+                    "danmaku": 24,
+                    "reply": 236,
+                    "fav": 1617,
+                    "coin": 709,
+                    "share": 508,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 2134,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 114136
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 40511802791,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "真·保姆级！从零开始学习怎么安装我的世界光影！",
+                  "duration": 329,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV11f326BEf9",
+                "pages": [
+                  {
+                    "cid": 40511802791,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "真·保姆级！从零开始学习怎么安装我的世界光影！",
+                    "duration": 329,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 1920,
+                      "height": 1080,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 8701961,
+                "section_id": 9697100,
+                "id": 216694452,
+                "aid": 117106158868603,
+                "cid": 40972585823,
+                "title": "真·保姆级！从零开始学习怎么离线联机我的世界！Astral Game篇！",
+                "attribute": 0,
+                "arc": {
+                  "aid": 117106158868603,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i2.hdslb.com/bfs/archive/3ccdbc3a373e52c58cd37b92cb7c69ce615fdd46.jpg",
+                  "title": "真·保姆级！从零开始学习怎么离线联机我的世界！Astral Game篇！",
+                  "pubdate": 1786935410,
+                  "ctime": 1786935410,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 355,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 1588033785,
+                    "name": "EMOCHAN",
+                    "face": "https://i0.hdslb.com/bfs/face/bb8ffcdc21ba54bca0378ac3cccab0eb6883e4fb.jpg"
+                  },
+                  "stat": {
+                    "aid": 117106158868603,
+                    "view": 147081,
+                    "danmaku": 25,
+                    "reply": 367,
+                    "fav": 5740,
+                    "coin": 1235,
+                    "share": 7082,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 4385,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 147081
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 40972585823,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "真·保姆级！从零开始学习怎么离线联机我的世界！Astral Game篇！",
+                  "duration": 355,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1Cfb96YEFr",
+                "pages": [
+                  {
+                    "cid": 40972585823,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "真·保姆级！从零开始学习怎么离线联机我的世界！Astral Game篇！",
+                    "duration": 355,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 1920,
+                      "height": 1080,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 8701961,
+                "section_id": 9697100,
+                "id": 220349058,
+                "aid": 117206167918637,
+                "cid": 41546679435,
+                "title": "真·保姆级！从零开始学习怎么手动安装Java！",
+                "attribute": 0,
+                "arc": {
+                  "aid": 117206167918637,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i0.hdslb.com/bfs/archive/63bb320b76d763ee1691dcc6de59fc1f18cdb130.jpg",
+                  "title": "真·保姆级！从零开始学习怎么手动安装Java！",
+                  "pubdate": 1788424254,
+                  "ctime": 1788424254,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 328,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 1588033785,
+                    "name": "EMOCHAN",
+                    "face": "https://i0.hdslb.com/bfs/face/bb8ffcdc21ba54bca0378ac3cccab0eb6883e4fb.jpg"
+                  },
+                  "stat": {
+                    "aid": 117206167918637,
+                    "view": 22725,
+                    "danmaku": 2,
+                    "reply": 70,
+                    "fav": 476,
+                    "coin": 139,
+                    "share": 240,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 504,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 22725
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 41546679435,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "真·保姆级！从零开始学习怎么手动安装Java！",
+                  "duration": 328,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1oWtR6pEiG",
+                "pages": [
+                  {
+                    "cid": 41546679435,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "真·保姆级！从零开始学习怎么手动安装Java！",
+                    "duration": 328,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 1920,
+                      "height": 1080,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 8701961,
+                "section_id": 9697100,
+                "id": 222818475,
+                "aid": 117286060957499,
+                "cid": 41973515382,
+                "title": "真·保姆级！从零开始学习怎么安装整合包！",
+                "attribute": 0,
+                "arc": {
+                  "aid": 117286060957499,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i1.hdslb.com/bfs/archive/e25ef21957194b52689d6dc85091cbd1f40a62da.jpg",
+                  "title": "真·保姆级！从零开始学习怎么安装整合包！",
+                  "pubdate": 1789643337,
+                  "ctime": 1789643337,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 315,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 1588033785,
+                    "name": "EMOCHAN",
+                    "face": "https://i0.hdslb.com/bfs/face/bb8ffcdc21ba54bca0378ac3cccab0eb6883e4fb.jpg"
+                  },
+                  "stat": {
+                    "aid": 117286060957499,
+                    "view": 13218,
+                    "danmaku": 6,
+                    "reply": 41,
+                    "fav": 297,
+                    "coin": 208,
+                    "share": 64,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 434,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 13218
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 41973515382,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "真·保姆级！从零开始学习怎么安装整合包！",
+                  "duration": 315,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1kmeG6tEAp",
+                "pages": [
+                  {
+                    "cid": 41973515382,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "真·保姆级！从零开始学习怎么安装整合包！",
+                    "duration": 315,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 1920,
+                      "height": 1080,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 8701961,
+                "section_id": 9697100,
+                "id": 225009505,
+                "aid": 117355082552863,
+                "cid": 42317385225,
+                "title": "真·保姆级！从零开始学习怎么购买我的世界正版！",
+                "attribute": 0,
+                "arc": {
+                  "aid": 117355082552863,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i1.hdslb.com/bfs/archive/d994c1ff7b90206e4cde6a9e136de02d81a2c417.jpg",
+                  "title": "真·保姆级！从零开始学习怎么购买我的世界正版！",
+                  "pubdate": 1790696497,
+                  "ctime": 1790696497,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 569,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 1588033785,
+                    "name": "EMOCHAN",
+                    "face": "https://i0.hdslb.com/bfs/face/bb8ffcdc21ba54bca0378ac3cccab0eb6883e4fb.jpg"
+                  },
+                  "stat": {
+                    "aid": 117355082552863,
+                    "view": 26603,
+                    "danmaku": 21,
+                    "reply": 127,
+                    "fav": 1359,
+                    "coin": 823,
+                    "share": 160,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 1309,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 26603
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 42317385225,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "9月29日 (1)",
+                  "duration": 569,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1paaW6HEAz",
+                "pages": [
+                  {
+                    "cid": 42317385225,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "9月29日 (1)",
+                    "duration": 569,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 1920,
+                      "height": 1080,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 8701961,
+                "section_id": 9697100,
+                "id": 225013261,
+                "aid": 117355166439173,
+                "cid": 42315810653,
+                "title": "真·保姆级！从零开始学习怎么离线联机我的世界！外星仔联机助手篇！",
+                "attribute": 0,
+                "arc": {
+                  "aid": 117355166439173,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i2.hdslb.com/bfs/archive/34c6d6aeac3f8df988d1f7dd7c4cccd1f628266a.jpg",
+                  "title": "真·保姆级！从零开始学习怎么离线联机我的世界！外星仔联机助手篇！",
+                  "pubdate": 1790758800,
+                  "ctime": 1790758800,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 353,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 1588033785,
+                    "name": "EMOCHAN",
+                    "face": "https://i0.hdslb.com/bfs/face/bb8ffcdc21ba54bca0378ac3cccab0eb6883e4fb.jpg"
+                  },
+                  "stat": {
+                    "aid": 117355166439173,
+                    "view": 28745,
+                    "danmaku": 4,
+                    "reply": 88,
+                    "fav": 1277,
+                    "coin": 151,
+                    "share": 695,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 838,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 28745
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 42315810653,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "真·保姆级！从零开始学习怎么离线联机我的世界！外星仔联机助手篇！",
+                  "duration": 353,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1BFaW6VEVj",
+                "pages": [
+                  {
+                    "cid": 42315810653,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "真·保姆级！从零开始学习怎么离线联机我的世界！外星仔联机助手篇！",
+                    "duration": 353,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 1920,
+                      "height": 1080,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 8701961,
+                "section_id": 9697100,
+                "id": 228815428,
+                "aid": 117472858476679,
+                "cid": 42899538023,
+                "title": "紧急！PCL2最新版已无法下载MC。解决方法供上！我的世界已进入地下民间时代！",
+                "attribute": 0,
+                "arc": {
+                  "aid": 117472858476679,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i0.hdslb.com/bfs/archive/0d0fa8cc780d53ade7eb964475a635d14ed84cc7.jpg",
+                  "title": "紧急！PCL2最新版已无法下载MC。解决方法供上！我的世界已进入地下民间时代！",
+                  "pubdate": 1792493724,
+                  "ctime": 1792493724,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 257,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 1588033785,
+                    "name": "EMOCHAN",
+                    "face": "https://i0.hdslb.com/bfs/face/bb8ffcdc21ba54bca0378ac3cccab0eb6883e4fb.jpg"
+                  },
+                  "stat": {
+                    "aid": 117472858476679,
+                    "view": 419419,
+                    "danmaku": 184,
+                    "reply": 4344,
+                    "fav": 14573,
+                    "coin": 1781,
+                    "share": 3029,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 13423,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 419419
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 42899538023,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "紧急！PCL2最新版已无法下载MC。解决方法供上！我的世界已进入地下民间时代！",
+                  "duration": 257,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1wsnP6NEhF",
+                "pages": [
+                  {
+                    "cid": 42899538023,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "紧急！PCL2最新版已无法下载MC。解决方法供上！我的世界已进入地下民间时代！",
+                    "duration": 257,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 1920,
+                      "height": 1080,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 8701961,
+                "section_id": 9697100,
+                "id": 228950068,
+                "aid": 117477455436419,
+                "cid": 42920054762,
+                "title": "PCL2不能下载MC了？还能正常使用吗？最新我的世界安装教程!",
+                "attribute": 0,
+                "arc": {
+                  "aid": 117477455436419,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i1.hdslb.com/bfs/archive/f82969a19ff1e4e34460325be6dde6d2f755b6b9.jpg",
+                  "title": "PCL2不能下载MC了？还能正常使用吗？最新我的世界安装教程!",
+                  "pubdate": 1792563866,
+                  "ctime": 1792563866,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 358,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 1588033785,
+                    "name": "EMOCHAN",
+                    "face": "https://i0.hdslb.com/bfs/face/bb8ffcdc21ba54bca0378ac3cccab0eb6883e4fb.jpg"
+                  },
+                  "stat": {
+                    "aid": 117477455436419,
+                    "view": 31337,
+                    "danmaku": 22,
+                    "reply": 165,
+                    "fav": 1362,
+                    "coin": 294,
+                    "share": 264,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 1002,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 31337
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 42920054762,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "PCL2不能下载MC了？还能正常使用吗？最新我的世界安装教程!",
+                  "duration": 358,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1n1nq6fESF",
+                "pages": [
+                  {
+                    "cid": 42920054762,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "PCL2不能下载MC了？还能正常使用吗？最新我的世界安装教程!",
+                    "duration": 358,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 1920,
+                      "height": 1080,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "is_season_display": true,
+      "user_garb": {
+        "url_image_ani_cut": ""
+      },
+      "honor_reply": {
+        "honor": [
+          {
+            "aid": 117472858476679,
+            "type": 7,
+            "desc": "热门收录",
+            "weekly_recommend_num": 0
+          }
+        ]
+      },
+      "like_icon": "",
+      "need_jump_bv": false,
+      "disable_show_up_info": false,
+      "is_story_play": 1,
+      "is_view_self": false
+    }
+  }
+}

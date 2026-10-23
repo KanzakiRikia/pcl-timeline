@@ -1,0 +1,132 @@
+{
+  "_snapshot_meta": {
+    "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV18xnA6yEnU",
+    "fetched_at": "2026-10-23 15:24:34",
+    "note": "Bilibili public API raw response, unmodified"
+  },
+  "response": {
+    "code": 0,
+    "message": "OK",
+    "ttl": 1,
+    "data": {
+      "bvid": "BV18xnA6yEnU",
+      "aid": 117473294686888,
+      "videos": 1,
+      "tid": 21,
+      "tid_v2": 2078,
+      "tname": "",
+      "tname_v2": "",
+      "copyright": 3,
+      "pic": "http://i2.hdslb.com/bfs/archive/89e95d45311b5bd57d80378bc32dd334962316cc.jpg",
+      "title": "一种绕过HMCL下载限制的方法",
+      "pubdate": 1792500408,
+      "ctime": 1792500392,
+      "desc": "不用慌，我相信作者们一定会留后路好吧（\n不过不得不说之后下游戏还得先改个时区还是太有意思了，中国式家长很神奇吧\n仅为技术原理交流、个人学习研究用途。",
+      "desc_v2": [
+        {
+          "raw_text": "不用慌，我相信作者们一定会留后路好吧（\n不过不得不说之后下游戏还得先改个时区还是太有意思了，中国式家长很神奇吧\n仅为技术原理交流、个人学习研究用途。",
+          "type": 1,
+          "biz_id": 0
+        }
+      ],
+      "state": 0,
+      "duration": 49,
+      "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 0,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+      },
+      "owner": {
+        "mid": 244106075,
+        "name": "CM_沉默",
+        "face": "https://i2.hdslb.com/bfs/face/7c3b9d264e3ad80af8f5aca5ef10754afa88e0e2.jpg"
+      },
+      "stat": {
+        "aid": 117473294686888,
+        "view": 1627,
+        "danmaku": 0,
+        "reply": 52,
+        "favorite": 45,
+        "coin": 11,
+        "share": 18,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 32,
+        "dislike": 0,
+        "evaluation": "",
+        "vt": 0
+      },
+      "argue_info": {
+        "argue_msg": "个人观点，仅供参考",
+        "argue_type": 0,
+        "argue_link": ""
+      },
+      "dynamic": "",
+      "cid": 42904126518,
+      "dimension": {
+        "width": 1728,
+        "height": 1080,
+        "rotate": 0
+      },
+      "premiere": null,
+      "teenage_mode": 1,
+      "is_chargeable_season": false,
+      "is_story": false,
+      "is_upower_exclusive": false,
+      "is_upower_play": false,
+      "is_upower_preview": false,
+      "enable_vt": 0,
+      "vt_display": "",
+      "is_upower_exclusive_with_qa": false,
+      "is_hua_sheng": false,
+      "no_cache": false,
+      "pages": [
+        {
+          "cid": 42904126518,
+          "page": 1,
+          "from": "vupload",
+          "part": "lv_0_20261020203850",
+          "duration": 49,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1728,
+            "height": 1080,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_000036h1e8f7l6idg2nxdomaa4g847b_firsti.jpg",
+          "ctime": 1792505865
+        }
+      ],
+      "subtitle": {
+        "allow_submit": false,
+        "list": []
+      },
+      "is_season_display": false,
+      "user_garb": {
+        "url_image_ani_cut": ""
+      },
+      "honor_reply": {},
+      "like_icon": "",
+      "need_jump_bv": false,
+      "disable_show_up_info": false,
+      "is_story_play": 1,
+      "is_view_self": false
+    }
+  }
+}

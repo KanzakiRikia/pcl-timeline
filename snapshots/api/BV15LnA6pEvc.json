@@ -1,0 +1,132 @@
+{
+  "_snapshot_meta": {
+    "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV15LnA6pEvc",
+    "fetched_at": "2026-10-23 15:24:46",
+    "note": "Bilibili public API raw response, unmodified"
+  },
+  "response": {
+    "code": 0,
+    "message": "OK",
+    "ttl": 1,
+    "data": {
+      "bvid": "BV15LnA6pEvc",
+      "aid": 117473345142966,
+      "videos": 1,
+      "tid": 17,
+      "tid_v2": 2099,
+      "tname": "",
+      "tname_v2": "",
+      "copyright": 3,
+      "pic": "http://i0.hdslb.com/bfs/archive/4e8b8d00aa928ef700cf38f6d39e909013d53017.jpg",
+      "title": "【pcl启动器】pcl2启动器恢复下载，解决方案！！",
+      "pubdate": 1792501195,
+      "ctime": 1792501195,
+      "desc": "关注+三连，私信回复“启动器”自动获取下载链接！\n没收到回复的评论区打个“111”手动发送",
+      "desc_v2": [
+        {
+          "raw_text": "关注+三连，私信回复“启动器”自动获取下载链接！\n没收到回复的评论区打个“111”手动发送",
+          "type": 1,
+          "biz_id": 0
+        }
+      ],
+      "state": 0,
+      "duration": 34,
+      "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 0,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+      },
+      "owner": {
+        "mid": 3706974204070530,
+        "name": "我的世界蹦擦擦",
+        "face": "https://i0.hdslb.com/bfs/face/d94f9ed5b03692ed18b595fa35b30e7344ce4174.jpg"
+      },
+      "stat": {
+        "aid": 117473345142966,
+        "view": 8971,
+        "danmaku": 1,
+        "reply": 181,
+        "favorite": 342,
+        "coin": 364,
+        "share": 62,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 318,
+        "dislike": 0,
+        "evaluation": "",
+        "vt": 0
+      },
+      "argue_info": {
+        "argue_msg": "",
+        "argue_type": 0,
+        "argue_link": ""
+      },
+      "dynamic": "",
+      "cid": 42902291073,
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "premiere": null,
+      "teenage_mode": 1,
+      "is_chargeable_season": false,
+      "is_story": false,
+      "is_upower_exclusive": false,
+      "is_upower_play": false,
+      "is_upower_preview": false,
+      "enable_vt": 0,
+      "vt_display": "",
+      "is_upower_exclusive_with_qa": false,
+      "is_hua_sheng": false,
+      "no_cache": false,
+      "pages": [
+        {
+          "cid": 42902291073,
+          "page": 1,
+          "from": "vupload",
+          "part": "Video_1792500983611_535",
+          "duration": 34,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1920,
+            "height": 1080,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_00000n25o1sjkrer52wxczs9xl9q2tb_firsti.jpg",
+          "ctime": 1792501195
+        }
+      ],
+      "subtitle": {
+        "allow_submit": false,
+        "list": []
+      },
+      "is_season_display": false,
+      "user_garb": {
+        "url_image_ani_cut": ""
+      },
+      "honor_reply": {},
+      "like_icon": "",
+      "need_jump_bv": false,
+      "disable_show_up_info": false,
+      "is_story_play": 1,
+      "is_view_self": false
+    }
+  }
+}

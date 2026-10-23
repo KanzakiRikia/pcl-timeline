@@ -1,0 +1,132 @@
+{
+  "_snapshot_meta": {
+    "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Jrnc6dEnJ",
+    "fetched_at": "2026-10-23 15:24:28",
+    "note": "Bilibili public API raw response, unmodified"
+  },
+  "response": {
+    "code": 0,
+    "message": "OK",
+    "ttl": 1,
+    "data": {
+      "bvid": "BV1Jrnc6dEnJ",
+      "aid": 117472288049036,
+      "videos": 1,
+      "tid": 17,
+      "tid_v2": 2078,
+      "tname": "",
+      "tname_v2": "",
+      "copyright": 3,
+      "pic": "http://i1.hdslb.com/bfs/archive/f5af55c961b927bdd01da10ae13e9bd3994f6aa4.jpg",
+      "title": "警告！！！（看简介）不要下载他人转发的PCL启动器。有病毒！！！",
+      "pubdate": 1792485025,
+      "ctime": 1792485025,
+      "desc": "我的世界所有公开启动器无法提供游戏本体下载，所有人需要注意那些说能够帮助你修改启动器的，人给你发的那个文件有可能有病毒，已经有一些人中招了，注意不要下载其他人的那个启动器",
+      "desc_v2": [
+        {
+          "raw_text": "我的世界所有公开启动器无法提供游戏本体下载，所有人需要注意那些说能够帮助你修改启动器的，人给你发的那个文件有可能有病毒，已经有一些人中招了，注意不要下载其他人的那个启动器",
+          "type": 1,
+          "biz_id": 0
+        }
+      ],
+      "state": 0,
+      "duration": 153,
+      "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 0,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+      },
+      "owner": {
+        "mid": 524133713,
+        "name": "霖翟",
+        "face": "https://i2.hdslb.com/bfs/face/09cfb317fe9dfb4a37180aeae9c664d8e329e9b7.jpg"
+      },
+      "stat": {
+        "aid": 117472288049036,
+        "view": 2372,
+        "danmaku": 0,
+        "reply": 39,
+        "favorite": 5,
+        "coin": 2,
+        "share": 12,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 27,
+        "dislike": 0,
+        "evaluation": "",
+        "vt": 0
+      },
+      "argue_info": {
+        "argue_msg": "个人观点，仅供参考",
+        "argue_type": 0,
+        "argue_link": ""
+      },
+      "dynamic": "",
+      "cid": 42895738694,
+      "dimension": {
+        "width": 2560,
+        "height": 1440,
+        "rotate": 0
+      },
+      "premiere": null,
+      "teenage_mode": 1,
+      "is_chargeable_season": false,
+      "is_story": false,
+      "is_upower_exclusive": false,
+      "is_upower_play": false,
+      "is_upower_preview": false,
+      "enable_vt": 0,
+      "vt_display": "",
+      "is_upower_exclusive_with_qa": false,
+      "is_hua_sheng": false,
+      "no_cache": false,
+      "pages": [
+        {
+          "cid": 42895738694,
+          "page": 1,
+          "from": "vupload",
+          "part": "警告！！！（看简介）不要下载他人转发的PCL启动器。有病毒！！！",
+          "duration": 153,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 2560,
+            "height": 1440,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00000gni3144s9bjh2l9o85azng074b_firsti.jpg",
+          "ctime": 1792485025
+        }
+      ],
+      "subtitle": {
+        "allow_submit": false,
+        "list": []
+      },
+      "is_season_display": false,
+      "user_garb": {
+        "url_image_ani_cut": ""
+      },
+      "honor_reply": {},
+      "like_icon": "",
+      "need_jump_bv": false,
+      "disable_show_up_info": false,
+      "is_story_play": 1,
+      "is_view_self": false
+    }
+  }
+}

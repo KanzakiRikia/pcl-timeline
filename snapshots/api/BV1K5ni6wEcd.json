@@ -1,0 +1,132 @@
+{
+  "_snapshot_meta": {
+    "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1K5ni6wEcd",
+    "fetched_at": "2026-10-23 15:24:47",
+    "note": "Bilibili public API raw response, unmodified"
+  },
+  "response": {
+    "code": 0,
+    "message": "OK",
+    "ttl": 1,
+    "data": {
+      "bvid": "BV1K5ni6wEcd",
+      "aid": 117476046150403,
+      "videos": 1,
+      "tid": 172,
+      "tid_v2": 2099,
+      "tname": "",
+      "tname_v2": "",
+      "copyright": 3,
+      "pic": "http://i0.hdslb.com/bfs/archive/13685dd90139a7b420b064bb4a492bc5765ffa68.jpg",
+      "title": "PCL2自救教程",
+      "pubdate": 1792542243,
+      "ctime": 1792542243,
+      "desc": "图片来源：网友转发\npr练手",
+      "desc_v2": [
+        {
+          "raw_text": "图片来源：网友转发\npr练手",
+          "type": 1,
+          "biz_id": 0
+        }
+      ],
+      "state": 0,
+      "duration": 200,
+      "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 0,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+      },
+      "owner": {
+        "mid": 3493283860842762,
+        "name": "松子_songzi",
+        "face": "https://i0.hdslb.com/bfs/face/c734fc2053ef0746bac147fb7f4a7d225ac9e128.jpg"
+      },
+      "stat": {
+        "aid": 117476046150403,
+        "view": 4545,
+        "danmaku": 4,
+        "reply": 35,
+        "favorite": 82,
+        "coin": 7,
+        "share": 24,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 67,
+        "dislike": 0,
+        "evaluation": "",
+        "vt": 0
+      },
+      "argue_info": {
+        "argue_msg": "个人观点，仅供参考",
+        "argue_type": 0,
+        "argue_link": ""
+      },
+      "dynamic": "",
+      "cid": 42911466624,
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "premiere": null,
+      "teenage_mode": 1,
+      "is_chargeable_season": false,
+      "is_story": false,
+      "is_upower_exclusive": false,
+      "is_upower_play": false,
+      "is_upower_preview": false,
+      "enable_vt": 0,
+      "vt_display": "",
+      "is_upower_exclusive_with_qa": false,
+      "is_hua_sheng": false,
+      "no_cache": false,
+      "pages": [
+        {
+          "cid": 42911466624,
+          "page": 1,
+          "from": "vupload",
+          "part": "PCL2自救教程",
+          "duration": 200,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1920,
+            "height": 1080,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00001eqphy3sx5fsl2vrqzfe4f2a3wb_firsti.jpg",
+          "ctime": 1792542243
+        }
+      ],
+      "subtitle": {
+        "allow_submit": false,
+        "list": []
+      },
+      "is_season_display": false,
+      "user_garb": {
+        "url_image_ani_cut": ""
+      },
+      "honor_reply": {},
+      "like_icon": "",
+      "need_jump_bv": false,
+      "disable_show_up_info": false,
+      "is_story_play": 1,
+      "is_view_self": false
+    }
+  }
+}

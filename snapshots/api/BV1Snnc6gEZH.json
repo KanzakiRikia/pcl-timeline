@@ -1,0 +1,132 @@
+{
+  "_snapshot_meta": {
+    "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Snnc6gEZH",
+    "fetched_at": "2026-10-23 15:24:45",
+    "note": "Bilibili public API raw response, unmodified"
+  },
+  "response": {
+    "code": 0,
+    "message": "OK",
+    "ttl": 1,
+    "data": {
+      "bvid": "BV1Snnc6gEZH",
+      "aid": 117472455884974,
+      "videos": 1,
+      "tid": 17,
+      "tid_v2": 2099,
+      "tname": "",
+      "tname_v2": "",
+      "copyright": 3,
+      "pic": "http://i0.hdslb.com/bfs/archive/f98fed516a58b762ce27033948ab4556af3919c9.jpg",
+      "title": "PCL无法下载MC？教你从官方仓库下载旧版启动器！（大家不要下载来路不明的第三方包，可能含有病毒）",
+      "pubdate": 1792487615,
+      "ctime": 1792487615,
+      "desc": "-",
+      "desc_v2": [
+        {
+          "raw_text": "-",
+          "type": 1,
+          "biz_id": 0
+        }
+      ],
+      "state": 0,
+      "duration": 198,
+      "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 0,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+      },
+      "owner": {
+        "mid": 3493146319129102,
+        "name": "邪欢不是欢嗷",
+        "face": "https://i1.hdslb.com/bfs/face/25105f5aebd10d2e803b4a799bd6d2ffd611e8bf.jpg"
+      },
+      "stat": {
+        "aid": 117472455884974,
+        "view": 6902,
+        "danmaku": 2,
+        "reply": 62,
+        "favorite": 293,
+        "coin": 108,
+        "share": 106,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 173,
+        "dislike": 0,
+        "evaluation": "",
+        "vt": 0
+      },
+      "argue_info": {
+        "argue_msg": "",
+        "argue_type": 0,
+        "argue_link": ""
+      },
+      "dynamic": "",
+      "cid": 42897047930,
+      "dimension": {
+        "width": 2048,
+        "height": 864,
+        "rotate": 0
+      },
+      "premiere": null,
+      "teenage_mode": 1,
+      "is_chargeable_season": false,
+      "is_story": false,
+      "is_upower_exclusive": false,
+      "is_upower_play": false,
+      "is_upower_preview": false,
+      "enable_vt": 0,
+      "vt_display": "",
+      "is_upower_exclusive_with_qa": false,
+      "is_hua_sheng": false,
+      "no_cache": false,
+      "pages": [
+        {
+          "cid": 42897047930,
+          "page": 1,
+          "from": "vupload",
+          "part": "PCL无法下载MC解决方案！务必只使用官方源，以避免中毒！",
+          "duration": 198,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 2048,
+            "height": 864,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00002cvsqi750mn4q2e1x56r5sh57kb_firsti.jpg",
+          "ctime": 1792487615
+        }
+      ],
+      "subtitle": {
+        "allow_submit": false,
+        "list": []
+      },
+      "is_season_display": false,
+      "user_garb": {
+        "url_image_ani_cut": ""
+      },
+      "honor_reply": {},
+      "like_icon": "",
+      "need_jump_bv": false,
+      "disable_show_up_info": false,
+      "is_story_play": 1,
+      "is_view_self": false
+    }
+  }
+}

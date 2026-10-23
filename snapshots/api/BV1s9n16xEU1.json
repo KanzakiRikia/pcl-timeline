@@ -1,0 +1,1851 @@
+{
+  "_snapshot_meta": {
+    "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1s9n16xEU1",
+    "fetched_at": "2026-10-23 15:24:37",
+    "note": "Bilibili public API raw response, unmodified"
+  },
+  "response": {
+    "code": 0,
+    "message": "OK",
+    "ttl": 1,
+    "data": {
+      "bvid": "BV1s9n16xEU1",
+      "aid": 117482790590337,
+      "videos": 1,
+      "tid": 21,
+      "tid_v2": 2099,
+      "tname": "",
+      "tname_v2": "",
+      "copyright": 1,
+      "pic": "http://i1.hdslb.com/bfs/archive/5c2d5c03a18e00f14fc80fa7e623ec2810a833ed.jpg",
+      "title": "新版本PCL及PCLCE一键修复插件，自动适配最新版本，一分钟详细教程",
+      "pubdate": 1792645363,
+      "ctime": 1792645363,
+      "desc": "请不要随意下载陌生链接或启动器，最近有人依靠MC启动器投毒！\n我用夸克网盘给你分享了「PCL2下载修复插件（自动匹配新版本）」，点击链接或复制整段内容，打开「夸克APP」即可获取。\n/~a2513barOx~:/\n链接：https://pan.quark.cn/s/68c5121887c1?pwd=jqpH\n提取码：jqpH",
+      "desc_v2": [
+        {
+          "raw_text": "请不要随意下载陌生链接或启动器，最近有人依靠MC启动器投毒！\n我用夸克网盘给你分享了「PCL2下载修复插件（自动匹配新版本）」，点击链接或复制整段内容，打开「夸克APP」即可获取。\n/~a2513barOx~:/\n链接：https://pan.quark.cn/s/68c5121887c1?pwd=jqpH\n提取码：jqpH",
+          "type": 1,
+          "biz_id": 0
+        }
+      ],
+      "state": 0,
+      "duration": 93,
+      "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 1,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+      },
+      "owner": {
+        "mid": 3493091373746777,
+        "name": "゚゚派蒙",
+        "face": "https://i2.hdslb.com/bfs/face/d3465ae7753ede4eb2748d36013e2853b387ff54.jpg"
+      },
+      "stat": {
+        "aid": 117482790590337,
+        "view": 9851,
+        "danmaku": 3,
+        "reply": 100,
+        "favorite": 374,
+        "coin": 275,
+        "share": 168,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 365,
+        "dislike": 0,
+        "evaluation": "",
+        "vt": 0
+      },
+      "argue_info": {
+        "argue_msg": "",
+        "argue_type": 0,
+        "argue_link": ""
+      },
+      "dynamic": "",
+      "cid": 42946727150,
+      "dimension": {
+        "width": 3452,
+        "height": 2160,
+        "rotate": 0
+      },
+      "season_id": 7505395,
+      "premiere": null,
+      "teenage_mode": 1,
+      "is_chargeable_season": false,
+      "is_story": false,
+      "is_upower_exclusive": false,
+      "is_upower_play": false,
+      "is_upower_preview": false,
+      "enable_vt": 0,
+      "vt_display": "",
+      "is_upower_exclusive_with_qa": false,
+      "is_hua_sheng": false,
+      "no_cache": false,
+      "pages": [
+        {
+          "cid": 42946727150,
+          "page": 1,
+          "from": "vupload",
+          "part": "新版本PCL及PCLCE一键修复插件，自动适配最新版本，一分钟详细教程",
+          "duration": 93,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 3452,
+            "height": 2160,
+            "rotate": 0
+          },
+          "first_frame": "http://i2.hdslb.com/bfs/storyff/_00003sq59prj0lbnk26vj2u8skbcc5b_firsti.jpg",
+          "ctime": 1792645363,
+          "asr_language": "cmn"
+        }
+      ],
+      "subtitle": {
+        "allow_submit": false,
+        "list": []
+      },
+      "ugc_season": {
+        "id": 7505395,
+        "title": "PokeDemo-Project",
+        "cover": "https://archive.biliimg.com/bfs/archive/64441f76c9123a190b329af30ba7cf42e326ae62.jpg",
+        "mid": 3493091373746777,
+        "intro": "灵感来源于任天堂经典游戏IP口袋妖怪，宝可梦模型文件来源于方可梦cobblemon模组开源社区，也将继承方可梦的开源精神，届时将公开源码以供免费下载使用，已经成熟开发了两个月，不过因为up还未毕业没钱租赁服务器没办法测试多人内容，视频为曾经测试时期录制画面，现今内容已经更加完善，不定期掉落相关画面，侵权自删，敬请期待——",
+        "sign_state": 0,
+        "attribute": 140,
+        "stat": {
+          "season_id": 7505395,
+          "view": 145519,
+          "danmaku": 24,
+          "reply": 1103,
+          "fav": 9050,
+          "coin": 4805,
+          "share": 2950,
+          "now_rank": 0,
+          "his_rank": 0,
+          "like": 7187,
+          "vt": 0,
+          "vv": 0
+        },
+        "ep_count": 16,
+        "season_type": 1,
+        "is_pay_season": false,
+        "enable_vt": 0,
+        "sections": [
+          {
+            "season_id": 7505395,
+            "id": 8316860,
+            "title": "正片",
+            "type": 1,
+            "episodes": [
+              {
+                "season_id": 7505395,
+                "section_id": 8316860,
+                "id": 178138975,
+                "aid": 116118383497251,
+                "cid": 36229284497,
+                "title": "世界上第一个我的世界宝可梦插件，早期录像：道具系统演示【免费/开源】",
+                "attribute": 0,
+                "arc": {
+                  "aid": 116118383497251,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i1.hdslb.com/bfs/archive/e8573aaac11bc060c06e2dbab487f33f1bf6fffd.jpg",
+                  "title": "世界上第一个我的世界宝可梦插件，早期录像：道具系统演示【免费/开源】",
+                  "pubdate": 1771826041,
+                  "ctime": 1771826041,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 41,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 3493091373746777,
+                    "name": "゚゚派蒙",
+                    "face": "https://i2.hdslb.com/bfs/face/d3465ae7753ede4eb2748d36013e2853b387ff54.jpg"
+                  },
+                  "stat": {
+                    "aid": 116118383497251,
+                    "view": 1351,
+                    "danmaku": 0,
+                    "reply": 1,
+                    "fav": 9,
+                    "coin": 4,
+                    "share": 1,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 6,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 1351
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 36229284497,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "世界上第一个我的世界宝可梦插件，早期录像：道具系统演示【免费/开源】",
+                  "duration": 41,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 3552,
+                    "height": 2160,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1UJfMBmEcw",
+                "pages": [
+                  {
+                    "cid": 36229284497,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "世界上第一个我的世界宝可梦插件，早期录像：道具系统演示【免费/开源】",
+                    "duration": 41,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 3552,
+                      "height": 2160,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 7505395,
+                "section_id": 8316860,
+                "id": 178138996,
+                "aid": 116110145885749,
+                "cid": 36203398218,
+                "title": "【免费/开源】世界上第一个我的世界宝可梦插件-不需要服务器和玩家装载任何模组即可进入游戏！（预热视频）",
+                "attribute": 0,
+                "arc": {
+                  "aid": 116110145885749,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i2.hdslb.com/bfs/archive/735e0d369dc37313096aa3a188cfb4ad4342d2e3.jpg",
+                  "title": "【免费/开源】世界上第一个我的世界宝可梦插件-不需要服务器和玩家装载任何模组即可进入游戏！（预热视频）",
+                  "pubdate": 1771731900,
+                  "ctime": 1771731900,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 70,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 3493091373746777,
+                    "name": "゚゚派蒙",
+                    "face": "https://i2.hdslb.com/bfs/face/d3465ae7753ede4eb2748d36013e2853b387ff54.jpg"
+                  },
+                  "stat": {
+                    "aid": 116110145885749,
+                    "view": 1366,
+                    "danmaku": 0,
+                    "reply": 3,
+                    "fav": 19,
+                    "coin": 6,
+                    "share": 8,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 18,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 1366
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 36203398218,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【免费/开源】世界上第一个我的世界宝可梦插件-不需要服务器和玩家装载任何模组即可进入游戏！（预热视频）",
+                  "duration": 70,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 3552,
+                    "height": 2160,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1PtZoBCENb",
+                "pages": [
+                  {
+                    "cid": 36203398218,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "【免费/开源】世界上第一个我的世界宝可梦插件-不需要服务器和玩家装载任何模组即可进入游戏！（预热视频）",
+                    "duration": 70,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 3552,
+                      "height": 2160,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 7505395,
+                "section_id": 8316860,
+                "id": 178390131,
+                "aid": 116124557516727,
+                "cid": 36253011569,
+                "title": "世界上第一个宝可梦插件，精灵模型制作/移植过程2倍速",
+                "attribute": 0,
+                "arc": {
+                  "aid": 116124557516727,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i0.hdslb.com/bfs/archive/4fcecedd19a0d719dc51745f4eb16f858eb3ac17.jpg",
+                  "title": "世界上第一个宝可梦插件，精灵模型制作/移植过程2倍速",
+                  "pubdate": 1771920521,
+                  "ctime": 1771920521,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 205,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 3493091373746777,
+                    "name": "゚゚派蒙",
+                    "face": "https://i2.hdslb.com/bfs/face/d3465ae7753ede4eb2748d36013e2853b387ff54.jpg"
+                  },
+                  "stat": {
+                    "aid": 116124557516727,
+                    "view": 1725,
+                    "danmaku": 0,
+                    "reply": 8,
+                    "fav": 29,
+                    "coin": 0,
+                    "share": 5,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 24,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 1725
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 36253011569,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "世界上第一个宝可梦插件，精灵模型制作/移植过程2倍速",
+                  "duration": 205,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 3480,
+                    "height": 2160,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1uCf1BoEed",
+                "pages": [
+                  {
+                    "cid": 36253011569,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "世界上第一个宝可梦插件，精灵模型制作/移植过程2倍速",
+                    "duration": 205,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 3480,
+                      "height": 2160,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 7505395,
+                "section_id": 8316860,
+                "id": 188413733,
+                "aid": 116270636734202,
+                "cid": 36878682785,
+                "title": "在插件服也能玩方可梦啦？！Gen1-Gen9世代全收集！MC最新免费插件PokeDemo，让你的服务器也有宝可梦的陪伴！",
+                "attribute": 0,
+                "arc": {
+                  "aid": 116270636734202,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i0.hdslb.com/bfs/archive/4caacaebf9fb528c6c0bfeaaf9e25fb4e8ce8745.jpg",
+                  "title": "在插件服也能玩方可梦啦？！Gen1-Gen9世代全收集！MC最新免费插件PokeDemo，让你的服务器也有宝可梦的陪伴！",
+                  "pubdate": 1774149453,
+                  "ctime": 1774149453,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 232,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 3493091373746777,
+                    "name": "゚゚派蒙",
+                    "face": "https://i2.hdslb.com/bfs/face/d3465ae7753ede4eb2748d36013e2853b387ff54.jpg"
+                  },
+                  "stat": {
+                    "aid": 116270636734202,
+                    "view": 2676,
+                    "danmaku": 0,
+                    "reply": 13,
+                    "fav": 24,
+                    "coin": 21,
+                    "share": 7,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 30,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 2676
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 36878682785,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "在插件服也能玩方可梦啦？！Gen1-Gen9世代全收集！MC最新免费插件PokeDemo，让你的服务器也有宝可梦的陪伴！",
+                  "duration": 232,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2368,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1KZAMz4Eh2",
+                "pages": [
+                  {
+                    "cid": 36878682785,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "在插件服也能玩方可梦啦？！Gen1-Gen9世代全收集！MC最新免费插件PokeDemo，让你的服务器也有宝可梦的陪伴！",
+                    "duration": 232,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 2368,
+                      "height": 1440,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 7505395,
+                "section_id": 8316860,
+                "id": 189047733,
+                "aid": 115948178641168,
+                "cid": 35578447268,
+                "title": "时隔十几年，MC暮色森林2.0更新了？！深渊国度AbyssKingdom，up主自制同人国产插件，延伸暮色灵魂~！",
+                "attribute": 0,
+                "arc": {
+                  "aid": 115948178641168,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i2.hdslb.com/bfs/archive/e84cd072cd052d2fb7b9bc400d462af5af1e0687.jpg",
+                  "title": "时隔十几年，MC暮色森林2.0更新了？！深渊国度AbyssKingdom，up主自制同人国产插件，延伸暮色灵魂~！",
+                  "pubdate": 1769229042,
+                  "ctime": 1769229042,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 119,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 3493091373746777,
+                    "name": "゚゚派蒙",
+                    "face": "https://i2.hdslb.com/bfs/face/d3465ae7753ede4eb2748d36013e2853b387ff54.jpg"
+                  },
+                  "stat": {
+                    "aid": 115948178641168,
+                    "view": 2429,
+                    "danmaku": 0,
+                    "reply": 2,
+                    "fav": 20,
+                    "coin": 0,
+                    "share": 1,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 33,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 2429
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 35578447268,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "时隔十几年，MC暮色森林2.0更新了？！深渊国度AbyssKingdom，up主自制同人国产插件，延伸暮色灵魂~！",
+                  "duration": 119,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 3552,
+                    "height": 2160,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1r7zkBEEwo",
+                "pages": [
+                  {
+                    "cid": 35578447268,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "时隔十几年，MC暮色森林2.0更新了？！深渊国度AbyssKingdom，up主自制同人国产插件，延伸暮色灵魂~！",
+                    "duration": 119,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 3552,
+                      "height": 2160,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 7505395,
+                "section_id": 8316860,
+                "id": 208494181,
+                "aid": 116912533085036,
+                "cid": 39914178289,
+                "title": "你是说可以在MC最新的26.2版本玩上方可梦？还有全套Mega/极巨化等对战系统？！我的世界插件",
+                "attribute": 0,
+                "arc": {
+                  "aid": 116912533085036,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i1.hdslb.com/bfs/archive/b6da85d292778a045e4dced0bd7cc68103437d5c.jpg",
+                  "title": "你是说可以在MC最新的26.2版本玩上方可梦？还有全套Mega/极巨化等对战系统？！我的世界插件",
+                  "pubdate": 1783943826,
+                  "ctime": 1783943826,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 93,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 3493091373746777,
+                    "name": "゚゚派蒙",
+                    "face": "https://i2.hdslb.com/bfs/face/d3465ae7753ede4eb2748d36013e2853b387ff54.jpg"
+                  },
+                  "stat": {
+                    "aid": 116912533085036,
+                    "view": 711,
+                    "danmaku": 0,
+                    "reply": 7,
+                    "fav": 13,
+                    "coin": 5,
+                    "share": 2,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 31,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 711
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 39914178289,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "你是说可以在MC最新的26.2版本玩上方可梦？还有全套Mega/极巨化等对战系统？！我的世界插件",
+                  "duration": 93,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2368,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1BPNm6CEpo",
+                "pages": [
+                  {
+                    "cid": 39914178289,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "你是说可以在MC最新的26.2版本玩上方可梦？还有全套Mega/极巨化等对战系统？！我的世界插件",
+                    "duration": 93,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 2368,
+                      "height": 1440,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 7505395,
+                "section_id": 8316860,
+                "id": 208760122,
+                "aid": 116918723810855,
+                "cid": 39949044380,
+                "title": "《基于硫方块的方可梦永动机/篮球对抗系统》",
+                "attribute": 0,
+                "arc": {
+                  "aid": 116918723810855,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i1.hdslb.com/bfs/archive/545dd67c5aec55b67a58b5802576fb0fc76718f2.jpg",
+                  "title": "《基于硫方块的方可梦永动机/篮球对抗系统》",
+                  "pubdate": 1784038206,
+                  "ctime": 1784038206,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 94,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 3493091373746777,
+                    "name": "゚゚派蒙",
+                    "face": "https://i2.hdslb.com/bfs/face/d3465ae7753ede4eb2748d36013e2853b387ff54.jpg"
+                  },
+                  "stat": {
+                    "aid": 116918723810855,
+                    "view": 390,
+                    "danmaku": 0,
+                    "reply": 4,
+                    "fav": 3,
+                    "coin": 4,
+                    "share": 2,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 21,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 390
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 39949044380,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "《基于硫方块的方可梦永动机/篮球对抗系统》",
+                  "duration": 94,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2368,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1AKNh6MEcd",
+                "pages": [
+                  {
+                    "cid": 39949044380,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "《基于硫方块的方可梦永动机/篮球对抗系统》",
+                    "duration": 94,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 2368,
+                      "height": 1440,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 7505395,
+                "section_id": 8316860,
+                "id": 209398147,
+                "aid": 116934578280161,
+                "cid": 40037646618,
+                "title": "在Paper/folia等插件端上玩宝可梦，含极巨化等内容，支持26.2版本。",
+                "attribute": 0,
+                "arc": {
+                  "aid": 116934578280161,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i1.hdslb.com/bfs/archive/9417c0d5ef50e5a5000d3994fa2ea35575233e06.jpg",
+                  "title": "在Paper/folia等插件端上玩宝可梦，含极巨化等内容，支持26.2版本。",
+                  "pubdate": 1784280380,
+                  "ctime": 1784280380,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 94,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 3493091373746777,
+                    "name": "゚゚派蒙",
+                    "face": "https://i2.hdslb.com/bfs/face/d3465ae7753ede4eb2748d36013e2853b387ff54.jpg"
+                  },
+                  "stat": {
+                    "aid": 116934578280161,
+                    "view": 819,
+                    "danmaku": 0,
+                    "reply": 4,
+                    "fav": 13,
+                    "coin": 8,
+                    "share": 3,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 30,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 819
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 40037646618,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "在Paper/folia等插件端上玩宝可梦，含极巨化等内容，支持26.2版本。",
+                  "duration": 94,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2368,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1dSKJ6wEKp",
+                "pages": [
+                  {
+                    "cid": 40037646618,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "在Paper/folia等插件端上玩宝可梦，含极巨化等内容，支持26.2版本。",
+                    "duration": 94,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 2368,
+                      "height": 1440,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 7505395,
+                "section_id": 8316860,
+                "id": 210409118,
+                "aid": 116958150267120,
+                "cid": 40167277412,
+                "title": "我的世界，但方块都“动起来”。",
+                "attribute": 0,
+                "arc": {
+                  "aid": 116958150267120,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i0.hdslb.com/bfs/archive/77475cf6dbdb011234918f8367712f3406d042f5.jpg",
+                  "title": "我的世界，但方块都“动起来”。",
+                  "pubdate": 1784640001,
+                  "ctime": 1784640001,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 233,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 3493091373746777,
+                    "name": "゚゚派蒙",
+                    "face": "https://i2.hdslb.com/bfs/face/d3465ae7753ede4eb2748d36013e2853b387ff54.jpg"
+                  },
+                  "stat": {
+                    "aid": 116958150267120,
+                    "view": 932,
+                    "danmaku": 1,
+                    "reply": 9,
+                    "fav": 16,
+                    "coin": 2,
+                    "share": 2,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 54,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 932
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 40167277412,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "我的世界，但方块都“动起来”。",
+                  "duration": 233,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2368,
+                    "height": 1440,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1MkK86mEEW",
+                "pages": [
+                  {
+                    "cid": 40167277412,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "我的世界，但方块都“动起来”。",
+                    "duration": 233,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 2368,
+                      "height": 1440,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 7505395,
+                "section_id": 8316860,
+                "id": 220378779,
+                "aid": 117205379388479,
+                "cid": 41541438995,
+                "title": "全网首发，40系显卡燕云十六声多倍插帧，最高可至6倍",
+                "attribute": 0,
+                "arc": {
+                  "aid": 117205379388479,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i0.hdslb.com/bfs/archive/3f35eec9b2ca73bad0ebd1349fe5027f6076b28d.jpg",
+                  "title": "全网首发，40系显卡燕云十六声多倍插帧，最高可至6倍",
+                  "pubdate": 1788412300,
+                  "ctime": 1788412300,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 43,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 3493091373746777,
+                    "name": "゚゚派蒙",
+                    "face": "https://i2.hdslb.com/bfs/face/d3465ae7753ede4eb2748d36013e2853b387ff54.jpg"
+                  },
+                  "stat": {
+                    "aid": 117205379388479,
+                    "view": 7040,
+                    "danmaku": 0,
+                    "reply": 71,
+                    "fav": 64,
+                    "coin": 19,
+                    "share": 18,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 50,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 7040
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 41541438995,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "全网首发，40系显卡燕云十六声多倍插帧，最高可至6倍",
+                  "duration": 43,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 3452,
+                    "height": 2160,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1pitd6PEM1",
+                "pages": [
+                  {
+                    "cid": 41541438995,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "全网首发，40系显卡燕云十六声多倍插帧，最高可至6倍",
+                    "duration": 43,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 3452,
+                      "height": 2160,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 7505395,
+                "section_id": 8316860,
+                "id": 220378791,
+                "aid": 117206570571016,
+                "cid": 41549695801,
+                "title": "燕云十六声/全游戏最新黑科技40系多倍插帧使用教程，简单易懂，附下载链接",
+                "attribute": 0,
+                "arc": {
+                  "aid": 117206570571016,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i2.hdslb.com/bfs/archive/3d3bd2bd1397c12f18114b567729d7587e60c1e5.jpg",
+                  "title": "燕云十六声/全游戏最新黑科技40系多倍插帧使用教程，简单易懂，附下载链接",
+                  "pubdate": 1788430440,
+                  "ctime": 1788430440,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 113,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 3493091373746777,
+                    "name": "゚゚派蒙",
+                    "face": "https://i2.hdslb.com/bfs/face/d3465ae7753ede4eb2748d36013e2853b387ff54.jpg"
+                  },
+                  "stat": {
+                    "aid": 117206570571016,
+                    "view": 5357,
+                    "danmaku": 0,
+                    "reply": 145,
+                    "fav": 123,
+                    "coin": 39,
+                    "share": 17,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 65,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 5357
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 41549695801,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "燕云十六声最新黑科技40系多倍插帧使用教程，简单易懂，附下载链接",
+                  "duration": 113,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 3452,
+                    "height": 2160,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1tttZ67EmA",
+                "pages": [
+                  {
+                    "cid": 41549695801,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "燕云十六声最新黑科技40系多倍插帧使用教程，简单易懂，附下载链接",
+                    "duration": 113,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 3452,
+                      "height": 2160,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 7505395,
+                "section_id": 8316860,
+                "id": 220811172,
+                "aid": 117220680143020,
+                "cid": 41621981955,
+                "title": "全网首个燕云自定义视角插件:第一人称/越肩镜头/广角镜头",
+                "attribute": 0,
+                "arc": {
+                  "aid": 117220680143020,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i2.hdslb.com/bfs/archive/5e3012ddf3c649895e412ae703559e9e4425f168.jpg",
+                  "title": "全网首个燕云自定义视角插件:第一人称/越肩镜头/广角镜头",
+                  "pubdate": 1788645896,
+                  "ctime": 1788645896,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 85,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 3493091373746777,
+                    "name": "゚゚派蒙",
+                    "face": "https://i2.hdslb.com/bfs/face/d3465ae7753ede4eb2748d36013e2853b387ff54.jpg"
+                  },
+                  "stat": {
+                    "aid": 117220680143020,
+                    "view": 2010,
+                    "danmaku": 0,
+                    "reply": 51,
+                    "fav": 43,
+                    "coin": 37,
+                    "share": 10,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 63,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 2010
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 41621981955,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "全网首个燕云自定义视角插件:第一人称/越肩镜头/广角镜头",
+                  "duration": 85,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 3456,
+                    "height": 2160,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1MNbJ6kEdA",
+                "pages": [
+                  {
+                    "cid": 41621981955,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "全网首个燕云自定义视角插件:第一人称/越肩镜头/广角镜头",
+                    "duration": 85,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 3456,
+                      "height": 2160,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 7505395,
+                "section_id": 8316860,
+                "id": 222310328,
+                "aid": 117269065635758,
+                "cid": 41889172239,
+                "title": "久等啦少东家，燕云工具箱正式版上线啦~一键dlss5，随意调整镜头位置，去雾/UI，免费使用！",
+                "attribute": 0,
+                "arc": {
+                  "aid": 117269065635758,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i1.hdslb.com/bfs/archive/91f439f99b597bf0f9b1fc452483b5815ff79371.jpg",
+                  "title": "久等啦少东家，燕云工具箱正式版上线啦~一键dlss5，随意调整镜头位置，去雾/UI，免费使用！",
+                  "pubdate": 1789384411,
+                  "ctime": 1789384411,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 148,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 3493091373746777,
+                    "name": "゚゚派蒙",
+                    "face": "https://i2.hdslb.com/bfs/face/d3465ae7753ede4eb2748d36013e2853b387ff54.jpg"
+                  },
+                  "stat": {
+                    "aid": 117269065635758,
+                    "view": 2823,
+                    "danmaku": 1,
+                    "reply": 30,
+                    "fav": 98,
+                    "coin": 67,
+                    "share": 10,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 100,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 2823
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 41889172239,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "久等啦少东家，燕云工具箱正式版上线啦~一键dlss5，随意调整镜头位置，去雾/UI，免费使用！",
+                  "duration": 148,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 3452,
+                    "height": 2160,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV12SYy6pEJA",
+                "pages": [
+                  {
+                    "cid": 41889172239,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "久等啦少东家，燕云工具箱正式版上线啦~一键dlss5，随意调整镜头位置，去雾/UI，免费使用！",
+                    "duration": 148,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 3452,
+                      "height": 2160,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 7505395,
+                "section_id": 8316860,
+                "id": 222464249,
+                "aid": 117274300129180,
+                "cid": 41915453373,
+                "title": "燕云dlss5风景党的最后一块拼图，自定义镜头和去雾，极简UI一键开启",
+                "attribute": 0,
+                "arc": {
+                  "aid": 117274300129180,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i2.hdslb.com/bfs/archive/260dc28bf2723e86714b7f4e03267b8fa4eb4dfb.jpg",
+                  "title": "燕云dlss5风景党的最后一块拼图，自定义镜头和去雾，极简UI一键开启",
+                  "pubdate": 1789464121,
+                  "ctime": 1789464121,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 58,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 3493091373746777,
+                    "name": "゚゚派蒙",
+                    "face": "https://i2.hdslb.com/bfs/face/d3465ae7753ede4eb2748d36013e2853b387ff54.jpg"
+                  },
+                  "stat": {
+                    "aid": 117274300129180,
+                    "view": 1420,
+                    "danmaku": 0,
+                    "reply": 10,
+                    "fav": 16,
+                    "coin": 8,
+                    "share": 3,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 33,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 1420
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 41915453373,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "燕云dlss5风景党的最后一块拼图，自定义镜头和去雾，极简UI一键开启",
+                  "duration": 58,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 3452,
+                    "height": 2160,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1Smen68EG6",
+                "pages": [
+                  {
+                    "cid": 41915453373,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "燕云dlss5风景党的最后一块拼图，自定义镜头和去雾，极简UI一键开启",
+                    "duration": 58,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 3452,
+                      "height": 2160,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 7505395,
+                "section_id": 8316860,
+                "id": 228806425,
+                "aid": 117472556489223,
+                "cid": 42897640556,
+                "title": "PCL2恢复下载功能和整合包功能插件，非常简单点击即用",
+                "attribute": 0,
+                "arc": {
+                  "aid": 117472556489223,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i1.hdslb.com/bfs/archive/facfbd94a9dea0faf97e512016f514eaa38f9da7.jpg",
+                  "title": "PCL2恢复下载功能和整合包功能插件，非常简单点击即用",
+                  "pubdate": 1792488995,
+                  "ctime": 1792488995,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 48,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 3493091373746777,
+                    "name": "゚゚派蒙",
+                    "face": "https://i2.hdslb.com/bfs/face/d3465ae7753ede4eb2748d36013e2853b387ff54.jpg"
+                  },
+                  "stat": {
+                    "aid": 117472556489223,
+                    "view": 104620,
+                    "danmaku": 19,
+                    "reply": 645,
+                    "fav": 8186,
+                    "coin": 4310,
+                    "share": 2693,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 6264,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 104620
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 42897640556,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "PCL2恢复下载功能和整合包功能插件，非常简单点击即用",
+                  "duration": 48,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1724,
+                    "height": 1078,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1a7nc6GEkz",
+                "pages": [
+                  {
+                    "cid": 42897640556,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "PCL2恢复下载功能和整合包功能插件，非常简单点击即用",
+                    "duration": 48,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 1724,
+                      "height": 1078,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 7505395,
+                "section_id": 8316860,
+                "id": 229125547,
+                "aid": 117482790590337,
+                "cid": 42946727150,
+                "title": "新版本PCL及PCLCE一键修复插件，自动适配最新版本，一分钟详细教程",
+                "attribute": 2,
+                "arc": {
+                  "aid": 117482790590337,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i1.hdslb.com/bfs/archive/5c2d5c03a18e00f14fc80fa7e623ec2810a833ed.jpg",
+                  "title": "新版本PCL及PCLCE一键修复插件，自动适配最新版本，一分钟详细教程",
+                  "pubdate": 1792645363,
+                  "ctime": 1792645363,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 93,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 3493091373746777,
+                    "name": "゚゚派蒙",
+                    "face": "https://i2.hdslb.com/bfs/face/d3465ae7753ede4eb2748d36013e2853b387ff54.jpg"
+                  },
+                  "stat": {
+                    "aid": 117482790590337,
+                    "view": 9851,
+                    "danmaku": 3,
+                    "reply": 100,
+                    "fav": 374,
+                    "coin": 275,
+                    "share": 168,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 365,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 9851
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 42946727150,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "新版本PCL及PCLCE一键修复插件，自动适配最新版本，一分钟详细教程",
+                  "duration": 93,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 3452,
+                    "height": 2160,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1s9n16xEU1",
+                "pages": [
+                  {
+                    "cid": 42946727150,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "新版本PCL及PCLCE一键修复插件，自动适配最新版本，一分钟详细教程",
+                    "duration": 93,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 3452,
+                      "height": 2160,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "is_season_display": true,
+      "user_garb": {
+        "url_image_ani_cut": ""
+      },
+      "honor_reply": {},
+      "like_icon": "",
+      "need_jump_bv": false,
+      "disable_show_up_info": false,
+      "is_story_play": 1,
+      "is_view_self": false
+    }
+  }
+}

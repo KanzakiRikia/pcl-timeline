@@ -1,0 +1,1858 @@
+{
+  "_snapshot_meta": {
+    "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qgnA6REXg",
+    "fetched_at": "2026-10-23 15:24:31",
+    "note": "Bilibili public API raw response, unmodified"
+  },
+  "response": {
+    "code": 0,
+    "message": "OK",
+    "ttl": 1,
+    "data": {
+      "bvid": "BV1qgnA6REXg",
+      "aid": 117473663784491,
+      "videos": 1,
+      "tid": 230,
+      "tid_v2": 2099,
+      "tname": "",
+      "tname_v2": "",
+      "copyright": 3,
+      "pic": "http://i0.hdslb.com/bfs/archive/6e47e6e2505fefc2385e30deeffcaa30008e730e.jpg",
+      "title": "HMCL也要关闭下载功能了！一键恢复！支援未来！",
+      "pubdate": 1792505935,
+      "ctime": 1792505935,
+      "desc": "下载地址：https://cdn.turingmirror.com/d/pcl-helper\n图灵镜官网：https://www.turingmirror.com\n开源仓库：\nhttps://github.com/Turing-Mirror/PCL-Helper\nhttps://cnb.cool/Turing-Mirror/PCL-Helper",
+      "desc_v2": [
+        {
+          "raw_text": "下载地址：https://cdn.turingmirror.com/d/pcl-helper\n图灵镜官网：https://www.turingmirror.com\n开源仓库：\nhttps://github.com/Turing-Mirror/PCL-Helper\nhttps://cnb.cool/Turing-Mirror/PCL-Helper",
+          "type": 1,
+          "biz_id": 0
+        }
+      ],
+      "state": 0,
+      "duration": 55,
+      "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 0,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+      },
+      "owner": {
+        "mid": 3546871148579062,
+        "name": "图灵镜",
+        "face": "https://i1.hdslb.com/bfs/face/6ad313111ac57f6bc3c05085b7fa3da1f1de8f3b.jpg"
+      },
+      "stat": {
+        "aid": 117473663784491,
+        "view": 10191,
+        "danmaku": 3,
+        "reply": 51,
+        "favorite": 437,
+        "coin": 91,
+        "share": 95,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 273,
+        "dislike": 0,
+        "evaluation": "",
+        "vt": 0
+      },
+      "argue_info": {
+        "argue_msg": "",
+        "argue_type": 0,
+        "argue_link": ""
+      },
+      "dynamic": "",
+      "cid": 42904063594,
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "season_id": 8899277,
+      "premiere": null,
+      "teenage_mode": 1,
+      "is_chargeable_season": false,
+      "is_story": false,
+      "is_upower_exclusive": false,
+      "is_upower_play": false,
+      "is_upower_preview": false,
+      "enable_vt": 0,
+      "vt_display": "",
+      "is_upower_exclusive_with_qa": false,
+      "is_hua_sheng": false,
+      "no_cache": false,
+      "pages": [
+        {
+          "cid": 42904063594,
+          "page": 1,
+          "from": "vupload",
+          "part": "HMCL也要关闭下载功能了！支援未来！",
+          "duration": 55,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1920,
+            "height": 1080,
+            "rotate": 0
+          },
+          "first_frame": "http://i2.hdslb.com/bfs/storyff/_000018i19qnbq6xg92sjm2nmmqcqrtb_firsti.jpg",
+          "ctime": 1792505935
+        }
+      ],
+      "subtitle": {
+        "allow_submit": false,
+        "list": []
+      },
+      "ugc_season": {
+        "id": 8899277,
+        "title": "图灵镜软件·教程&QA",
+        "cover": "https://archive.biliimg.com/bfs/archive/4a090a1248ae9f3f9a6dcb161c07be8d41c40363.jpg",
+        "mid": 3546871148579062,
+        "intro": "",
+        "sign_state": 0,
+        "attribute": 132,
+        "stat": {
+          "season_id": 8899277,
+          "view": 56218,
+          "danmaku": 225,
+          "reply": 568,
+          "fav": 3462,
+          "coin": 728,
+          "share": 522,
+          "now_rank": 0,
+          "his_rank": 0,
+          "like": 2225,
+          "vt": 0,
+          "vv": 0
+        },
+        "ep_count": 16,
+        "season_type": 1,
+        "is_pay_season": false,
+        "enable_vt": 0,
+        "sections": [
+          {
+            "season_id": 8899277,
+            "id": 9924495,
+            "title": "RVC",
+            "type": 1,
+            "episodes": [
+              {
+                "season_id": 8899277,
+                "section_id": 9924495,
+                "id": 217945652,
+                "aid": 117116527384431,
+                "cid": 41032091087,
+                "title": "AI变声/翻唱 扫盲Ep.1",
+                "attribute": 0,
+                "arc": {
+                  "aid": 117116527384431,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i2.hdslb.com/bfs/archive/08a9da4241ebd14baaabbec9c9c287f48e492c6e.jpg",
+                  "title": "AI变声/翻唱 扫盲Ep.1",
+                  "pubdate": 1787056516,
+                  "ctime": 1787056516,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 250,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 3546871148579062,
+                    "name": "图灵镜",
+                    "face": "https://i1.hdslb.com/bfs/face/6ad313111ac57f6bc3c05085b7fa3da1f1de8f3b.jpg"
+                  },
+                  "stat": {
+                    "aid": 117116527384431,
+                    "view": 2028,
+                    "danmaku": 0,
+                    "reply": 21,
+                    "fav": 258,
+                    "coin": 27,
+                    "share": 1,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 334,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 2028
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 41032091087,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "AI变声/翻唱你想知道的一切~凯伊和爱丽丝的快问快答~Ep1",
+                  "duration": 250,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1994,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1vU836NEsq",
+                "pages": [
+                  {
+                    "cid": 41032091087,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "AI变声/翻唱你想知道的一切~凯伊和爱丽丝的快问快答~Ep1",
+                    "duration": 250,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 1994,
+                      "height": 1080,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 8899277,
+                "section_id": 9924495,
+                "id": 217945653,
+                "aid": 117111175255400,
+                "cid": 41000832518,
+                "title": "RVC模型训练",
+                "attribute": 0,
+                "arc": {
+                  "aid": 117111175255400,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i1.hdslb.com/bfs/archive/5ca25cde50cd7acf22227fbbd4e0402b283dd1df.jpg",
+                  "title": "RVC模型训练",
+                  "pubdate": 1786974932,
+                  "ctime": 1786974932,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 138,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 3546871148579062,
+                    "name": "图灵镜",
+                    "face": "https://i1.hdslb.com/bfs/face/6ad313111ac57f6bc3c05085b7fa3da1f1de8f3b.jpg"
+                  },
+                  "stat": {
+                    "aid": 117111175255400,
+                    "view": 1815,
+                    "danmaku": 0,
+                    "reply": 15,
+                    "fav": 92,
+                    "coin": 31,
+                    "share": 7,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 61,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 1815
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 41000832518,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "今天是白子教你训练RVC的AI变声/翻唱模型~ RVC Fabric",
+                  "duration": 138,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1ghbi6fERe",
+                "pages": [
+                  {
+                    "cid": 41000832518,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "今天是白子教你训练RVC的AI变声/翻唱模型~ RVC Fabric",
+                    "duration": 138,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 1920,
+                      "height": 1080,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 8899277,
+                "section_id": 9924495,
+                "id": 228357020,
+                "aid": 117459822580021,
+                "cid": 42836168478,
+                "title": "变声也能在游戏/语音里放歌！0元以内最好的RVC变声器RVC Fabric堂堂更新！",
+                "attribute": 0,
+                "arc": {
+                  "aid": 117459822580021,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i2.hdslb.com/bfs/archive/565d478619b50aa5e26a274156f13c185cd81637.jpg",
+                  "title": "变声也能在游戏/语音里放歌！0元以内最好的RVC变声器RVC Fabric堂堂更新！",
+                  "pubdate": 1792294748,
+                  "ctime": 1792294748,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 196,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 3546871148579062,
+                    "name": "图灵镜",
+                    "face": "https://i1.hdslb.com/bfs/face/6ad313111ac57f6bc3c05085b7fa3da1f1de8f3b.jpg"
+                  },
+                  "stat": {
+                    "aid": 117459822580021,
+                    "view": 1587,
+                    "danmaku": 0,
+                    "reply": 13,
+                    "fav": 193,
+                    "coin": 31,
+                    "share": 4,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 81,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 1587
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 42836168478,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "变声也能在游戏/语音里放歌！0元以内最好的RVC变声器RVC Fabric堂堂更新！",
+                  "duration": 196,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 3840,
+                    "height": 2160,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV17cnM6TEHY",
+                "pages": [
+                  {
+                    "cid": 42836168478,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "变声也能在游戏/语音里放歌！0元以内最好的RVC变声器RVC Fabric堂堂更新！",
+                    "duration": 196,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 3840,
+                      "height": 2160,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 8899277,
+                "section_id": 9924495,
+                "id": 217945654,
+                "aid": 117100270064727,
+                "cid": 40943945591,
+                "title": "为什么变声口齿不清",
+                "attribute": 0,
+                "arc": {
+                  "aid": 117100270064727,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i0.hdslb.com/bfs/archive/704e694145451ebbb4fc03b9b2e8b3a7b198649e.jpg",
+                  "title": "为什么变声口齿不清",
+                  "pubdate": 1786808452,
+                  "ctime": 1786808452,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 101,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 3546871148579062,
+                    "name": "图灵镜",
+                    "face": "https://i1.hdslb.com/bfs/face/6ad313111ac57f6bc3c05085b7fa3da1f1de8f3b.jpg"
+                  },
+                  "stat": {
+                    "aid": 117100270064727,
+                    "view": 1872,
+                    "danmaku": 0,
+                    "reply": 13,
+                    "fav": 105,
+                    "coin": 16,
+                    "share": 5,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 99,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 1872
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 40943945591,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "让凯伊告诉你为什么AI变声/翻唱会口齿不清",
+                  "duration": 101,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1u9b269E5b",
+                "pages": [
+                  {
+                    "cid": 40943945591,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "让凯伊告诉你为什么AI变声/翻唱会口齿不清",
+                    "duration": 101,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 1920,
+                      "height": 1080,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 8899277,
+                "section_id": 9924495,
+                "id": 217945655,
+                "aid": 117093458516910,
+                "cid": 40907114278,
+                "title": "RVC Fabric介绍",
+                "attribute": 0,
+                "arc": {
+                  "aid": 117093458516910,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i2.hdslb.com/bfs/archive/0d00be29c8e3cd1dbe77bfc4104b62ca0aa254cf.jpg",
+                  "title": "RVC Fabric介绍",
+                  "pubdate": 1786704672,
+                  "ctime": 1786704672,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 172,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 3546871148579062,
+                    "name": "图灵镜",
+                    "face": "https://i1.hdslb.com/bfs/face/6ad313111ac57f6bc3c05085b7fa3da1f1de8f3b.jpg"
+                  },
+                  "stat": {
+                    "aid": 117093458516910,
+                    "view": 7373,
+                    "danmaku": 0,
+                    "reply": 146,
+                    "fav": 543,
+                    "coin": 80,
+                    "share": 49,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 304,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 7373
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 40907114278,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "今天是爱丽丝介绍RVC Fabric变声器哦！",
+                  "duration": 172,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV15RgA6bE7J",
+                "pages": [
+                  {
+                    "cid": 40907114278,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "今天是爱丽丝介绍RVC Fabric变声器哦！",
+                    "duration": 172,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 1920,
+                      "height": 1080,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 8899277,
+                "section_id": 9924495,
+                "id": 217945656,
+                "aid": 117088089872458,
+                "cid": 40876638655,
+                "title": "RVC Fabric下载安装",
+                "attribute": 0,
+                "arc": {
+                  "aid": 117088089872458,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i0.hdslb.com/bfs/archive/dd4226eb83d652bd800277490717eb9e061fd5e9.jpg",
+                  "title": "RVC Fabric下载安装",
+                  "pubdate": 1786622831,
+                  "ctime": 1786622831,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 109,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 3546871148579062,
+                    "name": "图灵镜",
+                    "face": "https://i1.hdslb.com/bfs/face/6ad313111ac57f6bc3c05085b7fa3da1f1de8f3b.jpg"
+                  },
+                  "stat": {
+                    "aid": 117088089872458,
+                    "view": 4622,
+                    "danmaku": 66,
+                    "reply": 46,
+                    "fav": 229,
+                    "coin": 106,
+                    "share": 54,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 151,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 4622
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 40876638655,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "【变声器】千早爱音 · RVC Fabric教程堂堂发布 · 基于RVC深度优化定制的免费开源变声器 · 直链下载",
+                  "duration": 109,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1DRgH63EoL",
+                "pages": [
+                  {
+                    "cid": 40876638655,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "【变声器】千早爱音 · RVC Fabric教程堂堂发布 · 基于RVC深度优化定制的免费开源变声器 · 直链下载",
+                    "duration": 109,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 1920,
+                      "height": 1080,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 8899277,
+                "section_id": 9924495,
+                "id": 218092374,
+                "aid": 117139562305087,
+                "cid": 41165521066,
+                "title": "变声器/系统没声怎么办",
+                "attribute": 0,
+                "arc": {
+                  "aid": 117139562305087,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i0.hdslb.com/bfs/archive/6feb45ba3fdc22e56241c7ec477ce50c5134be1c.jpg",
+                  "title": "变声器/系统没声怎么办",
+                  "pubdate": 1787408086,
+                  "ctime": 1787408086,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 158,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 3546871148579062,
+                    "name": "图灵镜",
+                    "face": "https://i1.hdslb.com/bfs/face/6ad313111ac57f6bc3c05085b7fa3da1f1de8f3b.jpg"
+                  },
+                  "stat": {
+                    "aid": 117139562305087,
+                    "view": 2167,
+                    "danmaku": 17,
+                    "reply": 18,
+                    "fav": 90,
+                    "coin": 28,
+                    "share": 10,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 60,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 2167
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 41165521066,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "安装了变声器系统没声音了？好友听不到你变声的声音？马上教会你",
+                  "duration": 158,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1Ad826jETv",
+                "pages": [
+                  {
+                    "cid": 41165521066,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "安装了变声器系统没声音了？好友听不到你变声的声音？马上教会你",
+                    "duration": 158,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 1920,
+                      "height": 1080,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 8899277,
+                "section_id": 9924495,
+                "id": 218387845,
+                "aid": 117145300114341,
+                "cid": 41195210577,
+                "title": "RVC怎么配合SV做翻唱",
+                "attribute": 0,
+                "arc": {
+                  "aid": 117145300114341,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i2.hdslb.com/bfs/archive/b35f3519af70da5330a937c5143a7e4f90fed88b.jpg",
+                  "title": "RVC怎么配合SV做翻唱",
+                  "pubdate": 1787495609,
+                  "ctime": 1787495609,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 243,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 3546871148579062,
+                    "name": "图灵镜",
+                    "face": "https://i1.hdslb.com/bfs/face/6ad313111ac57f6bc3c05085b7fa3da1f1de8f3b.jpg"
+                  },
+                  "stat": {
+                    "aid": 117145300114341,
+                    "view": 1146,
+                    "danmaku": 0,
+                    "reply": 3,
+                    "fav": 88,
+                    "coin": 18,
+                    "share": 0,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 53,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 1146
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 41195210577,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "凯伊用一首《春日影》的时间教你用SV和RVC做AI翻唱",
+                  "duration": 243,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1rM8h6AEkb",
+                "pages": [
+                  {
+                    "cid": 41195210577,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "凯伊用一首《春日影》的时间教你用SV和RVC做AI翻唱",
+                    "duration": 243,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 1920,
+                      "height": 1080,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 8899277,
+                "section_id": 9924495,
+                "id": 218765819,
+                "aid": 117156960277752,
+                "cid": 41262317833,
+                "title": "变声参数怎么调",
+                "attribute": 0,
+                "arc": {
+                  "aid": 117156960277752,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i2.hdslb.com/bfs/archive/bf70be2ad6596059793fa488893cb19d442748cf.jpg",
+                  "title": "变声参数怎么调",
+                  "pubdate": 1787673708,
+                  "ctime": 1787673708,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 184,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 3546871148579062,
+                    "name": "图灵镜",
+                    "face": "https://i1.hdslb.com/bfs/face/6ad313111ac57f6bc3c05085b7fa3da1f1de8f3b.jpg"
+                  },
+                  "stat": {
+                    "aid": 117156960277752,
+                    "view": 925,
+                    "danmaku": 0,
+                    "reply": 20,
+                    "fav": 40,
+                    "coin": 28,
+                    "share": 9,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 32,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 925
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 41262317833,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "变声参数不会调？变出来基本没区别？高松灯教你调",
+                  "duration": 184,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1h2hV6TESA",
+                "pages": [
+                  {
+                    "cid": 41262317833,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "变声参数不会调？变出来基本没区别？高松灯教你调",
+                    "duration": 184,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 1920,
+                      "height": 1080,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 8899277,
+                "section_id": 9924495,
+                "id": 219248881,
+                "aid": 117167899090649,
+                "cid": 41332769426,
+                "title": "怎么让变声更像角色",
+                "attribute": 0,
+                "arc": {
+                  "aid": 117167899090649,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i0.hdslb.com/bfs/archive/e5fb4f8daecab0a71e466666bdf44d346c2f4136.jpg",
+                  "title": "怎么让变声更像角色",
+                  "pubdate": 1787840493,
+                  "ctime": 1787840493,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 240,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 3546871148579062,
+                    "name": "图灵镜",
+                    "face": "https://i1.hdslb.com/bfs/face/6ad313111ac57f6bc3c05085b7fa3da1f1de8f3b.jpg"
+                  },
+                  "stat": {
+                    "aid": 117167899090649,
+                    "view": 2534,
+                    "danmaku": 0,
+                    "reply": 34,
+                    "fav": 197,
+                    "coin": 26,
+                    "share": 12,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 146,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 2534
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 41332769426,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "变声的秘诀！让爱丽丝变声更像爱丽丝——变声即配音",
+                  "duration": 240,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1T74o6GEUj",
+                "pages": [
+                  {
+                    "cid": 41332769426,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "变声的秘诀！让爱丽丝变声更像爱丽丝——变声即配音",
+                    "duration": 240,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 1920,
+                      "height": 1080,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 8899277,
+                "section_id": 9924495,
+                "id": 219493691,
+                "aid": 117178653284887,
+                "cid": 41398437646,
+                "title": "怎么查看教程的教程",
+                "attribute": 0,
+                "arc": {
+                  "aid": 117178653284887,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i0.hdslb.com/bfs/archive/0adf785c7a95c1f3e26b11c85a1c719c272e5109.jpg",
+                  "title": "怎么查看教程的教程",
+                  "pubdate": 1788004404,
+                  "ctime": 1788004404,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 150,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 3546871148579062,
+                    "name": "图灵镜",
+                    "face": "https://i1.hdslb.com/bfs/face/6ad313111ac57f6bc3c05085b7fa3da1f1de8f3b.jpg"
+                  },
+                  "stat": {
+                    "aid": 117178653284887,
+                    "view": 710,
+                    "danmaku": 1,
+                    "reply": 12,
+                    "fav": 18,
+                    "coin": 12,
+                    "share": 0,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 22,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 710
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 41398437646,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "查看和使用变声器教程的教程 - RVC Fabric",
+                  "duration": 150,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV111426GEAm",
+                "pages": [
+                  {
+                    "cid": 41398437646,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "查看和使用变声器教程的教程 - RVC Fabric",
+                    "duration": 150,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 1920,
+                      "height": 1080,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 8899277,
+                "section_id": 9924495,
+                "id": 220071163,
+                "aid": 117196437131591,
+                "cid": 41499691347,
+                "title": "I卡A卡核显能玩变声器吗",
+                "attribute": 0,
+                "arc": {
+                  "aid": 117196437131591,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i0.hdslb.com/bfs/archive/e94553136b7ac72ec7d0144f2cfe004eeaa2a1f3.jpg",
+                  "title": "I卡A卡核显能玩变声器吗",
+                  "pubdate": 1788275810,
+                  "ctime": 1788275810,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 58,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 3546871148579062,
+                    "name": "图灵镜",
+                    "face": "https://i1.hdslb.com/bfs/face/6ad313111ac57f6bc3c05085b7fa3da1f1de8f3b.jpg"
+                  },
+                  "stat": {
+                    "aid": 117196437131591,
+                    "view": 1265,
+                    "danmaku": 35,
+                    "reply": 9,
+                    "fav": 66,
+                    "coin": 11,
+                    "share": 3,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 56,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 1265
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 41499691347,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "I卡A卡核显能玩变声器吗？又需要注意什么？",
+                  "duration": 58,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 2002,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1aFtV6ZEFY",
+                "pages": [
+                  {
+                    "cid": 41499691347,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "I卡A卡核显能玩变声器吗？又需要注意什么？",
+                    "duration": 58,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 2002,
+                      "height": 1080,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 8899277,
+                "section_id": 9924495,
+                "id": 222219336,
+                "aid": 117267136322477,
+                "cid": 41874948274,
+                "title": "GPT 6 Astra做的宣传片，为RVC Fabric变声器",
+                "attribute": 0,
+                "arc": {
+                  "aid": 117267136322477,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i1.hdslb.com/bfs/archive/4cd9f5945f00bb55d813d5501c50fa8665210fec.jpg",
+                  "title": "GPT 6 Astra做的宣传片，为RVC Fabric变声器",
+                  "pubdate": 1789354689,
+                  "ctime": 1789354689,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 135,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 3546871148579062,
+                    "name": "图灵镜",
+                    "face": "https://i1.hdslb.com/bfs/face/6ad313111ac57f6bc3c05085b7fa3da1f1de8f3b.jpg"
+                  },
+                  "stat": {
+                    "aid": 117267136322477,
+                    "view": 2528,
+                    "danmaku": 2,
+                    "reply": 33,
+                    "fav": 167,
+                    "coin": 45,
+                    "share": 25,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 102,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 2528
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 41874948274,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "GPT 6 Astra做的宣传片，为RVC Fabric变声器",
+                  "duration": 135,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 3840,
+                    "height": 2160,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1mJYr6jE9K",
+                "pages": [
+                  {
+                    "cid": 41874948274,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "GPT 6 Astra做的宣传片，为RVC Fabric变声器",
+                    "duration": 135,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 3840,
+                      "height": 2160,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "season_id": 8899277,
+            "id": 10127170,
+            "title": "其他",
+            "type": 0,
+            "episodes": [
+              {
+                "season_id": 8899277,
+                "section_id": 10127170,
+                "id": 221742420,
+                "aid": 117251550352946,
+                "cid": 41788835636,
+                "title": "我和我的群友都变成猫娘了？！喵言喵震撼发布（划掉）！",
+                "attribute": 0,
+                "arc": {
+                  "aid": 117251550352946,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i0.hdslb.com/bfs/archive/d8fb70d2ca9fc507ea66a468ca5cd95ad33e19f0.jpg",
+                  "title": "我和我的群友都变成猫娘了？！喵言喵震撼发布（划掉）！",
+                  "pubdate": 1789116779,
+                  "ctime": 1789116779,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 49,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 3546871148579062,
+                    "name": "图灵镜",
+                    "face": "https://i1.hdslb.com/bfs/face/6ad313111ac57f6bc3c05085b7fa3da1f1de8f3b.jpg"
+                  },
+                  "stat": {
+                    "aid": 117251550352946,
+                    "view": 2139,
+                    "danmaku": 100,
+                    "reply": 45,
+                    "fav": 126,
+                    "coin": 33,
+                    "share": 52,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 92,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 2139
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 41788835636,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "我和我的群友都变成猫娘了？！喵言喵震撼发布（划掉）！",
+                  "duration": 49,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1XuYE6REE7",
+                "pages": [
+                  {
+                    "cid": 41788835636,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "我和我的群友都变成猫娘了？！喵言喵震撼发布（划掉）！",
+                    "duration": 49,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 1920,
+                      "height": 1080,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 8899277,
+                "section_id": 10127170,
+                "id": 228796534,
+                "aid": 117472489379504,
+                "cid": 42897181965,
+                "title": "一键恢复PCL下载功能！",
+                "attribute": 0,
+                "arc": {
+                  "aid": 117472489379504,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i0.hdslb.com/bfs/archive/16383ad21b40c167a0891953771348c1a82f358f.jpg",
+                  "title": "一键恢复PCL下载功能！",
+                  "pubdate": 1792488147,
+                  "ctime": 1792488147,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 61,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 3546871148579062,
+                    "name": "图灵镜",
+                    "face": "https://i1.hdslb.com/bfs/face/6ad313111ac57f6bc3c05085b7fa3da1f1de8f3b.jpg"
+                  },
+                  "stat": {
+                    "aid": 117472489379504,
+                    "view": 13316,
+                    "danmaku": 1,
+                    "reply": 89,
+                    "fav": 814,
+                    "coin": 145,
+                    "share": 196,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 359,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 13316
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 42897181965,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "一键恢复PCL下载功能！",
+                  "duration": 61,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV18Wnc6MEKy",
+                "pages": [
+                  {
+                    "cid": 42897181965,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "一键恢复PCL下载功能！",
+                    "duration": 61,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 1920,
+                      "height": 1080,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              },
+              {
+                "season_id": 8899277,
+                "section_id": 10127170,
+                "id": 228850767,
+                "aid": 117473663784491,
+                "cid": 42904063594,
+                "title": "HMCL也要关闭下载功能了！支援未来！",
+                "attribute": 0,
+                "arc": {
+                  "aid": 117473663784491,
+                  "videos": 0,
+                  "type_id": 0,
+                  "type_name": "",
+                  "copyright": 0,
+                  "pic": "http://i0.hdslb.com/bfs/archive/6e47e6e2505fefc2385e30deeffcaa30008e730e.jpg",
+                  "title": "HMCL也要关闭下载功能了！支援未来！",
+                  "pubdate": 1792505935,
+                  "ctime": 1792505935,
+                  "desc": "",
+                  "state": 0,
+                  "duration": 55,
+                  "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0,
+                    "autoplay": 0,
+                    "ugc_pay": 0,
+                    "is_cooperation": 0,
+                    "ugc_pay_preview": 0,
+                    "arc_pay": 0,
+                    "free_watch": 0
+                  },
+                  "author": {
+                    "mid": 3546871148579062,
+                    "name": "图灵镜",
+                    "face": "https://i1.hdslb.com/bfs/face/6ad313111ac57f6bc3c05085b7fa3da1f1de8f3b.jpg"
+                  },
+                  "stat": {
+                    "aid": 117473663784491,
+                    "view": 10191,
+                    "danmaku": 3,
+                    "reply": 51,
+                    "fav": 437,
+                    "coin": 91,
+                    "share": 95,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 273,
+                    "dislike": 0,
+                    "evaluation": "",
+                    "argue_msg": "",
+                    "vt": 0,
+                    "vv": 10191
+                  },
+                  "dynamic": "",
+                  "dimension": {
+                    "width": 0,
+                    "height": 0,
+                    "rotate": 0
+                  },
+                  "desc_v2": null,
+                  "is_chargeable_season": false,
+                  "is_blooper": false,
+                  "enable_vt": 0,
+                  "vt_display": "",
+                  "type_id_v2": 0,
+                  "type_name_v2": "",
+                  "is_lesson_video": 0
+                },
+                "page": {
+                  "cid": 42904063594,
+                  "page": 1,
+                  "from": "vupload",
+                  "part": "HMCL也要关闭下载功能了！支援未来！",
+                  "duration": 55,
+                  "vid": "",
+                  "weblink": "",
+                  "dimension": {
+                    "width": 1920,
+                    "height": 1080,
+                    "rotate": 0
+                  }
+                },
+                "bvid": "BV1qgnA6REXg",
+                "pages": [
+                  {
+                    "cid": 42904063594,
+                    "page": 1,
+                    "from": "vupload",
+                    "part": "HMCL也要关闭下载功能了！支援未来！",
+                    "duration": 55,
+                    "vid": "",
+                    "weblink": "",
+                    "dimension": {
+                      "width": 1920,
+                      "height": 1080,
+                      "rotate": 0
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "is_season_display": true,
+      "user_garb": {
+        "url_image_ani_cut": ""
+      },
+      "honor_reply": {},
+      "like_icon": "",
+      "need_jump_bv": false,
+      "disable_show_up_info": false,
+      "is_story_play": 1,
+      "is_view_self": false
+    }
+  }
+}

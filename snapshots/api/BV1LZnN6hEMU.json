@@ -1,0 +1,161 @@
+{
+  "_snapshot_meta": {
+    "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1LZnN6hEMU",
+    "fetched_at": "2026-10-23 15:24:30",
+    "note": "Bilibili public API raw response, unmodified"
+  },
+  "response": {
+    "code": 0,
+    "message": "OK",
+    "ttl": 1,
+    "data": {
+      "bvid": "BV1LZnN6hEMU",
+      "aid": 117474049657648,
+      "videos": 1,
+      "tid": 17,
+      "tid_v2": 2078,
+      "tname": "",
+      "tname_v2": "",
+      "copyright": 3,
+      "pic": "http://i1.hdslb.com/bfs/archive/15fcbc201202dad6bf285e5b7c1c8b29775ea6fc.jpg",
+      "title": "一个举报，让国内所有 MC 启动器关停下载：这件事到底谁的错",
+      "pubdate": 1792511871,
+      "ctime": 1792511872,
+      "desc": "2026 年 10 月 20 日，国内几乎所有《我的世界》第三方启动器同时关闭了“下载游戏本体”功能。\n社区流传的说法是：一名未成年玩家在服务器充值后被家长举报，投诉一路“连坐”到了免费启动器。\n这条视频不站队、不加戏，只把三件事讲清楚：启动器到底是什么、EULA 这条线是怎么被踩的、\n以及为什么最后买单的总是普通玩家。\n00:00 事件当天\n00:22 发生了什么\n01:03 传闻中的导火索\n01:44 先说清楚启动器是什么\n02:21 真正的引信\n03:04 这笔账，到底谁付\n03:37 现在能做什么\n04:14 收尾\n⚠️ “家长举报”一节目前未经任何官方证实，视频中已明确标注为社区传闻。\n资料来源：公开报道与玩家社区讨论（游侠网 2026-10-20 报道、HMCL 仓库相关讨论、玩家论坛）。",
+      "desc_v2": [
+        {
+          "raw_text": "2026 年 10 月 20 日，国内几乎所有《我的世界》第三方启动器同时关闭了“下载游戏本体”功能。\n社区流传的说法是：一名未成年玩家在服务器充值后被家长举报，投诉一路“连坐”到了免费启动器。\n这条视频不站队、不加戏，只把三件事讲清楚：启动器到底是什么、EULA 这条线是怎么被踩的、\n以及为什么最后买单的总是普通玩家。\n00:00 事件当天\n00:22 发生了什么\n01:03 传闻中的导火索\n01:44 先说清楚启动器是什么\n02:21 真正的引信\n03:04 这笔账，到底谁付\n03:37 现在能做什么\n04:14 收尾\n⚠️ “家长举报”一节目前未经任何官方证实，视频中已明确标注为社区传闻。\n资料来源：公开报道与玩家社区讨论（游侠网 2026-10-20 报道、HMCL 仓库相关讨论、玩家论坛）。",
+          "type": 1,
+          "biz_id": 0
+        }
+      ],
+      "state": 0,
+      "duration": 275,
+      "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 0,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+      },
+      "owner": {
+        "mid": 3706997159496547,
+        "name": "mr_zhou_ch",
+        "face": "https://i1.hdslb.com/bfs/face/53bca3b6ca99b4a6f6de929360afe34d4faefa02.jpg"
+      },
+      "stat": {
+        "aid": 117474049657648,
+        "view": 22685,
+        "danmaku": 8,
+        "reply": 196,
+        "favorite": 103,
+        "coin": 19,
+        "share": 46,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 386,
+        "dislike": 0,
+        "evaluation": "",
+        "vt": 0
+      },
+      "argue_info": {
+        "argue_msg": "含AI生成内容",
+        "argue_type": 0,
+        "argue_link": ""
+      },
+      "dynamic": "",
+      "cid": 42906026466,
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "premiere": null,
+      "teenage_mode": 1,
+      "is_chargeable_season": false,
+      "is_story": false,
+      "is_upower_exclusive": false,
+      "is_upower_play": false,
+      "is_upower_preview": false,
+      "enable_vt": 0,
+      "vt_display": "",
+      "is_upower_exclusive_with_qa": false,
+      "is_hua_sheng": false,
+      "no_cache": false,
+      "pages": [
+        {
+          "cid": 42906026466,
+          "page": 1,
+          "from": "vupload",
+          "part": "一个举报，让国内所有 MC 启动器关停下载：这件事到底谁的错",
+          "duration": 275,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1920,
+            "height": 1080,
+            "rotate": 0
+          },
+          "first_frame": "http://i0.hdslb.com/bfs/storyff/_00000bw5p5feua7dp287n3kucvw8anb_firsti.jpg",
+          "ctime": 1792511872,
+          "asr_language": "cmn"
+        }
+      ],
+      "subtitle": {
+        "allow_submit": false,
+        "list": [
+          {
+            "id": 2133738014139161600,
+            "lan": "zh",
+            "lan_doc": "中文",
+            "is_lock": false,
+            "subtitle_url": "",
+            "type": 0,
+            "id_str": "2133738014139161600",
+            "ai_type": 0,
+            "ai_status": 0,
+            "subtitle_height": null,
+            "author": {
+              "mid": 0,
+              "name": "",
+              "sex": "",
+              "face": "",
+              "sign": "",
+              "rank": 0,
+              "birthday": 0,
+              "is_fake_account": 0,
+              "is_deleted": 0,
+              "in_reg_audit": 0,
+              "is_senior_member": 0,
+              "name_render": null,
+              "handle": ""
+            }
+          }
+        ]
+      },
+      "is_season_display": false,
+      "user_garb": {
+        "url_image_ani_cut": ""
+      },
+      "honor_reply": {},
+      "like_icon": "",
+      "need_jump_bv": false,
+      "disable_show_up_info": false,
+      "is_story_play": 1,
+      "is_view_self": false
+    }
+  }
+}

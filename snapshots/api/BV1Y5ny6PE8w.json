@@ -1,0 +1,133 @@
+{
+  "_snapshot_meta": {
+    "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Y5ny6PE8w",
+    "fetched_at": "2026-10-23 15:24:39",
+    "note": "Bilibili public API raw response, unmodified"
+  },
+  "response": {
+    "code": 0,
+    "message": "OK",
+    "ttl": 1,
+    "data": {
+      "bvid": "BV1Y5ny6PE8w",
+      "aid": 117481733691439,
+      "videos": 1,
+      "tid": 17,
+      "tid_v2": 2103,
+      "tname": "",
+      "tname_v2": "",
+      "copyright": 3,
+      "pic": "http://i0.hdslb.com/bfs/archive/b35664b407724cc220ce1ea97c7cb5ba1872e191.jpg",
+      "title": "请不要被带节奏！！！关于pcl远程执行漏洞被说成后门",
+      "pubdate": 1792629075,
+      "ctime": 1792629040,
+      "desc": "https://github.com/MiRinFork/PCLPoC\n这是一个pcl远程执行漏洞复现实验环境的仓库。感兴趣的可以去看一看",
+      "desc_v2": [
+        {
+          "raw_text": "https://github.com/MiRinFork/PCLPoC\n这是一个pcl远程执行漏洞复现实验环境的仓库。感兴趣的可以去看一看",
+          "type": 1,
+          "biz_id": 0
+        }
+      ],
+      "state": 0,
+      "duration": 59,
+      "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 0,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+      },
+      "owner": {
+        "mid": 3493120696126160,
+        "name": "雪仁啊",
+        "face": "https://i2.hdslb.com/bfs/face/dc2f9b36fef75a91c6e257736ba1c71c131dbab1.jpg"
+      },
+      "stat": {
+        "aid": 117481733691439,
+        "view": 1411,
+        "danmaku": 0,
+        "reply": 30,
+        "favorite": 4,
+        "coin": 2,
+        "share": 2,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 25,
+        "dislike": 0,
+        "evaluation": "",
+        "vt": 0
+      },
+      "argue_info": {
+        "argue_msg": "个人观点，仅供参考",
+        "argue_type": 0,
+        "argue_link": ""
+      },
+      "dynamic": "",
+      "cid": 42940697350,
+      "dimension": {
+        "width": 1080,
+        "height": 2160,
+        "rotate": 0
+      },
+      "premiere": null,
+      "teenage_mode": 1,
+      "is_chargeable_season": false,
+      "is_story": true,
+      "is_upower_exclusive": false,
+      "is_upower_play": false,
+      "is_upower_preview": false,
+      "enable_vt": 0,
+      "vt_display": "",
+      "is_upower_exclusive_with_qa": false,
+      "is_hua_sheng": false,
+      "no_cache": false,
+      "pages": [
+        {
+          "cid": 42940697350,
+          "page": 1,
+          "from": "vupload",
+          "part": "1792628774284",
+          "duration": 59,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1080,
+            "height": 2160,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_00000l7mmtqab8ixr2vrirb52wgjc8b_firsti.jpg",
+          "ctime": 1792629040,
+          "asr_language": "cmn"
+        }
+      ],
+      "subtitle": {
+        "allow_submit": false,
+        "list": []
+      },
+      "is_season_display": false,
+      "user_garb": {
+        "url_image_ani_cut": ""
+      },
+      "honor_reply": {},
+      "like_icon": "",
+      "need_jump_bv": false,
+      "disable_show_up_info": false,
+      "is_story_play": 1,
+      "is_view_self": false
+    }
+  }
+}

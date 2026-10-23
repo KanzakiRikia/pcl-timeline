@@ -1,8 +1,8 @@
 # 私发版本，不公开
 notes-technical.md
 
-# 临时脚本
-.tmp_*.ps1
+# 临时脚本（含抓取用的 Cookie，绝不入库）
+.tmp_*
 
 # IDE
 .aicoding-chat-workspace

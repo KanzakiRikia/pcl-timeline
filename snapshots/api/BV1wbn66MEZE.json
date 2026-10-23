@@ -1,0 +1,132 @@
+{
+  "_snapshot_meta": {
+    "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1wbn66MEZE",
+    "fetched_at": "2026-10-23 15:24:29",
+    "note": "Bilibili public API raw response, unmodified"
+  },
+  "response": {
+    "code": 0,
+    "message": "OK",
+    "ttl": 1,
+    "data": {
+      "bvid": "BV1wbn66MEZE",
+      "aid": 117479904908593,
+      "videos": 1,
+      "tid": 231,
+      "tid_v2": 2078,
+      "tname": "",
+      "tname_v2": "",
+      "copyright": 3,
+      "pic": "http://i2.hdslb.com/bfs/archive/e504d088fabc4e7f66ed5740439d908ce347763f.jpg",
+      "title": "三家 MC 启动器同一天关掉下载，我翻源码找那条「相关法律法规」",
+      "pubdate": 1792601174,
+      "ctime": 1792601174,
+      "desc": "2026 年 10 月 20 日，PCL、HMCL、PCL CE 三家 Minecraft 启动器在十几个小时里先后关掉了「下载游戏」这个功能，理由都是同一句话：为遵守相关法律法规。\n但没有任何一方说出是哪一条。这期视频把能查的东西都查了一遍。\n【代码里是什么】PCL 在 ModSecret.vb 里加了一个编译期常量 RestrictMcDownload = True，全局生效，没有任何地区判断；下载页、整合包安装、更新日志、异常提示，五处调用点全部硬封。HMCL 走的是另一条路：新增 RegionUtils，判断「设备时区/区域 + IP 归属地」双条件都指向中国大陆才禁用，并且是把整页 setDisable(true) 而不是删掉功能。PCL CE 则读取 Windows「设备设置区域」，只禁中国大陆的安装功能。\n【法条是哪一条】最接近的是《网络出版服务管理规定》第二十七条（网络游戏上网出版前须审批）与第五十一条（未经批准擅自上网出版网络游戏，取缔、没收违法所得与主要设备，违法经营额一万元以上并处五到十倍罚款）。这部规章 2016 年 3 月 10 日就施行了，不是新规。\n【流传的说法】未成年人在私服充值约 6000 元、家长举报服务器时连带举报 PCL、监管部门要求先关下载渠道——这四个环节目前都没有公开材料可以证实，视频里逐条标了「待证」。\n【现在还能怎么玩】Minecraft 官网仍然提供官方启动器下载；已安装的游戏不受影响；BakaXL 当天没有跟进。\n参考来源：PCL 2.99.0.0 release 页、PCL / HMCL / PCL CE 源码与提交记录、HMCL PR #7017、国家新闻出版署《网络出版服务管理规定》原文、网易《我的世界》官网页脚版号信息，以及 NexusMC 的事实梳理文章（CC BY-SA 4.0）。画面中出现的 GitHub 页面与新闻页面均为真实截图。\n本片解说词、分镜、动画全部自制，配乐程序化生成，未使用任何第三方版权素材。",
+      "desc_v2": [
+        {
+          "raw_text": "2026 年 10 月 20 日，PCL、HMCL、PCL CE 三家 Minecraft 启动器在十几个小时里先后关掉了「下载游戏」这个功能，理由都是同一句话：为遵守相关法律法规。\n但没有任何一方说出是哪一条。这期视频把能查的东西都查了一遍。\n【代码里是什么】PCL 在 ModSecret.vb 里加了一个编译期常量 RestrictMcDownload = True，全局生效，没有任何地区判断；下载页、整合包安装、更新日志、异常提示，五处调用点全部硬封。HMCL 走的是另一条路：新增 RegionUtils，判断「设备时区/区域 + IP 归属地」双条件都指向中国大陆才禁用，并且是把整页 setDisable(true) 而不是删掉功能。PCL CE 则读取 Windows「设备设置区域」，只禁中国大陆的安装功能。\n【法条是哪一条】最接近的是《网络出版服务管理规定》第二十七条（网络游戏上网出版前须审批）与第五十一条（未经批准擅自上网出版网络游戏，取缔、没收违法所得与主要设备，违法经营额一万元以上并处五到十倍罚款）。这部规章 2016 年 3 月 10 日就施行了，不是新规。\n【流传的说法】未成年人在私服充值约 6000 元、家长举报服务器时连带举报 PCL、监管部门要求先关下载渠道——这四个环节目前都没有公开材料可以证实，视频里逐条标了「待证」。\n【现在还能怎么玩】Minecraft 官网仍然提供官方启动器下载；已安装的游戏不受影响；BakaXL 当天没有跟进。\n参考来源：PCL 2.99.0.0 release 页、PCL / HMCL / PCL CE 源码与提交记录、HMCL PR #7017、国家新闻出版署《网络出版服务管理规定》原文、网易《我的世界》官网页脚版号信息，以及 NexusMC 的事实梳理文章（CC BY-SA 4.0）。画面中出现的 GitHub 页面与新闻页面均为真实截图。\n本片解说词、分镜、动画全部自制，配乐程序化生成，未使用任何第三方版权素材。",
+          "type": 1,
+          "biz_id": 0
+        }
+      ],
+      "state": 0,
+      "duration": 402,
+      "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 0,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+      },
+      "owner": {
+        "mid": 1319746293,
+        "name": "是小林呀awa",
+        "face": "https://i0.hdslb.com/bfs/face/7ed957e98ebed2a4a38079b781504f6baa6a275f.jpg"
+      },
+      "stat": {
+        "aid": 117479904908593,
+        "view": 29565,
+        "danmaku": 77,
+        "reply": 324,
+        "favorite": 667,
+        "coin": 90,
+        "share": 125,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 741,
+        "dislike": 0,
+        "evaluation": "",
+        "vt": 0
+      },
+      "argue_info": {
+        "argue_msg": "含AI生成内容",
+        "argue_type": 0,
+        "argue_link": ""
+      },
+      "dynamic": "",
+      "cid": 42935717802,
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "premiere": null,
+      "teenage_mode": 1,
+      "is_chargeable_season": false,
+      "is_story": false,
+      "is_upower_exclusive": false,
+      "is_upower_play": false,
+      "is_upower_preview": false,
+      "enable_vt": 0,
+      "vt_display": "",
+      "is_upower_exclusive_with_qa": false,
+      "is_hua_sheng": false,
+      "no_cache": false,
+      "pages": [
+        {
+          "cid": 42935717802,
+          "page": 1,
+          "from": "vupload",
+          "part": "三家 MC 启动器同一天关掉下载，我翻源码找那条「相关法律法规」",
+          "duration": 402,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 1920,
+            "height": 1080,
+            "rotate": 0
+          },
+          "first_frame": "http://i2.hdslb.com/bfs/storyff/_00002cm2udwvt1avd2j0chjw6wyg42b_firsti.jpg",
+          "ctime": 1792601174
+        }
+      ],
+      "subtitle": {
+        "allow_submit": false,
+        "list": []
+      },
+      "is_season_display": false,
+      "user_garb": {
+        "url_image_ani_cut": ""
+      },
+      "honor_reply": {},
+      "like_icon": "",
+      "need_jump_bv": false,
+      "disable_show_up_info": false,
+      "is_story_play": 1,
+      "is_view_self": false
+    }
+  }
+}

@@ -72,11 +72,29 @@ Invoke-RestMethod `
 
 ---
 
+## 第二组快照（同日补充，2026-10-23 晚）
+
+第一组 24 条为事件中的指控与背景视频。
+第二组 24 条为 10-20 政策调整的第三方记录、伪造版本分发样本，以及攻击后的评论性内容。
+
+| 类别 | BV |
+|---|---|
+| **10-20 政策调整**（其他启动器同日关闭） | BV1jmnc6QEM9、BV1DAnP6JEDS、BV18xnA6yEnU、BV1qgnA6REXg、BV1LZnN6hEMU、BV1pwnq6FEyw、BV1wbn66MEZE |
+| **伪造版本预警** | BV1Jrnc6dEnJ（霖翟，16:30:25）、BV1Snnc6gEZH |
+| **声称「修复」的分发** | BV1a7nc6GEkz、BV1wsnP6NEhF、BV1p6nA6NEAb、BV13cnP6DEua、BV15LnA6pEvc、BV1Stnq63EfE、BV1s9n16xEU1、BV1t5n46gEFo |
+| **指控主体** | BV1VFnK6FEXt（SEDET，23:53:25） |
+| **技术反驳 / 辟谣** | BV1Y5ny6PE8w、BV1FPnq6ZEFP、BV1K5ni6wEcd |
+| **攻击事件报道** | BV1UPns6uEvK、BV1XHnx61EMA |
+| **商业机构投稿** | BV1nCnA6AEYB（外星仔加速器，1,248,043 播放） |
+
+**合计 48 个快照。全部为匿名拓取（不依赖登录、不带 Cookie）。**
+
+---
+
 ## 已知限制
 
 - 匿名状态下只能取到公开字段；评论内容接口仅返回 3 条热评，未纳入快照。
 - 播放数在 B 站侧有缓存，接口读数可能滞后于页面显示。
 - 快照只证明「在 `fetched_at` 时刻，该接口返回了这些值」，
   **不证明该视频此后未被修改、删除或隐藏**。
-- 未包含 SEDET、霟翟两条视频（BV 号尚未取得）。
 - 未包含腾讯云后台、EdgeOne 通知、账单流水（仅截图，见主文件说明）。

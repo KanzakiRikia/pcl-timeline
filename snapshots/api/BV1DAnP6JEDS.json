@@ -1,0 +1,126 @@
+{
+  "_snapshot_meta": {
+    "source": "https://api.bilibili.com/x/web-interface/view?bvid=BV1DAnP6JEDS",
+    "fetched_at": "2026-10-23 15:24:32",
+    "note": "Bilibili public API raw response, unmodified"
+  },
+  "response": {
+    "code": 0,
+    "message": "OK",
+    "ttl": 1,
+    "data": {
+      "bvid": "BV1DAnP6JEDS",
+      "aid": 117473160596109,
+      "videos": 1,
+      "tid": 17,
+      "tid_v2": 2078,
+      "tname": "",
+      "tname_v2": "",
+      "copyright": 3,
+      "pic": "http://i2.hdslb.com/bfs/archive/eaee0da05f52dabc5c9dd7761dbb4e26cc7f044b.jpg",
+      "title": "PCL、HMCL无法下载mc？MC还能去哪下？",
+      "pubdate": 1792498332,
+      "ctime": 1792498332,
+      "desc": "",
+      "desc_v2": null,
+      "state": 0,
+      "duration": 133,
+      "rights": {
+        "bp": 0,
+        "elec": 0,
+        "download": 1,
+        "movie": 0,
+        "pay": 0,
+        "hd5": 0,
+        "no_reprint": 0,
+        "autoplay": 1,
+        "ugc_pay": 0,
+        "is_cooperation": 0,
+        "ugc_pay_preview": 0,
+        "no_background": 0,
+        "clean_mode": 0,
+        "is_stein_gate": 0,
+        "is_360": 0,
+        "no_share": 0,
+        "arc_pay": 0,
+        "free_watch": 0
+      },
+      "owner": {
+        "mid": 3706987739089227,
+        "name": "不正经游戏局",
+        "face": "https://i0.hdslb.com/bfs/face/a5de0521d32285acbfabe478ceb98fecebfe718c.jpg"
+      },
+      "stat": {
+        "aid": 117473160596109,
+        "view": 2247,
+        "danmaku": 1,
+        "reply": 26,
+        "favorite": 23,
+        "coin": 10,
+        "share": 8,
+        "now_rank": 0,
+        "his_rank": 0,
+        "like": 42,
+        "dislike": 0,
+        "evaluation": "",
+        "vt": 0
+      },
+      "argue_info": {
+        "argue_msg": "",
+        "argue_type": 0,
+        "argue_link": ""
+      },
+      "dynamic": "",
+      "cid": 42901179024,
+      "dimension": {
+        "width": 2560,
+        "height": 1440,
+        "rotate": 0
+      },
+      "premiere": null,
+      "teenage_mode": 1,
+      "is_chargeable_season": false,
+      "is_story": false,
+      "is_upower_exclusive": false,
+      "is_upower_play": false,
+      "is_upower_preview": false,
+      "enable_vt": 0,
+      "vt_display": "",
+      "is_upower_exclusive_with_qa": false,
+      "is_hua_sheng": false,
+      "no_cache": false,
+      "pages": [
+        {
+          "cid": 42901179024,
+          "page": 1,
+          "from": "vupload",
+          "part": "PCL、HMCL无法下载mc？MC还能去哪下？",
+          "duration": 133,
+          "vid": "",
+          "weblink": "",
+          "dimension": {
+            "width": 2560,
+            "height": 1440,
+            "rotate": 0
+          },
+          "first_frame": "http://i1.hdslb.com/bfs/storyff/_00001da1jnk6ybcs32gs48ltcqdk7lb_firsti.jpg",
+          "ctime": 1792498332
+        }
+      ],
+      "subtitle": {
+        "allow_submit": false,
+        "list": []
+      },
+      "is_season_display": false,
+      "user_garb": {
+        "url_image_ani_cut": ""
+      },
+      "honor_reply": {},
+      "like_icon": "",
+      "need_jump_bv": false,
+      "disable_show_up_info": false,
+      "is_story_play": 1,
+      "is_view_self": false
+    }
+  }
+}
