@@ -12,6 +12,8 @@
 |---|---|
 | [`pcl-timeline.md`](pcl-timeline.md) | 主文件 |
 | [`snapshots/`](snapshots/) | 接口快照：播放数、发布时间、简介原文等原始读数 |
+| [`snapshots/candidates.csv`](snapshots/candidates.csv) | 232 条「声称恢复下载」投稿的完整清单（Excel 可直接打开） |
+| [`tools/fetch_candidates.js`](tools/fetch_candidates.js) | 上面那份 CSV 的生成脚本，可重跑 |
 
 ## 可复现
 

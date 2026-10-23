@@ -116,6 +116,56 @@ https://api.github.com/repos/Meloong-Git/PCL/commits/{SHA}
 
 ---
 
+## 第三方分发清单（`candidates.csv`）
+
+| 项 | 值 |
+|---|---|
+| 文件 | `snapshots/candidates.csv` |
+| 条目 | **232** |
+| 时间范围 | 2026-10-20 15:35:57 至 2026-10-23 12:48:15（北京时间） |
+| 编码 | UTF-8 BOM（Excel 双击可开） |
+| 生成脚本 | `tools/fetch_candidates.js` |
+
+**抓取方法**：12 组关键词 × 3 页，`order=pubdate` 按发布时间倒序，
+翻到发布早于 2026-10-20 00:00 即停止，按 BV 号去重，
+再逐条请求 `x/web-interface/view` 补全简介、时长、投稿人 UID。
+
+**字段说明**
+
+| 字段 | 含义 |
+|---|---|
+| `bvid` | 视频 BV 号 |
+| `pubdate_bj` | 发布时间（已换算为 UTC+8） |
+| `author` / `mid` | UP 主昵称 / UID |
+| `mid_digits` | UID 位数（16 位为近年新号段） |
+| `play` | 播放数（抓取时刻） |
+| `duration_sec` | 时长（秒） |
+| `up_videos_in_this_csv` | 该 UP 主在本批 232 条中出现几次 |
+| `title_flag_restore` | 标题是否含「恢复／修复／复活／解除／一键／插件／工具／破解／绕过／解决」 |
+| `desc_has_download_link` | 简介是否含下列域名之一 |
+| `download_domains` | 命中的域名，多个用 `\|` 分隔 |
+| `title` | 标题（已去 HTML 标签） |
+| `desc_head` | 简介前 150 字（空白已折叠） |
+
+**链接域名白名单**：`pan.quark.cn`、`pan.baidu.com`、`lanzou`、`123pan`、
+`aliyundrive`、`alipan`、`github.com`、`pan.xunlei.com`、`cowtransfer`、
+`weiyun`、`ctfile`、`share.weiyun`、`drive.google`、`mega.nz`、`onedrive`。
+
+**这是字符串匹配，不是人工判定。**
+`title_flag_restore=1` 只说明标题里出现了这些词，
+`desc_has_download_link=1` 只说明简介里出现了这些域名。
+**两项都为 1 不代表该文件有害，也不代表任何主观意图。**
+
+**复现**：
+
+```powershell
+node tools/fetch_candidates.js
+```
+
+Cookie 从环境变量 `BILI_COOKIE` 读，没有则匿名运行，脚本内不含任何凭据。
+
+---
+
 ## 已知限制
 
 - 匿名状态下只能取到公开字段；评论内容接口仅返回 3 条热评，未纳入快照。
