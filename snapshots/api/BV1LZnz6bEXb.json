@@ -1,0 +1,136 @@
+﻿{
+    "_snapshot_meta":  {
+                           "source":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1LZnz6bEXb",
+                           "fetched_at":  "2026-10-23 15:17:18",
+                           "note":  "Bilibili public API raw response, unmodified"
+                       },
+    "response":  {
+                     "code":  0,
+                     "message":  "OK",
+                     "ttl":  1,
+                     "data":  {
+                                  "bvid":  "BV1LZnz6bEXb",
+                                  "aid":  117479972014653,
+                                  "videos":  1,
+                                  "tid":  230,
+                                  "tid_v2":  2103,
+                                  "tname":  "",
+                                  "tname_v2":  "",
+                                  "copyright":  1,
+                                  "pic":  "http://i2.hdslb.com/bfs/archive/c152d498cd4685a83f10bc04bef4f9f583d5515a.jpg",
+                                  "title":  "PCL2曝远程shell执行后门，附PoC",
+                                  "pubdate":  1792602210,
+                                  "ctime":  1792602210,
+                                  "desc":  "关闭UAC可直接提权用户权限",
+                                  "desc_v2":  [
+                                                  {
+                                                      "raw_text":  "关闭UAC可直接提权用户权限",
+                                                      "type":  1,
+                                                      "biz_id":  0
+                                                  }
+                                              ],
+                                  "state":  0,
+                                  "duration":  35,
+                                  "rights":  {
+                                                 "bp":  0,
+                                                 "elec":  0,
+                                                 "download":  1,
+                                                 "movie":  0,
+                                                 "pay":  0,
+                                                 "hd5":  0,
+                                                 "no_reprint":  0,
+                                                 "autoplay":  1,
+                                                 "ugc_pay":  0,
+                                                 "is_cooperation":  0,
+                                                 "ugc_pay_preview":  0,
+                                                 "no_background":  0,
+                                                 "clean_mode":  0,
+                                                 "is_stein_gate":  0,
+                                                 "is_360":  0,
+                                                 "no_share":  0,
+                                                 "arc_pay":  0,
+                                                 "free_watch":  0
+                                             },
+                                  "owner":  {
+                                                "mid":  9747000,
+                                                "name":  "盖的二次方",
+                                                "face":  "https://i0.hdslb.com/bfs/face/40eb950c202d75418bcff08c9e8592789f504509.jpg"
+                                            },
+                                  "stat":  {
+                                               "aid":  117479972014653,
+                                               "view":  3926,
+                                               "danmaku":  1,
+                                               "reply":  24,
+                                               "favorite":  17,
+                                               "coin":  6,
+                                               "share":  21,
+                                               "now_rank":  0,
+                                               "his_rank":  0,
+                                               "like":  15,
+                                               "dislike":  0,
+                                               "evaluation":  "",
+                                               "vt":  0
+                                           },
+                                  "argue_info":  {
+                                                     "argue_msg":  "",
+                                                     "argue_type":  0,
+                                                     "argue_link":  ""
+                                                 },
+                                  "dynamic":  "",
+                                  "cid":  42936108436,
+                                  "dimension":  {
+                                                    "width":  1920,
+                                                    "height":  1080,
+                                                    "rotate":  0
+                                                },
+                                  "premiere":  null,
+                                  "teenage_mode":  1,
+                                  "is_chargeable_season":  false,
+                                  "is_story":  false,
+                                  "is_upower_exclusive":  false,
+                                  "is_upower_play":  false,
+                                  "is_upower_preview":  false,
+                                  "enable_vt":  0,
+                                  "vt_display":  "",
+                                  "is_upower_exclusive_with_qa":  false,
+                                  "is_hua_sheng":  false,
+                                  "no_cache":  false,
+                                  "pages":  [
+                                                {
+                                                    "cid":  42936108436,
+                                                    "page":  1,
+                                                    "from":  "vupload",
+                                                    "part":  "VID_20261022_004847_563",
+                                                    "duration":  35,
+                                                    "vid":  "",
+                                                    "weblink":  "",
+                                                    "dimension":  {
+                                                                      "width":  1920,
+                                                                      "height":  1080,
+                                                                      "rotate":  0
+                                                                  },
+                                                    "first_frame":  "http://i2.hdslb.com/bfs/storyff/_000036w4uqcu0hzx61z8mh2rrn154xb_firsti.jpg",
+                                                    "ctime":  1792602210
+                                                }
+                                            ],
+                                  "subtitle":  {
+                                                   "allow_submit":  false,
+                                                   "list":  [
+
+                                                            ]
+                                               },
+                                  "is_season_display":  false,
+                                  "user_garb":  {
+                                                    "url_image_ani_cut":  ""
+                                                },
+                                  "honor_reply":  {
+
+                                                  },
+                                  "like_icon":  "",
+                                  "need_jump_bv":  false,
+                                  "disable_show_up_info":  false,
+                                  "is_story_play":  1,
+                                  "is_view_self":  false
+                              }
+                 }
+}

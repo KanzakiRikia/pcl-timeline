@@ -1,0 +1,594 @@
+﻿{
+    "_snapshot_meta":  {
+                           "source":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1DL411k74U",
+                           "fetched_at":  "2026-10-23 15:17:29",
+                           "note":  "Bilibili public API raw response, unmodified"
+                       },
+    "response":  {
+                     "code":  0,
+                     "message":  "OK",
+                     "ttl":  1,
+                     "data":  {
+                                  "bvid":  "BV1DL411k74U",
+                                  "aid":  441031572,
+                                  "videos":  1,
+                                  "tid":  17,
+                                  "tid_v2":  2078,
+                                  "tname":  "",
+                                  "tname_v2":  "",
+                                  "copyright":  1,
+                                  "pic":  "http://i2.hdslb.com/bfs/archive/e62297efb7d2b73ec14aff230bffb059005cfc82.jpg",
+                                  "title":  "全网都在吹的简幻欢，到底表现如何",
+                                  "pubdate":  1679047200,
+                                  "ctime":  1679034622,
+                                  "desc":  "由于新版本SFE开发不顺利，SFE3.1 已于 2023年2月6日更新，作为3.0的小补丁更新，解决3.0中遇到的一些问题，并继续进行维护。\n\n主要更新内容包括：  \n\n1.抗DDoS聚合线路：集成多线访问的同时显著提高节点稳定性，有效缓解DDoS攻击。 \n\n2.面板更新：全面汉化，更易于使用。  \n\n3.节点配置提升，不再自动关闭服务器：显著提高服务器在线时间。  保障基础节点的基本使用体验，4核心8G内存基础节点统一48积分/天，签到一天可用16整天。\n\n4.更多的高频节点：增加多个高频节点（I9-13900K，I7-13700K），满足部分服务端的高性能需求。（2月中下旬上线）\n\n仍然保持的内容：\n\n1.公益免费：纯公益，整个项目内无任何付费项目，不接受有条件赞助。\n\n2.极低延迟：BGP三网聚合线路，国内延迟极低。\n\n3.简单易用：还是那个简幻欢，简单上手，3分钟开启一个属于自己的服务器！\n\n关于简幻欢：\n\n简幻欢是国内为数不多完全免费的公益服务器项目，支持我的世界（包括JAVA版本和基岩版本），泰拉瑞亚，像素工厂，铁锈战争等多款游戏的服务器联机，采用国内高质量BGP带宽，高性能物理机集群，Docker资源隔离，具有简单易用的管理控制台，单服提供4核心8G内存 超高性能，支持一键部署，从创建服务器到玩家进服仅需3分钟。",
+                                  "desc_v2":  [
+                                                  {
+                                                      "raw_text":  "由于新版本SFE开发不顺利，SFE3.1 已于 2023年2月6日更新，作为3.0的小补丁更新，解决3.0中遇到的一些问题，并继续进行维护。\n\n主要更新内容包括：  \n\n1.抗DDoS聚合线路：集成多线访问的同时显著提高节点稳定性，有效缓解DDoS攻击。 \n\n2.面板更新：全面汉化，更易于使用。  \n\n3.节点配置提升，不再自动关闭服务器：显著提高服务器在线时间。  保障基础节点的基本使用体验，4核心8G内存基础节点统一48积分/天，签到一天可用16整天。\n\n4.更多的高频节点：增加多个高频节点（I9-13900K，I7-13700K），满足部分服务端的高性能需求。（2月中下旬上线）\n\n仍然保持的内容：\n\n1.公益免费：纯公益，整个项目内无任何付费项目，不接受有条件赞助。\n\n2.极低延迟：BGP三网聚合线路，国内延迟极低。\n\n3.简单易用：还是那个简幻欢，简单上手，3分钟开启一个属于自己的服务器！\n\n关于简幻欢：\n\n简幻欢是国内为数不多完全免费的公益服务器项目，支持我的世界（包括JAVA版本和基岩版本），泰拉瑞亚，像素工厂，铁锈战争等多款游戏的服务器联机，采用国内高质量BGP带宽，高性能物理机集群，Docker资源隔离，具有简单易用的管理控制台，单服提供4核心8G内存 超高性能，支持一键部署，从创建服务器到玩家进服仅需3分钟。",
+                                                      "type":  1,
+                                                      "biz_id":  0
+                                                  }
+                                              ],
+                                  "state":  0,
+                                  "duration":  150,
+                                  "rights":  {
+                                                 "bp":  0,
+                                                 "elec":  0,
+                                                 "download":  1,
+                                                 "movie":  0,
+                                                 "pay":  0,
+                                                 "hd5":  1,
+                                                 "no_reprint":  1,
+                                                 "autoplay":  1,
+                                                 "ugc_pay":  0,
+                                                 "is_cooperation":  0,
+                                                 "ugc_pay_preview":  0,
+                                                 "no_background":  0,
+                                                 "clean_mode":  0,
+                                                 "is_stein_gate":  0,
+                                                 "is_360":  0,
+                                                 "no_share":  0,
+                                                 "arc_pay":  0,
+                                                 "free_watch":  0
+                                             },
+                                  "owner":  {
+                                                "mid":  362162451,
+                                                "name":  "有问题的红河",
+                                                "face":  "https://i0.hdslb.com/bfs/face/dd43f5894b84d367e2572e39bcca625fe99f570c.jpg"
+                                            },
+                                  "stat":  {
+                                               "aid":  441031572,
+                                               "view":  147609,
+                                               "danmaku":  302,
+                                               "reply":  273,
+                                               "favorite":  2603,
+                                               "coin":  1038,
+                                               "share":  329,
+                                               "now_rank":  0,
+                                               "his_rank":  0,
+                                               "like":  4652,
+                                               "dislike":  0,
+                                               "evaluation":  "",
+                                               "vt":  0
+                                           },
+                                  "argue_info":  {
+                                                     "argue_msg":  "",
+                                                     "argue_type":  0,
+                                                     "argue_link":  ""
+                                                 },
+                                  "dynamic":  "简幻最大更新",
+                                  "cid":  1056933565,
+                                  "dimension":  {
+                                                    "width":  1920,
+                                                    "height":  1080,
+                                                    "rotate":  0
+                                                },
+                                  "season_id":  981839,
+                                  "premiere":  null,
+                                  "teenage_mode":  0,
+                                  "is_chargeable_season":  false,
+                                  "is_story":  false,
+                                  "is_upower_exclusive":  false,
+                                  "is_upower_play":  false,
+                                  "is_upower_preview":  false,
+                                  "enable_vt":  0,
+                                  "vt_display":  "",
+                                  "is_upower_exclusive_with_qa":  false,
+                                  "is_hua_sheng":  false,
+                                  "no_cache":  false,
+                                  "pages":  [
+                                                {
+                                                    "cid":  1056933565,
+                                                    "page":  1,
+                                                    "from":  "vupload",
+                                                    "part":  "全网都在吹的简幻欢，到底表现如何",
+                                                    "duration":  150,
+                                                    "vid":  "",
+                                                    "weblink":  "",
+                                                    "dimension":  {
+                                                                      "width":  1920,
+                                                                      "height":  1080,
+                                                                      "rotate":  0
+                                                                  },
+                                                    "first_frame":  "http://i2.hdslb.com/bfs/storyff/n230317qneksubphjske51mzcbbxlg64_firsti.jpg",
+                                                    "ctime":  1679034622
+                                                }
+                                            ],
+                                  "subtitle":  {
+                                                   "allow_submit":  false,
+                                                   "list":  [
+
+                                                            ]
+                                               },
+                                  "ugc_season":  {
+                                                     "id":  981839,
+                                                     "title":  "杂谈",
+                                                     "cover":  "https://archive.biliimg.com/bfs/archive/232d695889429489ff4df63176988290c72270a7.jpg",
+                                                     "mid":  362162451,
+                                                     "intro":  "",
+                                                     "sign_state":  0,
+                                                     "attribute":  140,
+                                                     "stat":  {
+                                                                  "season_id":  981839,
+                                                                  "view":  1105316,
+                                                                  "danmaku":  4523,
+                                                                  "reply":  3854,
+                                                                  "fav":  19107,
+                                                                  "coin":  29833,
+                                                                  "share":  2400,
+                                                                  "now_rank":  0,
+                                                                  "his_rank":  0,
+                                                                  "like":  91694,
+                                                                  "vt":  0,
+                                                                  "vv":  0
+                                                              },
+                                                     "ep_count":  4,
+                                                     "season_type":  1,
+                                                     "is_pay_season":  false,
+                                                     "enable_vt":  0,
+                                                     "sections":  [
+                                                                      {
+                                                                          "season_id":  981839,
+                                                                          "id":  1134149,
+                                                                          "title":  "正片",
+                                                                          "type":  1,
+                                                                          "episodes":  [
+                                                                                           {
+                                                                                               "season_id":  981839,
+                                                                                               "section_id":  1134149,
+                                                                                               "id":  22407618,
+                                                                                               "aid":  949459096,
+                                                                                               "cid":  1011442381,
+                                                                                               "title":  "网易是如何让新玩家不知道有 Minecraft 国际版的",
+                                                                                               "attribute":  0,
+                                                                                               "arc":  {
+                                                                                                           "aid":  949459096,
+                                                                                                           "videos":  0,
+                                                                                                           "type_id":  0,
+                                                                                                           "type_name":  "",
+                                                                                                           "copyright":  0,
+                                                                                                           "pic":  "http://i2.hdslb.com/bfs/archive/2828dbe302d86bef8a03685e529f4913290b629d.jpg",
+                                                                                                           "title":  "网易是如何让新玩家不知道有 Minecraft 国际版的",
+                                                                                                           "pubdate":  1676603100,
+                                                                                                           "ctime":  1676603100,
+                                                                                                           "desc":  "",
+                                                                                                           "state":  0,
+                                                                                                           "duration":  134,
+                                                                                                           "rights":  {
+                                                                                                                          "bp":  0,
+                                                                                                                          "elec":  0,
+                                                                                                                          "download":  0,
+                                                                                                                          "movie":  0,
+                                                                                                                          "pay":  0,
+                                                                                                                          "hd5":  0,
+                                                                                                                          "no_reprint":  0,
+                                                                                                                          "autoplay":  0,
+                                                                                                                          "ugc_pay":  0,
+                                                                                                                          "is_cooperation":  0,
+                                                                                                                          "ugc_pay_preview":  0,
+                                                                                                                          "arc_pay":  0,
+                                                                                                                          "free_watch":  0
+                                                                                                                      },
+                                                                                                           "author":  {
+                                                                                                                          "mid":  362162451,
+                                                                                                                          "name":  "有问题的红河",
+                                                                                                                          "face":  "https://i0.hdslb.com/bfs/face/dd43f5894b84d367e2572e39bcca625fe99f570c.jpg"
+                                                                                                                      },
+                                                                                                           "stat":  {
+                                                                                                                        "aid":  949459096,
+                                                                                                                        "view":  234235,
+                                                                                                                        "danmaku":  1255,
+                                                                                                                        "reply":  881,
+                                                                                                                        "fav":  2309,
+                                                                                                                        "coin":  614,
+                                                                                                                        "share":  253,
+                                                                                                                        "now_rank":  0,
+                                                                                                                        "his_rank":  0,
+                                                                                                                        "like":  9983,
+                                                                                                                        "dislike":  0,
+                                                                                                                        "evaluation":  "",
+                                                                                                                        "argue_msg":  "",
+                                                                                                                        "vt":  0,
+                                                                                                                        "vv":  234235
+                                                                                                                    },
+                                                                                                           "dynamic":  "",
+                                                                                                           "dimension":  {
+                                                                                                                             "width":  0,
+                                                                                                                             "height":  0,
+                                                                                                                             "rotate":  0
+                                                                                                                         },
+                                                                                                           "desc_v2":  null,
+                                                                                                           "is_chargeable_season":  false,
+                                                                                                           "is_blooper":  false,
+                                                                                                           "enable_vt":  0,
+                                                                                                           "vt_display":  "",
+                                                                                                           "type_id_v2":  0,
+                                                                                                           "type_name_v2":  "",
+                                                                                                           "is_lesson_video":  0
+                                                                                                       },
+                                                                                               "page":  {
+                                                                                                            "cid":  1011442381,
+                                                                                                            "page":  1,
+                                                                                                            "from":  "vupload",
+                                                                                                            "part":  "网易是如何让新玩家不知道有 Minecraft 国际版的",
+                                                                                                            "duration":  134,
+                                                                                                            "vid":  "",
+                                                                                                            "weblink":  "",
+                                                                                                            "dimension":  {
+                                                                                                                              "width":  1920,
+                                                                                                                              "height":  1080,
+                                                                                                                              "rotate":  0
+                                                                                                                          }
+                                                                                                        },
+                                                                                               "bvid":  "BV1Ms4y1Y7rX",
+                                                                                               "pages":  [
+                                                                                                             {
+                                                                                                                 "cid":  1011442381,
+                                                                                                                 "page":  1,
+                                                                                                                 "from":  "vupload",
+                                                                                                                 "part":  "网易是如何让新玩家不知道有 Minecraft 国际版的",
+                                                                                                                 "duration":  134,
+                                                                                                                 "vid":  "",
+                                                                                                                 "weblink":  "",
+                                                                                                                 "dimension":  {
+                                                                                                                                   "width":  1920,
+                                                                                                                                   "height":  1080,
+                                                                                                                                   "rotate":  0
+                                                                                                                               }
+                                                                                                             }
+                                                                                                         ]
+                                                                                           },
+                                                                                           {
+                                                                                               "season_id":  981839,
+                                                                                               "section_id":  1134149,
+                                                                                               "id":  24676963,
+                                                                                               "aid":  441031572,
+                                                                                               "cid":  1056933565,
+                                                                                               "title":  "全网都在吹的简幻欢，到底表现如何",
+                                                                                               "attribute":  0,
+                                                                                               "arc":  {
+                                                                                                           "aid":  441031572,
+                                                                                                           "videos":  0,
+                                                                                                           "type_id":  0,
+                                                                                                           "type_name":  "",
+                                                                                                           "copyright":  0,
+                                                                                                           "pic":  "http://i2.hdslb.com/bfs/archive/e62297efb7d2b73ec14aff230bffb059005cfc82.jpg",
+                                                                                                           "title":  "全网都在吹的简幻欢，到底表现如何",
+                                                                                                           "pubdate":  1679047200,
+                                                                                                           "ctime":  1679047200,
+                                                                                                           "desc":  "",
+                                                                                                           "state":  0,
+                                                                                                           "duration":  150,
+                                                                                                           "rights":  {
+                                                                                                                          "bp":  0,
+                                                                                                                          "elec":  0,
+                                                                                                                          "download":  0,
+                                                                                                                          "movie":  0,
+                                                                                                                          "pay":  0,
+                                                                                                                          "hd5":  0,
+                                                                                                                          "no_reprint":  0,
+                                                                                                                          "autoplay":  0,
+                                                                                                                          "ugc_pay":  0,
+                                                                                                                          "is_cooperation":  0,
+                                                                                                                          "ugc_pay_preview":  0,
+                                                                                                                          "arc_pay":  0,
+                                                                                                                          "free_watch":  0
+                                                                                                                      },
+                                                                                                           "author":  {
+                                                                                                                          "mid":  362162451,
+                                                                                                                          "name":  "有问题的红河",
+                                                                                                                          "face":  "https://i0.hdslb.com/bfs/face/dd43f5894b84d367e2572e39bcca625fe99f570c.jpg"
+                                                                                                                      },
+                                                                                                           "stat":  {
+                                                                                                                        "aid":  441031572,
+                                                                                                                        "view":  147609,
+                                                                                                                        "danmaku":  302,
+                                                                                                                        "reply":  273,
+                                                                                                                        "fav":  2603,
+                                                                                                                        "coin":  1038,
+                                                                                                                        "share":  329,
+                                                                                                                        "now_rank":  0,
+                                                                                                                        "his_rank":  0,
+                                                                                                                        "like":  4652,
+                                                                                                                        "dislike":  0,
+                                                                                                                        "evaluation":  "",
+                                                                                                                        "argue_msg":  "",
+                                                                                                                        "vt":  0,
+                                                                                                                        "vv":  147609
+                                                                                                                    },
+                                                                                                           "dynamic":  "",
+                                                                                                           "dimension":  {
+                                                                                                                             "width":  0,
+                                                                                                                             "height":  0,
+                                                                                                                             "rotate":  0
+                                                                                                                         },
+                                                                                                           "desc_v2":  null,
+                                                                                                           "is_chargeable_season":  false,
+                                                                                                           "is_blooper":  false,
+                                                                                                           "enable_vt":  0,
+                                                                                                           "vt_display":  "",
+                                                                                                           "type_id_v2":  0,
+                                                                                                           "type_name_v2":  "",
+                                                                                                           "is_lesson_video":  0
+                                                                                                       },
+                                                                                               "page":  {
+                                                                                                            "cid":  1056933565,
+                                                                                                            "page":  1,
+                                                                                                            "from":  "vupload",
+                                                                                                            "part":  "全网都在吹的简幻欢，到底表现如何",
+                                                                                                            "duration":  150,
+                                                                                                            "vid":  "",
+                                                                                                            "weblink":  "",
+                                                                                                            "dimension":  {
+                                                                                                                              "width":  1920,
+                                                                                                                              "height":  1080,
+                                                                                                                              "rotate":  0
+                                                                                                                          }
+                                                                                                        },
+                                                                                               "bvid":  "BV1DL411k74U",
+                                                                                               "pages":  [
+                                                                                                             {
+                                                                                                                 "cid":  1056933565,
+                                                                                                                 "page":  1,
+                                                                                                                 "from":  "vupload",
+                                                                                                                 "part":  "全网都在吹的简幻欢，到底表现如何",
+                                                                                                                 "duration":  150,
+                                                                                                                 "vid":  "",
+                                                                                                                 "weblink":  "",
+                                                                                                                 "dimension":  {
+                                                                                                                                   "width":  1920,
+                                                                                                                                   "height":  1080,
+                                                                                                                                   "rotate":  0
+                                                                                                                               }
+                                                                                                             }
+                                                                                                         ]
+                                                                                           },
+                                                                                           {
+                                                                                               "season_id":  981839,
+                                                                                               "section_id":  1134149,
+                                                                                               "id":  31007025,
+                                                                                               "aid":  911839813,
+                                                                                               "cid":  1150901215,
+                                                                                               "title":  "公益就该被攻击？你们有什么资格拿玩家的血汗当利剑？",
+                                                                                               "attribute":  0,
+                                                                                               "arc":  {
+                                                                                                           "aid":  911839813,
+                                                                                                           "videos":  0,
+                                                                                                           "type_id":  0,
+                                                                                                           "type_name":  "",
+                                                                                                           "copyright":  0,
+                                                                                                           "pic":  "http://i0.hdslb.com/bfs/archive/f107543e9623aed17d95388c836dc78914829c91.jpg",
+                                                                                                           "title":  "公益就该被攻击？你们有什么资格拿玩家的血汗当利剑？",
+                                                                                                           "pubdate":  1685750400,
+                                                                                                           "ctime":  1685750400,
+                                                                                                           "desc":  "",
+                                                                                                           "state":  0,
+                                                                                                           "duration":  292,
+                                                                                                           "rights":  {
+                                                                                                                          "bp":  0,
+                                                                                                                          "elec":  0,
+                                                                                                                          "download":  0,
+                                                                                                                          "movie":  0,
+                                                                                                                          "pay":  0,
+                                                                                                                          "hd5":  0,
+                                                                                                                          "no_reprint":  0,
+                                                                                                                          "autoplay":  0,
+                                                                                                                          "ugc_pay":  0,
+                                                                                                                          "is_cooperation":  0,
+                                                                                                                          "ugc_pay_preview":  0,
+                                                                                                                          "arc_pay":  0,
+                                                                                                                          "free_watch":  0
+                                                                                                                      },
+                                                                                                           "author":  {
+                                                                                                                          "mid":  362162451,
+                                                                                                                          "name":  "有问题的红河",
+                                                                                                                          "face":  "https://i0.hdslb.com/bfs/face/dd43f5894b84d367e2572e39bcca625fe99f570c.jpg"
+                                                                                                                      },
+                                                                                                           "stat":  {
+                                                                                                                        "aid":  911839813,
+                                                                                                                        "view":  381999,
+                                                                                                                        "danmaku":  2646,
+                                                                                                                        "reply":  2162,
+                                                                                                                        "fav":  13742,
+                                                                                                                        "coin":  27815,
+                                                                                                                        "share":  1658,
+                                                                                                                        "now_rank":  0,
+                                                                                                                        "his_rank":  0,
+                                                                                                                        "like":  69074,
+                                                                                                                        "dislike":  0,
+                                                                                                                        "evaluation":  "",
+                                                                                                                        "argue_msg":  "",
+                                                                                                                        "vt":  0,
+                                                                                                                        "vv":  381999
+                                                                                                                    },
+                                                                                                           "dynamic":  "",
+                                                                                                           "dimension":  {
+                                                                                                                             "width":  0,
+                                                                                                                             "height":  0,
+                                                                                                                             "rotate":  0
+                                                                                                                         },
+                                                                                                           "desc_v2":  null,
+                                                                                                           "is_chargeable_season":  false,
+                                                                                                           "is_blooper":  false,
+                                                                                                           "enable_vt":  0,
+                                                                                                           "vt_display":  "",
+                                                                                                           "type_id_v2":  0,
+                                                                                                           "type_name_v2":  "",
+                                                                                                           "is_lesson_video":  0
+                                                                                                       },
+                                                                                               "page":  {
+                                                                                                            "cid":  1150901215,
+                                                                                                            "page":  1,
+                                                                                                            "from":  "vupload",
+                                                                                                            "part":  "公益就该被攻击？你们有什么资格拿玩家的血汗当利剑？",
+                                                                                                            "duration":  292,
+                                                                                                            "vid":  "",
+                                                                                                            "weblink":  "",
+                                                                                                            "dimension":  {
+                                                                                                                              "width":  1920,
+                                                                                                                              "height":  1080,
+                                                                                                                              "rotate":  0
+                                                                                                                          }
+                                                                                                        },
+                                                                                               "bvid":  "BV12M4y1e7Em",
+                                                                                               "pages":  [
+                                                                                                             {
+                                                                                                                 "cid":  1150901215,
+                                                                                                                 "page":  1,
+                                                                                                                 "from":  "vupload",
+                                                                                                                 "part":  "公益就该被攻击？你们有什么资格拿玩家的血汗当利剑？",
+                                                                                                                 "duration":  292,
+                                                                                                                 "vid":  "",
+                                                                                                                 "weblink":  "",
+                                                                                                                 "dimension":  {
+                                                                                                                                   "width":  1920,
+                                                                                                                                   "height":  1080,
+                                                                                                                                   "rotate":  0
+                                                                                                                               }
+                                                                                                             }
+                                                                                                         ]
+                                                                                           },
+                                                                                           {
+                                                                                               "season_id":  981839,
+                                                                                               "section_id":  1134149,
+                                                                                               "id":  35042833,
+                                                                                               "aid":  913821543,
+                                                                                               "cid":  1208446910,
+                                                                                               "title":  "手机被偷了，小偷拿着手机对着我笑",
+                                                                                               "attribute":  0,
+                                                                                               "arc":  {
+                                                                                                           "aid":  913821543,
+                                                                                                           "videos":  0,
+                                                                                                           "type_id":  0,
+                                                                                                           "type_name":  "",
+                                                                                                           "copyright":  0,
+                                                                                                           "pic":  "http://i0.hdslb.com/bfs/archive/ffaf83dbe4a0e7ee795309b37b9d46d225495526.jpg",
+                                                                                                           "title":  "手机被偷了，小偷拿着手机对着我笑",
+                                                                                                           "pubdate":  1690201387,
+                                                                                                           "ctime":  1690201387,
+                                                                                                           "desc":  "",
+                                                                                                           "state":  0,
+                                                                                                           "duration":  87,
+                                                                                                           "rights":  {
+                                                                                                                          "bp":  0,
+                                                                                                                          "elec":  0,
+                                                                                                                          "download":  0,
+                                                                                                                          "movie":  0,
+                                                                                                                          "pay":  0,
+                                                                                                                          "hd5":  0,
+                                                                                                                          "no_reprint":  0,
+                                                                                                                          "autoplay":  0,
+                                                                                                                          "ugc_pay":  0,
+                                                                                                                          "is_cooperation":  0,
+                                                                                                                          "ugc_pay_preview":  0,
+                                                                                                                          "arc_pay":  0,
+                                                                                                                          "free_watch":  0
+                                                                                                                      },
+                                                                                                           "author":  {
+                                                                                                                          "mid":  362162451,
+                                                                                                                          "name":  "有问题的红河",
+                                                                                                                          "face":  "https://i0.hdslb.com/bfs/face/dd43f5894b84d367e2572e39bcca625fe99f570c.jpg"
+                                                                                                                      },
+                                                                                                           "stat":  {
+                                                                                                                        "aid":  913821543,
+                                                                                                                        "view":  341473,
+                                                                                                                        "danmaku":  320,
+                                                                                                                        "reply":  538,
+                                                                                                                        "fav":  453,
+                                                                                                                        "coin":  366,
+                                                                                                                        "share":  160,
+                                                                                                                        "now_rank":  0,
+                                                                                                                        "his_rank":  0,
+                                                                                                                        "like":  7985,
+                                                                                                                        "dislike":  0,
+                                                                                                                        "evaluation":  "",
+                                                                                                                        "argue_msg":  "",
+                                                                                                                        "vt":  0,
+                                                                                                                        "vv":  341473
+                                                                                                                    },
+                                                                                                           "dynamic":  "",
+                                                                                                           "dimension":  {
+                                                                                                                             "width":  0,
+                                                                                                                             "height":  0,
+                                                                                                                             "rotate":  0
+                                                                                                                         },
+                                                                                                           "desc_v2":  null,
+                                                                                                           "is_chargeable_season":  false,
+                                                                                                           "is_blooper":  false,
+                                                                                                           "enable_vt":  0,
+                                                                                                           "vt_display":  "",
+                                                                                                           "type_id_v2":  0,
+                                                                                                           "type_name_v2":  "",
+                                                                                                           "is_lesson_video":  0
+                                                                                                       },
+                                                                                               "page":  {
+                                                                                                            "cid":  1208446910,
+                                                                                                            "page":  1,
+                                                                                                            "from":  "vupload",
+                                                                                                            "part":  "手机被偷了，小偷拿着手机对着我笑",
+                                                                                                            "duration":  87,
+                                                                                                            "vid":  "",
+                                                                                                            "weblink":  "",
+                                                                                                            "dimension":  {
+                                                                                                                              "width":  1920,
+                                                                                                                              "height":  1080,
+                                                                                                                              "rotate":  0
+                                                                                                                          }
+                                                                                                        },
+                                                                                               "bvid":  "BV1RM4y1s7X4",
+                                                                                               "pages":  [
+                                                                                                             {
+                                                                                                                 "cid":  1208446910,
+                                                                                                                 "page":  1,
+                                                                                                                 "from":  "vupload",
+                                                                                                                 "part":  "手机被偷了，小偷拿着手机对着我笑",
+                                                                                                                 "duration":  87,
+                                                                                                                 "vid":  "",
+                                                                                                                 "weblink":  "",
+                                                                                                                 "dimension":  {
+                                                                                                                                   "width":  1920,
+                                                                                                                                   "height":  1080,
+                                                                                                                                   "rotate":  0
+                                                                                                                               }
+                                                                                                             }
+                                                                                                         ]
+                                                                                           }
+                                                                                       ]
+                                                                      }
+                                                                  ]
+                                                 },
+                                  "is_season_display":  true,
+                                  "user_garb":  {
+                                                    "url_image_ani_cut":  ""
+                                                },
+                                  "honor_reply":  {
+
+                                                  },
+                                  "like_icon":  "",
+                                  "need_jump_bv":  false,
+                                  "disable_show_up_info":  false,
+                                  "is_story_play":  1,
+                                  "is_view_self":  false
+                              }
+                 }
+}

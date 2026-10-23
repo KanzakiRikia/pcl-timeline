@@ -1,0 +1,136 @@
+﻿{
+    "_snapshot_meta":  {
+                           "source":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1N24y1f7Xt",
+                           "fetched_at":  "2026-10-23 15:17:33",
+                           "note":  "Bilibili public API raw response, unmodified"
+                       },
+    "response":  {
+                     "code":  0,
+                     "message":  "OK",
+                     "ttl":  1,
+                     "data":  {
+                                  "bvid":  "BV1N24y1f7Xt",
+                                  "aid":  689701806,
+                                  "videos":  1,
+                                  "tid":  65,
+                                  "tid_v2":  2100,
+                                  "tname":  "",
+                                  "tname_v2":  "",
+                                  "copyright":  1,
+                                  "pic":  "http://i1.hdslb.com/bfs/archive/895b205a534b1051dd86d0d9bbfc123128c93257.jpg",
+                                  "title":  "简幻欢之我的服务器为什么总是被关闭",
+                                  "pubdate":  1667297463,
+                                  "ctime":  1667297463,
+                                  "desc":  "宣传我的服务器\n服务器IP:play.simpfun.cn\n服务器端口:29467\n服务器交流群:892281612\n有机器人哦！\n审核大大，我只是普通宣传。",
+                                  "desc_v2":  [
+                                                  {
+                                                      "raw_text":  "宣传我的服务器\n服务器IP:play.simpfun.cn\n服务器端口:29467\n服务器交流群:892281612\n有机器人哦！\n审核大大，我只是普通宣传。",
+                                                      "type":  1,
+                                                      "biz_id":  0
+                                                  }
+                                              ],
+                                  "state":  0,
+                                  "duration":  52,
+                                  "rights":  {
+                                                 "bp":  0,
+                                                 "elec":  0,
+                                                 "download":  1,
+                                                 "movie":  0,
+                                                 "pay":  0,
+                                                 "hd5":  0,
+                                                 "no_reprint":  1,
+                                                 "autoplay":  1,
+                                                 "ugc_pay":  0,
+                                                 "is_cooperation":  0,
+                                                 "ugc_pay_preview":  0,
+                                                 "no_background":  0,
+                                                 "clean_mode":  0,
+                                                 "is_stein_gate":  0,
+                                                 "is_360":  0,
+                                                 "no_share":  0,
+                                                 "arc_pay":  0,
+                                                 "free_watch":  0
+                                             },
+                                  "owner":  {
+                                                "mid":  1675718825,
+                                                "name":  "闪电shandiana",
+                                                "face":  "https://i2.hdslb.com/bfs/face/a95ab890f8f0d34e074ea46a6c9a40d28f717148.jpg"
+                                            },
+                                  "stat":  {
+                                               "aid":  689701806,
+                                               "view":  6288,
+                                               "danmaku":  2,
+                                               "reply":  88,
+                                               "favorite":  11,
+                                               "coin":  13,
+                                               "share":  10,
+                                               "now_rank":  0,
+                                               "his_rank":  0,
+                                               "like":  51,
+                                               "dislike":  0,
+                                               "evaluation":  "",
+                                               "vt":  0
+                                           },
+                                  "argue_info":  {
+                                                     "argue_msg":  "",
+                                                     "argue_type":  0,
+                                                     "argue_link":  ""
+                                                 },
+                                  "dynamic":  "",
+                                  "cid":  878267964,
+                                  "dimension":  {
+                                                    "width":  480,
+                                                    "height":  864,
+                                                    "rotate":  0
+                                                },
+                                  "premiere":  null,
+                                  "teenage_mode":  0,
+                                  "is_chargeable_season":  false,
+                                  "is_story":  true,
+                                  "is_upower_exclusive":  false,
+                                  "is_upower_play":  false,
+                                  "is_upower_preview":  false,
+                                  "enable_vt":  0,
+                                  "vt_display":  "",
+                                  "is_upower_exclusive_with_qa":  false,
+                                  "is_hua_sheng":  false,
+                                  "no_cache":  false,
+                                  "pages":  [
+                                                {
+                                                    "cid":  878267964,
+                                                    "page":  1,
+                                                    "from":  "vupload",
+                                                    "part":  "1667297010963.mp4",
+                                                    "duration":  52,
+                                                    "vid":  "",
+                                                    "weblink":  "",
+                                                    "dimension":  {
+                                                                      "width":  480,
+                                                                      "height":  864,
+                                                                      "rotate":  0
+                                                                  },
+                                                    "first_frame":  "http://i1.hdslb.com/bfs/storyff/n221101qn2oqcpqqzoeszo2dwnoleabx_firsti.jpg",
+                                                    "ctime":  1667297463
+                                                }
+                                            ],
+                                  "subtitle":  {
+                                                   "allow_submit":  false,
+                                                   "list":  [
+
+                                                            ]
+                                               },
+                                  "is_season_display":  false,
+                                  "user_garb":  {
+                                                    "url_image_ani_cut":  ""
+                                                },
+                                  "honor_reply":  {
+
+                                                  },
+                                  "like_icon":  "",
+                                  "need_jump_bv":  false,
+                                  "disable_show_up_info":  false,
+                                  "is_story_play":  1,
+                                  "is_view_self":  false
+                              }
+                 }
+}

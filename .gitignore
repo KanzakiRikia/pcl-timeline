@@ -1,0 +1,14 @@
+# 私发版本，不公开
+notes-technical.md
+
+# 临时脚本
+.tmp_*.ps1
+
+# IDE
+.aicoding-chat-workspace
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+Desktop.ini

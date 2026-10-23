@@ -1,0 +1,136 @@
+﻿{
+    "_snapshot_meta":  {
+                           "source":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1iK41187A3",
+                           "fetched_at":  "2026-10-23 15:17:35",
+                           "note":  "Bilibili public API raw response, unmodified"
+                       },
+    "response":  {
+                     "code":  0,
+                     "message":  "OK",
+                     "ttl":  1,
+                     "data":  {
+                                  "bvid":  "BV1iK41187A3",
+                                  "aid":  495126102,
+                                  "videos":  1,
+                                  "tid":  216,
+                                  "tid_v2":  2207,
+                                  "tname":  "",
+                                  "tname_v2":  "",
+                                  "copyright":  1,
+                                  "pic":  "http://i2.hdslb.com/bfs/archive/821628a2053d5595958bbb245425149f0e4c00b1.jpg",
+                                  "title":  "乐先生云宣传片",
+                                  "pubdate":  1703419856,
+                                  "ctime":  1703419856,
+                                  "desc":  "乐先生云乐实力",
+                                  "desc_v2":  [
+                                                  {
+                                                      "raw_text":  "乐先生云乐实力",
+                                                      "type":  1,
+                                                      "biz_id":  0
+                                                  }
+                                              ],
+                                  "state":  0,
+                                  "duration":  173,
+                                  "rights":  {
+                                                 "bp":  0,
+                                                 "elec":  0,
+                                                 "download":  1,
+                                                 "movie":  0,
+                                                 "pay":  0,
+                                                 "hd5":  1,
+                                                 "no_reprint":  1,
+                                                 "autoplay":  1,
+                                                 "ugc_pay":  0,
+                                                 "is_cooperation":  0,
+                                                 "ugc_pay_preview":  0,
+                                                 "no_background":  0,
+                                                 "clean_mode":  0,
+                                                 "is_stein_gate":  0,
+                                                 "is_360":  0,
+                                                 "no_share":  0,
+                                                 "arc_pay":  0,
+                                                 "free_watch":  0
+                                             },
+                                  "owner":  {
+                                                "mid":  3493091782691386,
+                                                "name":  "小坤鸽",
+                                                "face":  "https://i1.hdslb.com/bfs/face/830e32ae51970154ef6a16ee947af94d7b0d4e4b.jpg"
+                                            },
+                                  "stat":  {
+                                               "aid":  495126102,
+                                               "view":  2159,
+                                               "danmaku":  0,
+                                               "reply":  15,
+                                               "favorite":  0,
+                                               "coin":  4,
+                                               "share":  6,
+                                               "now_rank":  0,
+                                               "his_rank":  0,
+                                               "like":  9,
+                                               "dislike":  0,
+                                               "evaluation":  "",
+                                               "vt":  0
+                                           },
+                                  "argue_info":  {
+                                                     "argue_msg":  "作者声明：该内容仅供娱乐，请勿过分解读",
+                                                     "argue_type":  0,
+                                                     "argue_link":  ""
+                                                 },
+                                  "dynamic":  "",
+                                  "cid":  1379414682,
+                                  "dimension":  {
+                                                    "width":  1964,
+                                                    "height":  1080,
+                                                    "rotate":  0
+                                                },
+                                  "premiere":  null,
+                                  "teenage_mode":  0,
+                                  "is_chargeable_season":  false,
+                                  "is_story":  false,
+                                  "is_upower_exclusive":  false,
+                                  "is_upower_play":  false,
+                                  "is_upower_preview":  false,
+                                  "enable_vt":  0,
+                                  "vt_display":  "",
+                                  "is_upower_exclusive_with_qa":  false,
+                                  "is_hua_sheng":  false,
+                                  "no_cache":  false,
+                                  "pages":  [
+                                                {
+                                                    "cid":  1379414682,
+                                                    "page":  1,
+                                                    "from":  "vupload",
+                                                    "part":  "乐先生云宣传片",
+                                                    "duration":  173,
+                                                    "vid":  "",
+                                                    "weblink":  "",
+                                                    "dimension":  {
+                                                                      "width":  1964,
+                                                                      "height":  1080,
+                                                                      "rotate":  0
+                                                                  },
+                                                    "first_frame":  "http://i2.hdslb.com/bfs/storyff/n231224sa2ivzfiy8qfqxq2uq62ol2sf_firsti.jpg",
+                                                    "ctime":  1703419856
+                                                }
+                                            ],
+                                  "subtitle":  {
+                                                   "allow_submit":  false,
+                                                   "list":  [
+
+                                                            ]
+                                               },
+                                  "is_season_display":  false,
+                                  "user_garb":  {
+                                                    "url_image_ani_cut":  ""
+                                                },
+                                  "honor_reply":  {
+
+                                                  },
+                                  "like_icon":  "",
+                                  "need_jump_bv":  false,
+                                  "disable_show_up_info":  false,
+                                  "is_story_play":  1,
+                                  "is_view_self":  false
+                              }
+                 }
+}

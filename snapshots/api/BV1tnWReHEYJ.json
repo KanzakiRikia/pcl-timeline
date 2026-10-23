@@ -1,0 +1,1119 @@
+﻿{
+    "_snapshot_meta":  {
+                           "source":  "https://api.bilibili.com/x/web-interface/view?bvid=BV1tnWReHEYJ",
+                           "fetched_at":  "2026-10-23 15:17:33",
+                           "note":  "Bilibili public API raw response, unmodified"
+                       },
+    "response":  {
+                     "code":  0,
+                     "message":  "OK",
+                     "ttl":  1,
+                     "data":  {
+                                  "bvid":  "BV1tnWReHEYJ",
+                                  "aid":  113014531557340,
+                                  "videos":  1,
+                                  "tid":  230,
+                                  "tid_v2":  2078,
+                                  "tname":  "",
+                                  "tname_v2":  "",
+                                  "copyright":  1,
+                                  "pic":  "http://i0.hdslb.com/bfs/archive/f429db02240d192f78ef4535b5d1a769ae78dbf4.jpg",
+                                  "title":  "如何痛失简幻欢账号教学，佳酿",
+                                  "pubdate":  1724465181,
+                                  "ctime":  1724465182,
+                                  "desc":  "-",
+                                  "desc_v2":  [
+                                                  {
+                                                      "raw_text":  "-",
+                                                      "type":  1,
+                                                      "biz_id":  0
+                                                  }
+                                              ],
+                                  "state":  0,
+                                  "duration":  133,
+                                  "rights":  {
+                                                 "bp":  0,
+                                                 "elec":  0,
+                                                 "download":  1,
+                                                 "movie":  0,
+                                                 "pay":  0,
+                                                 "hd5":  0,
+                                                 "no_reprint":  1,
+                                                 "autoplay":  1,
+                                                 "ugc_pay":  0,
+                                                 "is_cooperation":  0,
+                                                 "ugc_pay_preview":  0,
+                                                 "no_background":  0,
+                                                 "clean_mode":  0,
+                                                 "is_stein_gate":  0,
+                                                 "is_360":  0,
+                                                 "no_share":  0,
+                                                 "arc_pay":  0,
+                                                 "free_watch":  0
+                                             },
+                                  "owner":  {
+                                                "mid":  1493209225,
+                                                "name":  "简幻欢",
+                                                "face":  "https://i1.hdslb.com/bfs/face/7311da67615b711a696996fd7a95961217238ff6.jpg"
+                                            },
+                                  "stat":  {
+                                               "aid":  113014531557340,
+                                               "view":  10785,
+                                               "danmaku":  5,
+                                               "reply":  65,
+                                               "favorite":  46,
+                                               "coin":  15,
+                                               "share":  21,
+                                               "now_rank":  0,
+                                               "his_rank":  0,
+                                               "like":  204,
+                                               "dislike":  0,
+                                               "evaluation":  "",
+                                               "vt":  0
+                                           },
+                                  "argue_info":  {
+                                                     "argue_msg":  "",
+                                                     "argue_type":  0,
+                                                     "argue_link":  ""
+                                                 },
+                                  "dynamic":  "",
+                                  "cid":  500001663845319,
+                                  "dimension":  {
+                                                    "width":  1920,
+                                                    "height":  1080,
+                                                    "rotate":  0
+                                                },
+                                  "season_id":  235613,
+                                  "premiere":  null,
+                                  "teenage_mode":  0,
+                                  "is_chargeable_season":  false,
+                                  "is_story":  false,
+                                  "is_upower_exclusive":  false,
+                                  "is_upower_play":  false,
+                                  "is_upower_preview":  false,
+                                  "enable_vt":  0,
+                                  "vt_display":  "",
+                                  "is_upower_exclusive_with_qa":  false,
+                                  "is_hua_sheng":  false,
+                                  "no_cache":  false,
+                                  "pages":  [
+                                                {
+                                                    "cid":  500001663845319,
+                                                    "page":  1,
+                                                    "from":  "vupload",
+                                                    "part":  "如何痛失简幻欢账号教学，佳酿",
+                                                    "duration":  133,
+                                                    "vid":  "",
+                                                    "weblink":  "",
+                                                    "dimension":  {
+                                                                      "width":  1920,
+                                                                      "height":  1080,
+                                                                      "rotate":  0
+                                                                  },
+                                                    "first_frame":  "http://i0.hdslb.com/bfs/storyff/n240827sa3fjm6h009zxdf1haq02eff1_firsti.jpg",
+                                                    "ctime":  1724740172
+                                                }
+                                            ],
+                                  "subtitle":  {
+                                                   "allow_submit":  false,
+                                                   "list":  [
+
+                                                            ]
+                                               },
+                                  "ugc_season":  {
+                                                     "id":  235613,
+                                                     "title":  "新手教程",
+                                                     "cover":  "https://archive.biliimg.com/bfs/archive/cacb5c21ec345a468528066e37e939598846c002.jpg",
+                                                     "mid":  1493209225,
+                                                     "intro":  "简幻欢相关的新手教程",
+                                                     "sign_state":  0,
+                                                     "attribute":  140,
+                                                     "stat":  {
+                                                                  "season_id":  235613,
+                                                                  "view":  155449,
+                                                                  "danmaku":  33,
+                                                                  "reply":  581,
+                                                                  "fav":  674,
+                                                                  "coin":  311,
+                                                                  "share":  419,
+                                                                  "now_rank":  0,
+                                                                  "his_rank":  0,
+                                                                  "like":  1812,
+                                                                  "vt":  0,
+                                                                  "vv":  0
+                                                              },
+                                                     "ep_count":  9,
+                                                     "season_type":  1,
+                                                     "is_pay_season":  false,
+                                                     "enable_vt":  0,
+                                                     "sections":  [
+                                                                      {
+                                                                          "season_id":  235613,
+                                                                          "id":  271280,
+                                                                          "title":  "正片",
+                                                                          "type":  1,
+                                                                          "episodes":  [
+                                                                                           {
+                                                                                               "season_id":  235613,
+                                                                                               "section_id":  271280,
+                                                                                               "id":  50801747,
+                                                                                               "aid":  284340975,
+                                                                                               "cid":  1420187493,
+                                                                                               "title":  "简幻云-面板幻兽帕鲁更新教程",
+                                                                                               "attribute":  0,
+                                                                                               "arc":  {
+                                                                                                           "aid":  284340975,
+                                                                                                           "videos":  0,
+                                                                                                           "type_id":  0,
+                                                                                                           "type_name":  "",
+                                                                                                           "copyright":  0,
+                                                                                                           "pic":  "http://i2.hdslb.com/bfs/archive/31d533e0d88f5b3347c09b3ac2626500b4a61b97.jpg",
+                                                                                                           "title":  "简幻云-面板幻兽帕鲁更新教程",
+                                                                                                           "pubdate":  1706270437,
+                                                                                                           "ctime":  1706270437,
+                                                                                                           "desc":  "",
+                                                                                                           "state":  0,
+                                                                                                           "duration":  84,
+                                                                                                           "rights":  {
+                                                                                                                          "bp":  0,
+                                                                                                                          "elec":  0,
+                                                                                                                          "download":  0,
+                                                                                                                          "movie":  0,
+                                                                                                                          "pay":  0,
+                                                                                                                          "hd5":  0,
+                                                                                                                          "no_reprint":  0,
+                                                                                                                          "autoplay":  0,
+                                                                                                                          "ugc_pay":  0,
+                                                                                                                          "is_cooperation":  0,
+                                                                                                                          "ugc_pay_preview":  0,
+                                                                                                                          "arc_pay":  0,
+                                                                                                                          "free_watch":  0
+                                                                                                                      },
+                                                                                                           "author":  {
+                                                                                                                          "mid":  1493209225,
+                                                                                                                          "name":  "简幻欢",
+                                                                                                                          "face":  "https://i1.hdslb.com/bfs/face/7311da67615b711a696996fd7a95961217238ff6.jpg"
+                                                                                                                      },
+                                                                                                           "stat":  {
+                                                                                                                        "aid":  284340975,
+                                                                                                                        "view":  11579,
+                                                                                                                        "danmaku":  1,
+                                                                                                                        "reply":  34,
+                                                                                                                        "fav":  38,
+                                                                                                                        "coin":  16,
+                                                                                                                        "share":  38,
+                                                                                                                        "now_rank":  0,
+                                                                                                                        "his_rank":  0,
+                                                                                                                        "like":  81,
+                                                                                                                        "dislike":  0,
+                                                                                                                        "evaluation":  "",
+                                                                                                                        "argue_msg":  "",
+                                                                                                                        "vt":  0,
+                                                                                                                        "vv":  11579
+                                                                                                                    },
+                                                                                                           "dynamic":  "",
+                                                                                                           "dimension":  {
+                                                                                                                             "width":  0,
+                                                                                                                             "height":  0,
+                                                                                                                             "rotate":  0
+                                                                                                                         },
+                                                                                                           "desc_v2":  null,
+                                                                                                           "is_chargeable_season":  false,
+                                                                                                           "is_blooper":  false,
+                                                                                                           "enable_vt":  0,
+                                                                                                           "vt_display":  "",
+                                                                                                           "type_id_v2":  0,
+                                                                                                           "type_name_v2":  "",
+                                                                                                           "is_lesson_video":  0
+                                                                                                       },
+                                                                                               "page":  {
+                                                                                                            "cid":  1420187493,
+                                                                                                            "page":  1,
+                                                                                                            "from":  "vupload",
+                                                                                                            "part":  "简幻云-面板幻兽帕鲁更新教程",
+                                                                                                            "duration":  84,
+                                                                                                            "vid":  "",
+                                                                                                            "weblink":  "",
+                                                                                                            "dimension":  {
+                                                                                                                              "width":  1920,
+                                                                                                                              "height":  1080,
+                                                                                                                              "rotate":  0
+                                                                                                                          }
+                                                                                                        },
+                                                                                               "bvid":  "BV1zc411v7Qr",
+                                                                                               "pages":  [
+                                                                                                             {
+                                                                                                                 "cid":  1420187493,
+                                                                                                                 "page":  1,
+                                                                                                                 "from":  "vupload",
+                                                                                                                 "part":  "简幻云-面板幻兽帕鲁更新教程",
+                                                                                                                 "duration":  84,
+                                                                                                                 "vid":  "",
+                                                                                                                 "weblink":  "",
+                                                                                                                 "dimension":  {
+                                                                                                                                   "width":  1920,
+                                                                                                                                   "height":  1080,
+                                                                                                                                   "rotate":  0
+                                                                                                                               }
+                                                                                                             }
+                                                                                                         ]
+                                                                                           },
+                                                                                           {
+                                                                                               "season_id":  235613,
+                                                                                               "section_id":  271280,
+                                                                                               "id":  74565804,
+                                                                                               "aid":  1806093062,
+                                                                                               "cid":  1617165854,
+                                                                                               "title":  "简幻欢教学-配置的选择",
+                                                                                               "attribute":  0,
+                                                                                               "arc":  {
+                                                                                                           "aid":  1806093062,
+                                                                                                           "videos":  0,
+                                                                                                           "type_id":  0,
+                                                                                                           "type_name":  "",
+                                                                                                           "copyright":  0,
+                                                                                                           "pic":  "http://i1.hdslb.com/bfs/archive/3fe2d04fbe3c7cf2acfbb873bc15f6da75216102.jpg",
+                                                                                                           "title":  "简幻欢教学-配置的选择",
+                                                                                                           "pubdate":  1721121988,
+                                                                                                           "ctime":  1721121988,
+                                                                                                           "desc":  "",
+                                                                                                           "state":  0,
+                                                                                                           "duration":  218,
+                                                                                                           "rights":  {
+                                                                                                                          "bp":  0,
+                                                                                                                          "elec":  0,
+                                                                                                                          "download":  0,
+                                                                                                                          "movie":  0,
+                                                                                                                          "pay":  0,
+                                                                                                                          "hd5":  0,
+                                                                                                                          "no_reprint":  0,
+                                                                                                                          "autoplay":  0,
+                                                                                                                          "ugc_pay":  0,
+                                                                                                                          "is_cooperation":  0,
+                                                                                                                          "ugc_pay_preview":  0,
+                                                                                                                          "arc_pay":  0,
+                                                                                                                          "free_watch":  0
+                                                                                                                      },
+                                                                                                           "author":  {
+                                                                                                                          "mid":  1493209225,
+                                                                                                                          "name":  "简幻欢",
+                                                                                                                          "face":  "https://i1.hdslb.com/bfs/face/7311da67615b711a696996fd7a95961217238ff6.jpg"
+                                                                                                                      },
+                                                                                                           "stat":  {
+                                                                                                                        "aid":  1806093062,
+                                                                                                                        "view":  63909,
+                                                                                                                        "danmaku":  13,
+                                                                                                                        "reply":  145,
+                                                                                                                        "fav":  234,
+                                                                                                                        "coin":  76,
+                                                                                                                        "share":  184,
+                                                                                                                        "now_rank":  0,
+                                                                                                                        "his_rank":  0,
+                                                                                                                        "like":  553,
+                                                                                                                        "dislike":  0,
+                                                                                                                        "evaluation":  "",
+                                                                                                                        "argue_msg":  "",
+                                                                                                                        "vt":  0,
+                                                                                                                        "vv":  63909
+                                                                                                                    },
+                                                                                                           "dynamic":  "",
+                                                                                                           "dimension":  {
+                                                                                                                             "width":  0,
+                                                                                                                             "height":  0,
+                                                                                                                             "rotate":  0
+                                                                                                                         },
+                                                                                                           "desc_v2":  null,
+                                                                                                           "is_chargeable_season":  false,
+                                                                                                           "is_blooper":  false,
+                                                                                                           "enable_vt":  0,
+                                                                                                           "vt_display":  "",
+                                                                                                           "type_id_v2":  0,
+                                                                                                           "type_name_v2":  "",
+                                                                                                           "is_lesson_video":  0
+                                                                                                       },
+                                                                                               "page":  {
+                                                                                                            "cid":  1617165854,
+                                                                                                            "page":  1,
+                                                                                                            "from":  "vupload",
+                                                                                                            "part":  "简幻欢教学-配置的选择",
+                                                                                                            "duration":  218,
+                                                                                                            "vid":  "",
+                                                                                                            "weblink":  "",
+                                                                                                            "dimension":  {
+                                                                                                                              "width":  960,
+                                                                                                                              "height":  720,
+                                                                                                                              "rotate":  0
+                                                                                                                          }
+                                                                                                        },
+                                                                                               "bvid":  "BV1vb421n7Kf",
+                                                                                               "pages":  [
+                                                                                                             {
+                                                                                                                 "cid":  1617165854,
+                                                                                                                 "page":  1,
+                                                                                                                 "from":  "vupload",
+                                                                                                                 "part":  "简幻欢教学-配置的选择",
+                                                                                                                 "duration":  218,
+                                                                                                                 "vid":  "",
+                                                                                                                 "weblink":  "",
+                                                                                                                 "dimension":  {
+                                                                                                                                   "width":  960,
+                                                                                                                                   "height":  720,
+                                                                                                                                   "rotate":  0
+                                                                                                                               }
+                                                                                                             }
+                                                                                                         ]
+                                                                                           },
+                                                                                           {
+                                                                                               "season_id":  235613,
+                                                                                               "section_id":  271280,
+                                                                                               "id":  83584261,
+                                                                                               "aid":  113107728925726,
+                                                                                               "cid":  25802049874,
+                                                                                               "title":  "简幻欢如何使用指令",
+                                                                                               "attribute":  0,
+                                                                                               "arc":  {
+                                                                                                           "aid":  113107728925726,
+                                                                                                           "videos":  0,
+                                                                                                           "type_id":  0,
+                                                                                                           "type_name":  "",
+                                                                                                           "copyright":  0,
+                                                                                                           "pic":  "http://i0.hdslb.com/bfs/archive/8d262ac814fb0d00f73136aae61aceb2d654d7c3.jpg",
+                                                                                                           "title":  "简幻欢如何使用指令",
+                                                                                                           "pubdate":  1725887024,
+                                                                                                           "ctime":  1725887024,
+                                                                                                           "desc":  "",
+                                                                                                           "state":  0,
+                                                                                                           "duration":  123,
+                                                                                                           "rights":  {
+                                                                                                                          "bp":  0,
+                                                                                                                          "elec":  0,
+                                                                                                                          "download":  0,
+                                                                                                                          "movie":  0,
+                                                                                                                          "pay":  0,
+                                                                                                                          "hd5":  0,
+                                                                                                                          "no_reprint":  0,
+                                                                                                                          "autoplay":  0,
+                                                                                                                          "ugc_pay":  0,
+                                                                                                                          "is_cooperation":  0,
+                                                                                                                          "ugc_pay_preview":  0,
+                                                                                                                          "arc_pay":  0,
+                                                                                                                          "free_watch":  0
+                                                                                                                      },
+                                                                                                           "author":  {
+                                                                                                                          "mid":  1493209225,
+                                                                                                                          "name":  "简幻欢",
+                                                                                                                          "face":  "https://i1.hdslb.com/bfs/face/7311da67615b711a696996fd7a95961217238ff6.jpg"
+                                                                                                                      },
+                                                                                                           "stat":  {
+                                                                                                                        "aid":  113107728925726,
+                                                                                                                        "view":  13195,
+                                                                                                                        "danmaku":  4,
+                                                                                                                        "reply":  40,
+                                                                                                                        "fav":  58,
+                                                                                                                        "coin":  17,
+                                                                                                                        "share":  32,
+                                                                                                                        "now_rank":  0,
+                                                                                                                        "his_rank":  0,
+                                                                                                                        "like":  128,
+                                                                                                                        "dislike":  0,
+                                                                                                                        "evaluation":  "",
+                                                                                                                        "argue_msg":  "",
+                                                                                                                        "vt":  0,
+                                                                                                                        "vv":  13195
+                                                                                                                    },
+                                                                                                           "dynamic":  "",
+                                                                                                           "dimension":  {
+                                                                                                                             "width":  0,
+                                                                                                                             "height":  0,
+                                                                                                                             "rotate":  0
+                                                                                                                         },
+                                                                                                           "desc_v2":  null,
+                                                                                                           "is_chargeable_season":  false,
+                                                                                                           "is_blooper":  false,
+                                                                                                           "enable_vt":  0,
+                                                                                                           "vt_display":  "",
+                                                                                                           "type_id_v2":  0,
+                                                                                                           "type_name_v2":  "",
+                                                                                                           "is_lesson_video":  0
+                                                                                                       },
+                                                                                               "page":  {
+                                                                                                            "cid":  25802049874,
+                                                                                                            "page":  1,
+                                                                                                            "from":  "vupload",
+                                                                                                            "part":  "简幻欢如何使用指令",
+                                                                                                            "duration":  123,
+                                                                                                            "vid":  "",
+                                                                                                            "weblink":  "",
+                                                                                                            "dimension":  {
+                                                                                                                              "width":  1920,
+                                                                                                                              "height":  1080,
+                                                                                                                              "rotate":  0
+                                                                                                                          }
+                                                                                                        },
+                                                                                               "bvid":  "BV1ncpEevEct",
+                                                                                               "pages":  [
+                                                                                                             {
+                                                                                                                 "cid":  25802049874,
+                                                                                                                 "page":  1,
+                                                                                                                 "from":  "vupload",
+                                                                                                                 "part":  "简幻欢如何使用指令",
+                                                                                                                 "duration":  123,
+                                                                                                                 "vid":  "",
+                                                                                                                 "weblink":  "",
+                                                                                                                 "dimension":  {
+                                                                                                                                   "width":  1920,
+                                                                                                                                   "height":  1080,
+                                                                                                                                   "rotate":  0
+                                                                                                                               }
+                                                                                                             }
+                                                                                                         ]
+                                                                                           },
+                                                                                           {
+                                                                                               "season_id":  235613,
+                                                                                               "section_id":  271280,
+                                                                                               "id":  83584277,
+                                                                                               "aid":  113054779965896,
+                                                                                               "cid":  25669076675,
+                                                                                               "title":  "简幻欢超过1G的文件如何下载和导出",
+                                                                                               "attribute":  0,
+                                                                                               "arc":  {
+                                                                                                           "aid":  113054779965896,
+                                                                                                           "videos":  0,
+                                                                                                           "type_id":  0,
+                                                                                                           "type_name":  "",
+                                                                                                           "copyright":  0,
+                                                                                                           "pic":  "http://i0.hdslb.com/bfs/archive/6a99de7c4ea60e85fd103d90e9b4852d4fca5e7c.jpg",
+                                                                                                           "title":  "简幻欢超过1G的文件如何下载和导出",
+                                                                                                           "pubdate":  1725079264,
+                                                                                                           "ctime":  1725079264,
+                                                                                                           "desc":  "",
+                                                                                                           "state":  0,
+                                                                                                           "duration":  61,
+                                                                                                           "rights":  {
+                                                                                                                          "bp":  0,
+                                                                                                                          "elec":  0,
+                                                                                                                          "download":  0,
+                                                                                                                          "movie":  0,
+                                                                                                                          "pay":  0,
+                                                                                                                          "hd5":  0,
+                                                                                                                          "no_reprint":  0,
+                                                                                                                          "autoplay":  0,
+                                                                                                                          "ugc_pay":  0,
+                                                                                                                          "is_cooperation":  0,
+                                                                                                                          "ugc_pay_preview":  0,
+                                                                                                                          "arc_pay":  0,
+                                                                                                                          "free_watch":  0
+                                                                                                                      },
+                                                                                                           "author":  {
+                                                                                                                          "mid":  1493209225,
+                                                                                                                          "name":  "简幻欢",
+                                                                                                                          "face":  "https://i1.hdslb.com/bfs/face/7311da67615b711a696996fd7a95961217238ff6.jpg"
+                                                                                                                      },
+                                                                                                           "stat":  {
+                                                                                                                        "aid":  113054779965896,
+                                                                                                                        "view":  10577,
+                                                                                                                        "danmaku":  2,
+                                                                                                                        "reply":  44,
+                                                                                                                        "fav":  138,
+                                                                                                                        "coin":  33,
+                                                                                                                        "share":  79,
+                                                                                                                        "now_rank":  0,
+                                                                                                                        "his_rank":  0,
+                                                                                                                        "like":  154,
+                                                                                                                        "dislike":  0,
+                                                                                                                        "evaluation":  "",
+                                                                                                                        "argue_msg":  "",
+                                                                                                                        "vt":  0,
+                                                                                                                        "vv":  10577
+                                                                                                                    },
+                                                                                                           "dynamic":  "",
+                                                                                                           "dimension":  {
+                                                                                                                             "width":  0,
+                                                                                                                             "height":  0,
+                                                                                                                             "rotate":  0
+                                                                                                                         },
+                                                                                                           "desc_v2":  null,
+                                                                                                           "is_chargeable_season":  false,
+                                                                                                           "is_blooper":  false,
+                                                                                                           "enable_vt":  0,
+                                                                                                           "vt_display":  "",
+                                                                                                           "type_id_v2":  0,
+                                                                                                           "type_name_v2":  "",
+                                                                                                           "is_lesson_video":  0
+                                                                                                       },
+                                                                                               "page":  {
+                                                                                                            "cid":  25669076675,
+                                                                                                            "page":  1,
+                                                                                                            "from":  "vupload",
+                                                                                                            "part":  "简幻欢超过1G的文件如何下载和导出",
+                                                                                                            "duration":  61,
+                                                                                                            "vid":  "",
+                                                                                                            "weblink":  "",
+                                                                                                            "dimension":  {
+                                                                                                                              "width":  1920,
+                                                                                                                              "height":  1080,
+                                                                                                                              "rotate":  0
+                                                                                                                          }
+                                                                                                        },
+                                                                                               "bvid":  "BV1W2nderELe",
+                                                                                               "pages":  [
+                                                                                                             {
+                                                                                                                 "cid":  25669076675,
+                                                                                                                 "page":  1,
+                                                                                                                 "from":  "vupload",
+                                                                                                                 "part":  "简幻欢超过1G的文件如何下载和导出",
+                                                                                                                 "duration":  61,
+                                                                                                                 "vid":  "",
+                                                                                                                 "weblink":  "",
+                                                                                                                 "dimension":  {
+                                                                                                                                   "width":  1920,
+                                                                                                                                   "height":  1080,
+                                                                                                                                   "rotate":  0
+                                                                                                                               }
+                                                                                                             }
+                                                                                                         ]
+                                                                                           },
+                                                                                           {
+                                                                                               "season_id":  235613,
+                                                                                               "section_id":  271280,
+                                                                                               "id":  83584293,
+                                                                                               "aid":  113091824058777,
+                                                                                               "cid":  25767317040,
+                                                                                               "title":  "怎么用IP地址加入游戏服务器",
+                                                                                               "attribute":  0,
+                                                                                               "arc":  {
+                                                                                                           "aid":  113091824058777,
+                                                                                                           "videos":  0,
+                                                                                                           "type_id":  0,
+                                                                                                           "type_name":  "",
+                                                                                                           "copyright":  0,
+                                                                                                           "pic":  "http://i1.hdslb.com/bfs/archive/87443b63f1b7295842f6d28ed65ef6ec0e0d102e.jpg",
+                                                                                                           "title":  "怎么用IP地址加入游戏服务器",
+                                                                                                           "pubdate":  1725644459,
+                                                                                                           "ctime":  1725644459,
+                                                                                                           "desc":  "",
+                                                                                                           "state":  0,
+                                                                                                           "duration":  37,
+                                                                                                           "rights":  {
+                                                                                                                          "bp":  0,
+                                                                                                                          "elec":  0,
+                                                                                                                          "download":  0,
+                                                                                                                          "movie":  0,
+                                                                                                                          "pay":  0,
+                                                                                                                          "hd5":  0,
+                                                                                                                          "no_reprint":  0,
+                                                                                                                          "autoplay":  0,
+                                                                                                                          "ugc_pay":  0,
+                                                                                                                          "is_cooperation":  0,
+                                                                                                                          "ugc_pay_preview":  0,
+                                                                                                                          "arc_pay":  0,
+                                                                                                                          "free_watch":  0
+                                                                                                                      },
+                                                                                                           "author":  {
+                                                                                                                          "mid":  1493209225,
+                                                                                                                          "name":  "简幻欢",
+                                                                                                                          "face":  "https://i1.hdslb.com/bfs/face/7311da67615b711a696996fd7a95961217238ff6.jpg"
+                                                                                                                      },
+                                                                                                           "stat":  {
+                                                                                                                        "aid":  113091824058777,
+                                                                                                                        "view":  9422,
+                                                                                                                        "danmaku":  1,
+                                                                                                                        "reply":  31,
+                                                                                                                        "fav":  36,
+                                                                                                                        "coin":  18,
+                                                                                                                        "share":  18,
+                                                                                                                        "now_rank":  0,
+                                                                                                                        "his_rank":  0,
+                                                                                                                        "like":  95,
+                                                                                                                        "dislike":  0,
+                                                                                                                        "evaluation":  "",
+                                                                                                                        "argue_msg":  "",
+                                                                                                                        "vt":  0,
+                                                                                                                        "vv":  9422
+                                                                                                                    },
+                                                                                                           "dynamic":  "",
+                                                                                                           "dimension":  {
+                                                                                                                             "width":  0,
+                                                                                                                             "height":  0,
+                                                                                                                             "rotate":  0
+                                                                                                                         },
+                                                                                                           "desc_v2":  null,
+                                                                                                           "is_chargeable_season":  false,
+                                                                                                           "is_blooper":  false,
+                                                                                                           "enable_vt":  0,
+                                                                                                           "vt_display":  "",
+                                                                                                           "type_id_v2":  0,
+                                                                                                           "type_name_v2":  "",
+                                                                                                           "is_lesson_video":  0
+                                                                                                       },
+                                                                                               "page":  {
+                                                                                                            "cid":  25767317040,
+                                                                                                            "page":  1,
+                                                                                                            "from":  "vupload",
+                                                                                                            "part":  "怎么用IP地址加入游戏服务器",
+                                                                                                            "duration":  37,
+                                                                                                            "vid":  "",
+                                                                                                            "weblink":  "",
+                                                                                                            "dimension":  {
+                                                                                                                              "width":  1578,
+                                                                                                                              "height":  1080,
+                                                                                                                              "rotate":  0
+                                                                                                                          }
+                                                                                                        },
+                                                                                               "bvid":  "BV1DvHXeLEtr",
+                                                                                               "pages":  [
+                                                                                                             {
+                                                                                                                 "cid":  25767317040,
+                                                                                                                 "page":  1,
+                                                                                                                 "from":  "vupload",
+                                                                                                                 "part":  "怎么用IP地址加入游戏服务器",
+                                                                                                                 "duration":  37,
+                                                                                                                 "vid":  "",
+                                                                                                                 "weblink":  "",
+                                                                                                                 "dimension":  {
+                                                                                                                                   "width":  1578,
+                                                                                                                                   "height":  1080,
+                                                                                                                                   "rotate":  0
+                                                                                                                               }
+                                                                                                             }
+                                                                                                         ]
+                                                                                           },
+                                                                                           {
+                                                                                               "season_id":  235613,
+                                                                                               "section_id":  271280,
+                                                                                               "id":  83584324,
+                                                                                               "aid":  113014531557340,
+                                                                                               "cid":  500001663845319,
+                                                                                               "title":  "如何痛失简幻欢账号教学，佳酿",
+                                                                                               "attribute":  0,
+                                                                                               "arc":  {
+                                                                                                           "aid":  113014531557340,
+                                                                                                           "videos":  0,
+                                                                                                           "type_id":  0,
+                                                                                                           "type_name":  "",
+                                                                                                           "copyright":  0,
+                                                                                                           "pic":  "http://i0.hdslb.com/bfs/archive/f429db02240d192f78ef4535b5d1a769ae78dbf4.jpg",
+                                                                                                           "title":  "如何痛失简幻欢账号教学，佳酿",
+                                                                                                           "pubdate":  1724465181,
+                                                                                                           "ctime":  1724465181,
+                                                                                                           "desc":  "",
+                                                                                                           "state":  0,
+                                                                                                           "duration":  133,
+                                                                                                           "rights":  {
+                                                                                                                          "bp":  0,
+                                                                                                                          "elec":  0,
+                                                                                                                          "download":  0,
+                                                                                                                          "movie":  0,
+                                                                                                                          "pay":  0,
+                                                                                                                          "hd5":  0,
+                                                                                                                          "no_reprint":  0,
+                                                                                                                          "autoplay":  0,
+                                                                                                                          "ugc_pay":  0,
+                                                                                                                          "is_cooperation":  0,
+                                                                                                                          "ugc_pay_preview":  0,
+                                                                                                                          "arc_pay":  0,
+                                                                                                                          "free_watch":  0
+                                                                                                                      },
+                                                                                                           "author":  {
+                                                                                                                          "mid":  1493209225,
+                                                                                                                          "name":  "简幻欢",
+                                                                                                                          "face":  "https://i1.hdslb.com/bfs/face/7311da67615b711a696996fd7a95961217238ff6.jpg"
+                                                                                                                      },
+                                                                                                           "stat":  {
+                                                                                                                        "aid":  113014531557340,
+                                                                                                                        "view":  10785,
+                                                                                                                        "danmaku":  5,
+                                                                                                                        "reply":  65,
+                                                                                                                        "fav":  46,
+                                                                                                                        "coin":  15,
+                                                                                                                        "share":  21,
+                                                                                                                        "now_rank":  0,
+                                                                                                                        "his_rank":  0,
+                                                                                                                        "like":  204,
+                                                                                                                        "dislike":  0,
+                                                                                                                        "evaluation":  "",
+                                                                                                                        "argue_msg":  "",
+                                                                                                                        "vt":  0,
+                                                                                                                        "vv":  10785
+                                                                                                                    },
+                                                                                                           "dynamic":  "",
+                                                                                                           "dimension":  {
+                                                                                                                             "width":  0,
+                                                                                                                             "height":  0,
+                                                                                                                             "rotate":  0
+                                                                                                                         },
+                                                                                                           "desc_v2":  null,
+                                                                                                           "is_chargeable_season":  false,
+                                                                                                           "is_blooper":  false,
+                                                                                                           "enable_vt":  0,
+                                                                                                           "vt_display":  "",
+                                                                                                           "type_id_v2":  0,
+                                                                                                           "type_name_v2":  "",
+                                                                                                           "is_lesson_video":  0
+                                                                                                       },
+                                                                                               "page":  {
+                                                                                                            "cid":  500001663845319,
+                                                                                                            "page":  1,
+                                                                                                            "from":  "vupload",
+                                                                                                            "part":  "如何痛失简幻欢账号教学，佳酿",
+                                                                                                            "duration":  133,
+                                                                                                            "vid":  "",
+                                                                                                            "weblink":  "",
+                                                                                                            "dimension":  {
+                                                                                                                              "width":  1920,
+                                                                                                                              "height":  1080,
+                                                                                                                              "rotate":  0
+                                                                                                                          }
+                                                                                                        },
+                                                                                               "bvid":  "BV1tnWReHEYJ",
+                                                                                               "pages":  [
+                                                                                                             {
+                                                                                                                 "cid":  500001663845319,
+                                                                                                                 "page":  1,
+                                                                                                                 "from":  "vupload",
+                                                                                                                 "part":  "如何痛失简幻欢账号教学，佳酿",
+                                                                                                                 "duration":  133,
+                                                                                                                 "vid":  "",
+                                                                                                                 "weblink":  "",
+                                                                                                                 "dimension":  {
+                                                                                                                                   "width":  1920,
+                                                                                                                                   "height":  1080,
+                                                                                                                                   "rotate":  0
+                                                                                                                               }
+                                                                                                             }
+                                                                                                         ]
+                                                                                           },
+                                                                                           {
+                                                                                               "season_id":  235613,
+                                                                                               "section_id":  271280,
+                                                                                               "id":  83584450,
+                                                                                               "aid":  112990791664462,
+                                                                                               "cid":  500001655262687,
+                                                                                               "title":  "免费配送技术员？开服再也不求人",
+                                                                                               "attribute":  0,
+                                                                                               "arc":  {
+                                                                                                           "aid":  112990791664462,
+                                                                                                           "videos":  0,
+                                                                                                           "type_id":  0,
+                                                                                                           "type_name":  "",
+                                                                                                           "copyright":  0,
+                                                                                                           "pic":  "http://i1.hdslb.com/bfs/archive/d930cc42e738f011c35d3a9072d240726ed10ae1.jpg",
+                                                                                                           "title":  "免费配送技术员？开服再也不求人",
+                                                                                                           "pubdate":  1724102751,
+                                                                                                           "ctime":  1724102751,
+                                                                                                           "desc":  "",
+                                                                                                           "state":  0,
+                                                                                                           "duration":  222,
+                                                                                                           "rights":  {
+                                                                                                                          "bp":  0,
+                                                                                                                          "elec":  0,
+                                                                                                                          "download":  0,
+                                                                                                                          "movie":  0,
+                                                                                                                          "pay":  0,
+                                                                                                                          "hd5":  0,
+                                                                                                                          "no_reprint":  0,
+                                                                                                                          "autoplay":  0,
+                                                                                                                          "ugc_pay":  0,
+                                                                                                                          "is_cooperation":  0,
+                                                                                                                          "ugc_pay_preview":  0,
+                                                                                                                          "arc_pay":  0,
+                                                                                                                          "free_watch":  0
+                                                                                                                      },
+                                                                                                           "author":  {
+                                                                                                                          "mid":  1493209225,
+                                                                                                                          "name":  "简幻欢",
+                                                                                                                          "face":  "https://i1.hdslb.com/bfs/face/7311da67615b711a696996fd7a95961217238ff6.jpg"
+                                                                                                                      },
+                                                                                                           "stat":  {
+                                                                                                                        "aid":  112990791664462,
+                                                                                                                        "view":  7249,
+                                                                                                                        "danmaku":  2,
+                                                                                                                        "reply":  67,
+                                                                                                                        "fav":  38,
+                                                                                                                        "coin":  49,
+                                                                                                                        "share":  19,
+                                                                                                                        "now_rank":  0,
+                                                                                                                        "his_rank":  0,
+                                                                                                                        "like":  154,
+                                                                                                                        "dislike":  0,
+                                                                                                                        "evaluation":  "",
+                                                                                                                        "argue_msg":  "",
+                                                                                                                        "vt":  0,
+                                                                                                                        "vv":  7249
+                                                                                                                    },
+                                                                                                           "dynamic":  "",
+                                                                                                           "dimension":  {
+                                                                                                                             "width":  0,
+                                                                                                                             "height":  0,
+                                                                                                                             "rotate":  0
+                                                                                                                         },
+                                                                                                           "desc_v2":  null,
+                                                                                                           "is_chargeable_season":  false,
+                                                                                                           "is_blooper":  false,
+                                                                                                           "enable_vt":  0,
+                                                                                                           "vt_display":  "",
+                                                                                                           "type_id_v2":  0,
+                                                                                                           "type_name_v2":  "",
+                                                                                                           "is_lesson_video":  0
+                                                                                                       },
+                                                                                               "page":  {
+                                                                                                            "cid":  500001655262687,
+                                                                                                            "page":  1,
+                                                                                                            "from":  "vupload",
+                                                                                                            "part":  "免费配送技术员？开服再也不求人",
+                                                                                                            "duration":  222,
+                                                                                                            "vid":  "",
+                                                                                                            "weblink":  "",
+                                                                                                            "dimension":  {
+                                                                                                                              "width":  1920,
+                                                                                                                              "height":  1080,
+                                                                                                                              "rotate":  0
+                                                                                                                          }
+                                                                                                        },
+                                                                                               "bvid":  "BV1XLpDe5Esf",
+                                                                                               "pages":  [
+                                                                                                             {
+                                                                                                                 "cid":  500001655262687,
+                                                                                                                 "page":  1,
+                                                                                                                 "from":  "vupload",
+                                                                                                                 "part":  "免费配送技术员？开服再也不求人",
+                                                                                                                 "duration":  222,
+                                                                                                                 "vid":  "",
+                                                                                                                 "weblink":  "",
+                                                                                                                 "dimension":  {
+                                                                                                                                   "width":  1920,
+                                                                                                                                   "height":  1080,
+                                                                                                                                   "rotate":  0
+                                                                                                                               }
+                                                                                                             }
+                                                                                                         ]
+                                                                                           },
+                                                                                           {
+                                                                                               "season_id":  235613,
+                                                                                               "section_id":  271280,
+                                                                                               "id":  83926871,
+                                                                                               "aid":  113120043405251,
+                                                                                               "cid":  25829574053,
+                                                                                               "title":  "简幻欢硬盘如果用超额了，会发生什么",
+                                                                                               "attribute":  0,
+                                                                                               "arc":  {
+                                                                                                           "aid":  113120043405251,
+                                                                                                           "videos":  0,
+                                                                                                           "type_id":  0,
+                                                                                                           "type_name":  "",
+                                                                                                           "copyright":  0,
+                                                                                                           "pic":  "http://i1.hdslb.com/bfs/archive/375be2fd571adc9ef7a22979dc1f9d4f05e9ac2e.jpg",
+                                                                                                           "title":  "简幻欢硬盘如果用超额了，会发生什么",
+                                                                                                           "pubdate":  1726100160,
+                                                                                                           "ctime":  1726100160,
+                                                                                                           "desc":  "",
+                                                                                                           "state":  0,
+                                                                                                           "duration":  104,
+                                                                                                           "rights":  {
+                                                                                                                          "bp":  0,
+                                                                                                                          "elec":  0,
+                                                                                                                          "download":  0,
+                                                                                                                          "movie":  0,
+                                                                                                                          "pay":  0,
+                                                                                                                          "hd5":  0,
+                                                                                                                          "no_reprint":  0,
+                                                                                                                          "autoplay":  0,
+                                                                                                                          "ugc_pay":  0,
+                                                                                                                          "is_cooperation":  0,
+                                                                                                                          "ugc_pay_preview":  0,
+                                                                                                                          "arc_pay":  0,
+                                                                                                                          "free_watch":  0
+                                                                                                                      },
+                                                                                                           "author":  {
+                                                                                                                          "mid":  1493209225,
+                                                                                                                          "name":  "简幻欢",
+                                                                                                                          "face":  "https://i1.hdslb.com/bfs/face/7311da67615b711a696996fd7a95961217238ff6.jpg"
+                                                                                                                      },
+                                                                                                           "stat":  {
+                                                                                                                        "aid":  113120043405251,
+                                                                                                                        "view":  12235,
+                                                                                                                        "danmaku":  0,
+                                                                                                                        "reply":  18,
+                                                                                                                        "fav":  25,
+                                                                                                                        "coin":  21,
+                                                                                                                        "share":  18,
+                                                                                                                        "now_rank":  0,
+                                                                                                                        "his_rank":  0,
+                                                                                                                        "like":  187,
+                                                                                                                        "dislike":  0,
+                                                                                                                        "evaluation":  "",
+                                                                                                                        "argue_msg":  "",
+                                                                                                                        "vt":  0,
+                                                                                                                        "vv":  12235
+                                                                                                                    },
+                                                                                                           "dynamic":  "",
+                                                                                                           "dimension":  {
+                                                                                                                             "width":  0,
+                                                                                                                             "height":  0,
+                                                                                                                             "rotate":  0
+                                                                                                                         },
+                                                                                                           "desc_v2":  null,
+                                                                                                           "is_chargeable_season":  false,
+                                                                                                           "is_blooper":  false,
+                                                                                                           "enable_vt":  0,
+                                                                                                           "vt_display":  "",
+                                                                                                           "type_id_v2":  0,
+                                                                                                           "type_name_v2":  "",
+                                                                                                           "is_lesson_video":  0
+                                                                                                       },
+                                                                                               "page":  {
+                                                                                                            "cid":  25829574053,
+                                                                                                            "page":  1,
+                                                                                                            "from":  "vupload",
+                                                                                                            "part":  "简幻欢硬盘如果用超额了，会发生什么",
+                                                                                                            "duration":  104,
+                                                                                                            "vid":  "",
+                                                                                                            "weblink":  "",
+                                                                                                            "dimension":  {
+                                                                                                                              "width":  1920,
+                                                                                                                              "height":  1080,
+                                                                                                                              "rotate":  0
+                                                                                                                          }
+                                                                                                        },
+                                                                                               "bvid":  "BV1Jf4kemEih",
+                                                                                               "pages":  [
+                                                                                                             {
+                                                                                                                 "cid":  25829574053,
+                                                                                                                 "page":  1,
+                                                                                                                 "from":  "vupload",
+                                                                                                                 "part":  "简幻欢硬盘如果用超额了，会发生什么",
+                                                                                                                 "duration":  104,
+                                                                                                                 "vid":  "",
+                                                                                                                 "weblink":  "",
+                                                                                                                 "dimension":  {
+                                                                                                                                   "width":  1920,
+                                                                                                                                   "height":  1080,
+                                                                                                                                   "rotate":  0
+                                                                                                                               }
+                                                                                                             }
+                                                                                                         ]
+                                                                                           },
+                                                                                           {
+                                                                                               "season_id":  235613,
+                                                                                               "section_id":  271280,
+                                                                                               "id":  85812770,
+                                                                                               "aid":  113188410494466,
+                                                                                               "cid":  25975718217,
+                                                                                               "title":  "99%玩家忽略，我的世界备份的重要性！！！",
+                                                                                               "attribute":  0,
+                                                                                               "arc":  {
+                                                                                                           "aid":  113188410494466,
+                                                                                                           "videos":  0,
+                                                                                                           "type_id":  0,
+                                                                                                           "type_name":  "",
+                                                                                                           "copyright":  0,
+                                                                                                           "pic":  "http://i1.hdslb.com/bfs/archive/54c39f3f7fefbae9e12ae1a8ecdf0ffbcf4131ce.jpg",
+                                                                                                           "title":  "99%玩家忽略，我的世界备份的重要性！！！",
+                                                                                                           "pubdate":  1727150340,
+                                                                                                           "ctime":  1727150340,
+                                                                                                           "desc":  "",
+                                                                                                           "state":  0,
+                                                                                                           "duration":  58,
+                                                                                                           "rights":  {
+                                                                                                                          "bp":  0,
+                                                                                                                          "elec":  0,
+                                                                                                                          "download":  0,
+                                                                                                                          "movie":  0,
+                                                                                                                          "pay":  0,
+                                                                                                                          "hd5":  0,
+                                                                                                                          "no_reprint":  0,
+                                                                                                                          "autoplay":  0,
+                                                                                                                          "ugc_pay":  0,
+                                                                                                                          "is_cooperation":  0,
+                                                                                                                          "ugc_pay_preview":  0,
+                                                                                                                          "arc_pay":  0,
+                                                                                                                          "free_watch":  0
+                                                                                                                      },
+                                                                                                           "author":  {
+                                                                                                                          "mid":  1493209225,
+                                                                                                                          "name":  "简幻欢",
+                                                                                                                          "face":  "https://i1.hdslb.com/bfs/face/7311da67615b711a696996fd7a95961217238ff6.jpg"
+                                                                                                                      },
+                                                                                                           "stat":  {
+                                                                                                                        "aid":  113188410494466,
+                                                                                                                        "view":  16499,
+                                                                                                                        "danmaku":  5,
+                                                                                                                        "reply":  137,
+                                                                                                                        "fav":  61,
+                                                                                                                        "coin":  66,
+                                                                                                                        "share":  10,
+                                                                                                                        "now_rank":  0,
+                                                                                                                        "his_rank":  0,
+                                                                                                                        "like":  256,
+                                                                                                                        "dislike":  0,
+                                                                                                                        "evaluation":  "",
+                                                                                                                        "argue_msg":  "",
+                                                                                                                        "vt":  0,
+                                                                                                                        "vv":  16499
+                                                                                                                    },
+                                                                                                           "dynamic":  "",
+                                                                                                           "dimension":  {
+                                                                                                                             "width":  0,
+                                                                                                                             "height":  0,
+                                                                                                                             "rotate":  0
+                                                                                                                         },
+                                                                                                           "desc_v2":  null,
+                                                                                                           "is_chargeable_season":  false,
+                                                                                                           "is_blooper":  false,
+                                                                                                           "enable_vt":  0,
+                                                                                                           "vt_display":  "",
+                                                                                                           "type_id_v2":  0,
+                                                                                                           "type_name_v2":  "",
+                                                                                                           "is_lesson_video":  0
+                                                                                                       },
+                                                                                               "page":  {
+                                                                                                            "cid":  25975718217,
+                                                                                                            "page":  1,
+                                                                                                            "from":  "vupload",
+                                                                                                            "part":  "99%玩家忽略，我的世界备份的重要性！！！",
+                                                                                                            "duration":  58,
+                                                                                                            "vid":  "",
+                                                                                                            "weblink":  "",
+                                                                                                            "dimension":  {
+                                                                                                                              "width":  1920,
+                                                                                                                              "height":  1080,
+                                                                                                                              "rotate":  0
+                                                                                                                          }
+                                                                                                        },
+                                                                                               "bvid":  "BV1mPsXe7EEN",
+                                                                                               "pages":  [
+                                                                                                             {
+                                                                                                                 "cid":  25975718217,
+                                                                                                                 "page":  1,
+                                                                                                                 "from":  "vupload",
+                                                                                                                 "part":  "99%玩家忽略，我的世界备份的重要性！！！",
+                                                                                                                 "duration":  58,
+                                                                                                                 "vid":  "",
+                                                                                                                 "weblink":  "",
+                                                                                                                 "dimension":  {
+                                                                                                                                   "width":  1920,
+                                                                                                                                   "height":  1080,
+                                                                                                                                   "rotate":  0
+                                                                                                                               }
+                                                                                                             }
+                                                                                                         ]
+                                                                                           }
+                                                                                       ]
+                                                                      }
+                                                                  ]
+                                                 },
+                                  "is_season_display":  true,
+                                  "user_garb":  {
+                                                    "url_image_ani_cut":  ""
+                                                },
+                                  "honor_reply":  {
+
+                                                  },
+                                  "like_icon":  "",
+                                  "need_jump_bv":  false,
+                                  "disable_show_up_info":  false,
+                                  "is_story_play":  1,
+                                  "is_view_self":  false
+                              }
+                 }
+}
