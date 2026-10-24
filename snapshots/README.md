@@ -1,3 +1,9 @@
+---
+layout: default
+title: 快照说明
+nav_exclude: true
+---
+
 # 快照目录
 
 本目录保存本文引用的公开数据在**特定时刻**的原始读数。
