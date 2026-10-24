@@ -1,0 +1,60 @@
+name: 纠错
+description: 现有条目有错、链接失效、时间写错、来源不准
+title: "[纠错] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        纠错优先于新增。一条错误不被指出，整份文档的可信度都会受影响。
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: 类型
+      options:
+        - 事实错误（时间、数字、账号写错）
+        - 来源错误（引用错了、来源不支持该条）
+        - 链接失效
+        - 表述问题（含有推断、归因或评价）
+        - 隐私问题（出现了不该出现的个人信息）
+        - 其他
+    validations:
+      required: true
+
+  - type: input
+    id: where
+    attributes:
+      label: 位置
+      description: 章节号或锚点，例如 3.6 / #c13
+      placeholder: 3.4
+    validations:
+      required: true
+
+  - type: textarea
+    id: current
+    attributes:
+      label: 现在写的是什么
+      render: text
+    validations:
+      required: true
+
+  - type: textarea
+    id: correction
+    attributes:
+      label: 应该是什么
+      render: text
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 依据
+      description: 能支持你这个说法的来源。没有来源的纠错也会被记录，但会标为「存疑」。
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        **隐私类问题请勿在 issue 里贴出具体信息**，只说明位置即可，会直接处理。

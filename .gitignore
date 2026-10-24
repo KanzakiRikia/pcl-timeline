@@ -9,6 +9,12 @@ notes-technical.md
 .vscode/
 .idea/
 
+# Jekyll
+_site/
+.jekyll-cache/
+.sass-cache/
+.jekyll-metadata
+
 # OS
 Thumbs.db
 Desktop.ini

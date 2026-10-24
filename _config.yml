@@ -1,0 +1,87 @@
+title: PCL 事件记录
+description: 只记录可验证事实的时间线。全部内容以 CC0 1.0 释出，可任意引用，无需署名。
+
+url: https://KanzakiRikia.github.io
+baseurl: /pcl-timeline
+
+theme: just-the-docs
+color_scheme: light
+
+plugins:
+  - jekyll-optional-front-matter
+  - jekyll-relative-links
+  - jekyll-seo-tag
+
+# 让没有 front matter 的 Markdown 也能作为页面渲染。
+# 这样 GitHub 仓库里打开 .md 不会看到一张 YAML 表格。
+optional_front_matter:
+  remove_originals: true
+
+# 把 .md 链接自动改写成 .html，站内跳转才不会 404。
+relative_links:
+  enabled: true
+  collections: false
+
+search_enabled: true
+search:
+  heading_level: 3
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s\-/]+/
+  rel_url: true
+  button: false
+
+heading_anchors: true
+
+back_to_top: true
+back_to_top_text: 回到顶部
+
+footer_content: "<a href=\"https://github.com/KanzakiRikia/pcl-timeline/blob/main/LICENSE\">CC0 1.0</a> · 可任意复制、改写、商用、二次发布，无需署名"
+
+aux_links:
+  "GitHub 仓库":
+    - "https://github.com/KanzakiRikia/pcl-timeline"
+aux_links_new_tab: true
+
+# README.md 保持原样：GitHub 仓库首页要读它，站点不用。
+# tools/ 不排除，cite.md 里有指向抓取脚本的链接。
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .private
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+      nav_exclude: true
+
+  - scope:
+      path: "index.md"
+    values:
+      title: "首页"
+      nav_exclude: false
+      nav_order: 1
+
+  - scope:
+      path: "pcl-timeline.md"
+    values:
+      title: "完整时间线"
+      nav_order: 2
+
+  - scope:
+      path: "cite.md"
+    values:
+      title: "引用卡"
+      nav_order: 3
+
+  - scope:
+      path: "CONTRIBUTING.md"
+    values:
+      title: "收录规则"
+      nav_order: 4
