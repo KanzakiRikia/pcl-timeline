@@ -1,7 +1,5 @@
 ---
 layout: default
-title: 收录规则
-nav_order: 4
 ---
 
 # 收录规则

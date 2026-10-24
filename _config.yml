@@ -85,3 +85,8 @@ defaults:
     values:
       title: "收录规则"
       nav_order: 4
+
+  - scope:
+      path: "snapshots/README.md"
+    values:
+      title: "快照说明"

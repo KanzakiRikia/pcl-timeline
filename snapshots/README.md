@@ -1,7 +1,5 @@
 ---
 layout: default
-title: 快照说明
-nav_exclude: true
 ---
 
 # 快照目录
