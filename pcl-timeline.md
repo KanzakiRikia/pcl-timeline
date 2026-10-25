@@ -575,6 +575,22 @@ PageID = FormMain.PageSubType.DownloadMod
 If(RestrictMcDownload, "", "下载")
 ```
 
+**二·补、实现方式：常量禁用，未删除功能代码**
+
+| 检查项 | 结果 |
+|---|---|
+| 删除文件（`deleted file mode`） | **0 个** |
+| 新增文件（`new file mode`） | **0 个** |
+| 文件重命名 | 0 个 |
+| `Modules/Minecraft/ModDownload.vb` | +1 −2，仅一处折行合并，下载逻辑未变动 |
+
+`PageDownloadLeft.xaml.vb` 的默认落点由 `DownloadInstall`（安装）改为 `DownloadMod`（模组）。
+**即：页面未删除，是默认落点与可见性被重定向。共源码中相关页面与逻辑仍在。**
+
+**功能边界**：被禁用的是「Minecraft 本体下载」与「整合包安装」；
+模组下载（`DownloadMod`）不受影响，且成为该页的默认落点
+（`PageResource.xaml.vb` 仅对 `ResourceTypes.ModPack` 隐藏搜索按钮，对模组未作隐藏）。
+
 **三、同一次提交新增的两条更新日志（原文）**
 
 ```vb
