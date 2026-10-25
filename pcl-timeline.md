@@ -510,6 +510,106 @@ End If
 
 ---
 
+<a id="s3-7"></a>
+
+### 3.7 2.99.0.1：删除「暂时」（2026-10-25 提交）
+
+本节与 3.5 同性质：**不依赖截图，不依赖转述**。
+全部改动在公开仓库的提交 `e3d1cffe` 中，任何人可自行比对。
+
+> **本节可支撑的结论**：截至 2026-10-25，PCL 的 MC 下载功能已从「暂时不再提供」改为「不再提供」，
+> 并移除了全部相关界面入口。本节**不**说明关闭的原因，**不**推断是否存在外部要求，
+> 也**不**评价该决定的合理性。
+
+**提交 `e3d1cffed50dd2c7d57f5c0426c5b59ae92d28ce`　「2.99.0.1」**
+**时间：2026-10-25 00:27:41（北京时间）**
+**改动：16 个文件，+940 −27 行**
+
+| 文件 | 改动 | 内容 |
+|---|---|---|
+| `FormMain.xaml.vb` | +11 −3 | 更新日志文案：删除「暂时」；新增 2 条 |
+| `Pages/PageDownload/PageDownloadLeft.xaml.vb` | +10 −0 | 新增「隐藏 MC 下载」逻辑 |
+| `Modules/Base/ModBase.vb` | +3 −3 | 版本号（413→415 正式，414→416 快照） |
+| `My Project/AssemblyInfo.vb` | +2 −2 | 版本号 |
+| `Modules/Minecraft/ModModpack.vb` | +2 −2 | 提示语删除「暂时」（2 处） |
+| `Modules/Minecraft/ModMinecraft.vb` | +1 −1 | 更新提示框的「下载」按钮改为空字符串 |
+| `Pages/PageDownload/PageDownloadInstall.xaml.vb` | +1 −1 | 提示语删除「暂时」 |
+| `Pages/PageDownload/PageDownloadLeft.xaml` | +1 −1 | — |
+| `Pages/PageDownload/Resource/PageResource.xaml.vb` | +1 −1 | 整合包搜索按钮隐藏 |
+| `Pages/PageInstance/PageInstanceModDisabled.xaml.vb` | +1 −1 | 入口隐藏条件 |
+| `Pages/PageLaunch/PageLaunchLeft.xaml.vb` | +1 −1 | 入口隐藏条件 |
+| `Pages/PageSelectLeft.xaml.vb` | +1 −1 | 不再添加「安装」项 |
+| `Pages/PageSelectRight.xaml.vb` | +1 −1 | 空状态「下载」按钮隐藏 |
+| `Modules/Minecraft/ModDownload.vb` | +1 −2 | 仅格式化 |
+| `Pages/PageOther/PageOtherAbout.xaml` | +902 −6 | 赞助者名单 |
+| `MeloongCore` | +1 −1 | 子模块指针 `98157d65c` → `4c60c2962` |
+
+**一、提示语：删除「暂时」，共 5 处**
+
+```vb
+' 2.99.0.0（e4b0489）
+"为遵守相关法律法规，PCL 暂时不再提供 MC 下载功能，非常抱歉 qwq……"
+
+' 2.99.0.1（e3d1cffe）
+"为遵守相关法律法规，PCL 不再提供 MC 下载功能，非常抱歉 qwq……"
+```
+
+该字符串在本次提交中被修改 5 处：`FormMain.xaml.vb` 2 处（更新日志文案、异常捕获比对）、
+`ModModpack.vb` 2 处（`Hint` 与 `Throw`）、`PageDownloadInstall.xaml.vb` 1 处。
+**不是新增一条说明，是把每一处出现的地方逐个删掉了这两个字。**
+
+**二、界面入口移除**
+
+```vb
+' PageDownloadLeft.xaml.vb（新增 10 行）
+'隐藏 MC 下载
+If Not RestrictMcDownload Then Return
+PageID = FormMain.PageSubType.DownloadMod
+```
+
+其余 5 处以 `RestrictMcDownload OrElse ...` 的形式并入原有的隐藏条件：
+`PageLaunchLeft`、`PageSelectLeft`、`PageSelectRight`、`PageResource`、`PageInstanceModDisabled`。
+`ModMinecraft.vb` 中更新提示框的「下载」按钮被替换为：
+
+```vb
+If(RestrictMcDownload, "", "下载")
+```
+
+**三、同一次提交新增的两条更新日志（原文）**
+
+```vb
+FeatureList.Add(New KeyValuePair(Of Integer, String)(4, "删除：MC 下载功能相关入口"))
+FeatureList.Add(New KeyValuePair(Of Integer, String)(1, "优化：为设置更新添加部分黑名单"))
+```
+
+**四、未改动的部分**
+
+`ModSecret.vb` 中 `Public Const RestrictMcDownload As Boolean = True` **未被修改**。
+3.5 的结论（编译期常量，无运行时开关）在本版本中继续成立。
+
+**五、本文无法核对的部分**
+
+「为设置更新添加部分黑名单」的实现代码不在本次提交的 16 个文件中。
+该功能可能位于子模块 `MeloongCore`（本次指针由 `98157d65c` 变为 `4c60c2962`），
+其内部改动不在本仓库可见范围内。**本文不对该功能的实际范围作任何说明。**
+
+**六、作者同日的文字说明（来源待补）**
+
+作者于 2026-10-25 发布更新日志，其中两段写道：
+
+> 由于 GitHub 号被封了、CDN 还在被攻击、某 B 站不能说的平台目前关站，只能在这里发更新日志了……
+>
+> 我也非常希望能尽快向大家公开包括为何关闭下载，以及其他受到攻击相关的细节，
+> 但，呃，如果可以说了的话我就会尽量说明的……
+
+**本文尚未取得该条动态的可核验链接或截图，上述转录标记为「待核准」。**
+取得原始页面后将补入 `snapshots/` 并更新本节。
+
+**完整 diff**：[`snapshots/github/e3d1cffed50d.patch`](snapshots/github/e3d1cffed50d.patch)（112,402 字节）
+**GitHub 页面**：`github.com/Meloong-Git/PCL/commit/e3d1cffed50dd2c7d57f5c0426c5b59ae92d28ce`
+
+---
+
 <a id="s4"></a>
 
 ## 四、产品与运营事实（可验证）
